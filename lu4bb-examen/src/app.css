@@ -1,5 +1,11 @@
-.home-text {
-  padding: 20px;
+.logo {
+  display: block;
+  margin: 0 auto;
+  max-width: 200px;
+}
+
+.home-content {
   text-align: center;
+  margin-top: 50px;
   padding-top: 5%;
 }
