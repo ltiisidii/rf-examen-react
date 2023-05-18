@@ -1,6 +1,7 @@
 # dependencies
 node_modules
 lu4bb-examen/node_modules/.cache/
+lu4bb-examen/node_modules/.cache/default-development
 
 # testing
 /coverage
