@@ -1,0 +1,16 @@
+.logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 200px;
+  }
+  
+  .home-container {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 5%;
+  }
+  
+  .home-content {
+    /* Estilos adicionales para el contenido */
+  }
+  

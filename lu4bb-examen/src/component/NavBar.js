@@ -10,7 +10,7 @@ import {
   Menu,
   MenuItem,
 } from '@mui/material';
-import { Home } from '@mui/icons-material';
+import { MdHome } from 'react-icons/md';
 import { isMobile } from 'react-device-detect';
 
 const NavBar = () => {
@@ -37,7 +37,7 @@ const NavBar = () => {
         <Toolbar disableGutters>
           <Box sx={{ mr: 1 }}>
             <IconButton size="large" color="inherit">
-              <Home />
+              <MdHome />
             </IconButton>
           </Box>
           <Typography variant="h6" component="h1" noWrap sx={{ flexGrow: 1 }}>

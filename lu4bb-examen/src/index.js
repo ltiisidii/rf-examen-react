@@ -1,8 +1,26 @@
-import { createRoot } from 'react-dom/client';
-import App from './App';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Home from './component/Home';
+import SimuladorNovicio from './component/SimuladorNovicio';
+import InfoTecnica from './component/InfoTecnica';
+import InfoReglamentacion from './component/InfoReglamentacion';
+import NavBar from './component/NavBar';
 
-createRoot(document.getElementById('root')).render(
+const Root = () => {
+  return (
+    <Router>
+      <div id="root">
+        <NavBar />
+        <Routes>
+          <Route exact path="/" element={<Home />} />
+          <Route path="/simulador-novicio" element={<SimuladorNovicio />} />
+          <Route path="/info-tecnica" element={<InfoTecnica />} />
+          <Route path="/info-reglamentacion" element={<InfoReglamentacion />} />
+        </Routes>
+      </div>
+    </Router>
+  );
+};
 
-    <App />
-
-);
+ReactDOM.render(<Root />, document.getElementById('root'));
