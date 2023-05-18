@@ -1,0 +1,29 @@
+.info-tecnica-container {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .fact-table {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .fact-row {
+    display: grid;
+    gap: 5px;
+  }
+  
+  .fact-row h3 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .fact-row p {
+    font-size: 14px;
+  }
+  
+  .fact-row hr {
+    border: none;
+    border-top: 1px solid #ccc;
+  }
+  

@@ -1,10 +1,20 @@
 import React from 'react';
+import data from '../sources/facts-novicio-tecnica.json';
+import './InfoTecnica.css';
 
 const InfoTecnica = () => {
   return (
-    <div>
+    <div className="info-tecnica-container">
       <h2>Información Técnica</h2>
-      {/* Contenido de la información técnica */}
+      <div className="fact-table">
+        {data.map((fact) => (
+          <div key={fact.id} className="fact-row">
+            <h3>{fact.title}</h3>
+            <p>{fact.content}</p>
+            <hr />
+          </div>
+        ))}
+      </div>
     </div>
   );
 };
