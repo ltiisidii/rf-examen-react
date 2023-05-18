@@ -58,7 +58,7 @@ const Learn = () => {
               <Grid container justifyContent="flex-end">
                 <Item>
                   <Typography variant="h5" gutterBottom component="div">
-                    The information above was gotten from the following sources
+                    Esta informacion fue obtenida desde
                   </Typography>
 
                   <Typography variant="body1" gutterBottom>
