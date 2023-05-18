@@ -27,11 +27,11 @@ import {AppBar, Toolbar, Typography, makeStyles, Button, IconButton, Drawer, Lin
         },
         {
           displayName: "General",
-          href: "/Learn/General",
+          href: "#",
         },
         {
           displayName: "Superior",
-          href: "/Learn/Advanced",
+          href: "#",
         },
       ],
     },
