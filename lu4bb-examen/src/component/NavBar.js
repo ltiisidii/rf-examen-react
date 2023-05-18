@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import {
   AppBar,
   Box,
@@ -43,7 +44,9 @@ const NavBar = () => {
           <Typography variant="h6" component="h1" noWrap sx={{ flexGrow: 1 }}>
             {getTitle()}
           </Typography>
-          <Button color="inherit">Home</Button>
+          <Button color="inherit" component={Link} to="/">
+            Home
+          </Button>
           <Button color="inherit" onClick={openNovicioMenu}>
             Novicio
           </Button>
@@ -53,9 +56,15 @@ const NavBar = () => {
             open={Boolean(novicioMenuAnchor)}
             onClose={closeNovicioMenu}
           >
-            <MenuItem onClick={closeNovicioMenu}>Simulador</MenuItem>
-            <MenuItem onClick={closeNovicioMenu}>Info Técnica</MenuItem>
-            <MenuItem onClick={closeNovicioMenu}>Info Reglamentación</MenuItem>
+            <MenuItem onClick={closeNovicioMenu} component={Link} to="/simulador-novicio">
+              Simulador
+            </MenuItem>
+            <MenuItem onClick={closeNovicioMenu} component={Link} to="/info-tecnica">
+              Info Técnica
+            </MenuItem>
+            <MenuItem onClick={closeNovicioMenu} component={Link} to="/info-reglamentacion">
+              Info Reglamentación
+            </MenuItem>
           </Menu>
         </Toolbar>
       </Container>
