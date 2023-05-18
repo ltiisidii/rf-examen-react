@@ -11,6 +11,7 @@ import {
   MenuItem,
 } from '@mui/material';
 import { Home } from '@mui/icons-material';
+import { isMobile } from 'react-device-detect';
 
 const NavBar = () => {
   const [novicioMenuAnchor, setNovicioMenuAnchor] = React.useState(null);
@@ -23,6 +24,13 @@ const NavBar = () => {
     setNovicioMenuAnchor(null);
   };
 
+  const getTitle = () => {
+    if (isMobile) {
+      return 'LU4BB';
+    }
+    return 'Buenos Aires Radio Club';
+  };
+
   return (
     <AppBar>
       <Container maxWidth="lg">
@@ -33,7 +41,7 @@ const NavBar = () => {
             </IconButton>
           </Box>
           <Typography variant="h6" component="h1" noWrap sx={{ flexGrow: 1 }}>
-            Buenos Aires Radio Club
+            {getTitle()}
           </Typography>
           <Button color="inherit">Home</Button>
           <Button color="inherit" onClick={openNovicioMenu}>
