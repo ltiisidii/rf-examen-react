@@ -1,12 +1,21 @@
-import React from 'react';
 
-const InfoReglamentacion = () => {
+import React from 'react';
+import facts  from '../sources/facts-novicio-reglamentacion.json';
+
+const InfoTecnica = () => {
   return (
     <div>
-      <h2>Información de Reglamentación</h2>
-      {/* Contenido de la información de reglamentación */}
+      <h2>Información Reglamentación</h2>
+      {facts.map((fact, index) => (
+        <div key={fact.id}>
+          {index > 0 && <hr />} {/* Separador visible */}
+          <p>{fact.id}</p> {/* Mostrar el ID */}
+          <h3>{fact.title}</h3>
+          <p>{fact.content}</p>
+        </div>
+      ))}
     </div>
   );
 };
 
-export default InfoReglamentacion;
+export default InfoTecnica;
