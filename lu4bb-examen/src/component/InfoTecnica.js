@@ -8,9 +8,9 @@ const InfoTecnica = () => {
       {facts.map((fact, index) => (
         <div key={fact.id}>
           {index > 0 && <hr />} {/* Separador visible */}
-          <p>{fact.id}</p> {/* Mostrar el ID */}
+          <p style={{ color: 'red', fontSize: '16px', fontWeight: 'bold' }}>{fact.id}</p> {/* Mostrar el ID */}
           <h3>{fact.title}</h3>
-          <p>{fact.content}</p>
+          <p style={{ color: 'Green', fontSize: '16px', fontWeight: 'bold' }}>{fact.content}</p>
         </div>
       ))}
     </div>
