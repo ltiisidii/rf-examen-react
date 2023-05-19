@@ -1,6 +1,6 @@
 
 import React from 'react';
-import facts  from '../sources/facts-novicio-tecnica.json';
+import facts  from '../sources/facts-novicio-reglamentacion.json';
 
 const InfoReglamentacion = () => {
   return (
