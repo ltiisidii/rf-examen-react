@@ -1,8 +1,8 @@
 
 import React from 'react';
-import facts  from '../sources/facts-novicio-reglamentacion.json';
+import facts  from '../sources/facts-novicio-tecnica.json';
 
-const InfoTecnica = () => {
+const InfoReglamentacion = () => {
   return (
     <div>
       <h2>Información Reglamentación</h2>
@@ -18,4 +18,4 @@ const InfoTecnica = () => {
   );
 };
 
-export default InfoTecnica;
+export default InfoReglamentacion;
