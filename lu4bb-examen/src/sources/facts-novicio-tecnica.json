@@ -52,714 +52,497 @@
 },
 {
 "id": "11",
-"title": "Lorem ipsum dolor sit amet",
-"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+"title": "¿Qué potencia se producirá en una resistencia de 400 ohm, si la tensión aplicada es de 20V?",
+"content": "1 Vatio."
 },
 {
 "id": "12",
-"title": "Pellentesque habitant morbi tristique",
-"content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+"title": "¿Qué tipo de antena puede ser una buena elección como parte de un equipo portable para bandas de HF, para ser instalada en caso de emergencia?",
+"content": "Dipolo de 1/2 longitud de onda."
 },
 {
 "id": "13",
-"title": "Nulla facilisi",
-"content": "Nulla facilisi."
+"title": "¿Qué elemento de los señalados, permite elevar por si solo, una tensión alterna?",
+"content": "Transformador."
 },
 {
 "id": "14",
-"title": "Integer semper varius",
-"content": "Integer semper varius nulla, in gravida erat auctor eget."
+"title": "El valor máximo de una corriente alterna es de 200 mA. ¿Cuál es su valor eficaz?",
+"content": "141,1 mA."
 },
 {
 "id": "15",
-"title": "Vestibulum ante ipsum primis",
-"content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae."
+"title": "En un receptor el demodulador.",
+"content": "Extrae el mensaje a partir de la señal modulada."
 },
 {
 "id": "16",
-"title": "Sed rutrum nunc quis",
-"content": "Sed rutrum nunc quis condimentum commodo."
+"title": "En un transmisor, el modulador:",
+"content": "Modifica la amplitud o frecuencia de la portadora pura, conforme a la señal del mensaje."
 },
 {
 "id": "17",
-"title": "Fusce vitae nibh eget",
-"content": "Fusce vitae nibh eget leo efficitur condimentum."
+"title": "Para proteger un equipo de 220 Voltios y 1 KW de consumo, ¿qué valor de fusible sería conveniente instalar en la línea de alimentación?",
+"content": "6 A."
 },
 {
 "id": "18",
-"title": "Morbi dapibus ante sed",
-"content": "Morbi dapibus ante sed dapibus sollicitudin."
+"title": "En un capacitor, ¿qué fenómeno se produce entre la tensión y la corriente?",
+"content": "La corriente adelanta a la tensión."
 },
 {
 "id": "19",
-"title": "Aliquam erat volutpat",
-"content": "Aliquam erat volutpat."
+"title": "¿Cuándo existe resonancia en un circuito?",
+"content": "Cuando la reactancia capacitiva es igual a la reactancia inductiva."
 },
 {
 "id": "20",
-"title": "Praesent feugiat consectetur nunc",
-"content": "Praesent feugiat consectetur nunc, id aliquet lectus finibus a."
+"title": "¿Cómo se denomina el material que separa las placas de un capacitor?",
+"content": "Dieléctrico."
 },
 {
 "id": "21",
-"title": "Cras lacinia ligula nec",
-"content": "Cras lacinia ligula nec risus volutpat, vitae eleifend nunc auctor."
+"title": "¿Qué tipo de corriente entrega una fuente de alimentación típica, usada en transceptores?",
+"content": "Continua."
 },
 {
 "id": "22",
-"title": "Nam mattis sagittis erat",
-"content": "Nam mattis sagittis erat, a aliquam nulla aliquet ut."
+"title": "¿De qué elemento se compone un puente rectificador?",
+"content": "Diodos."
 },
 {
 "id": "23",
-"title": "Etiam euismod tempus ligula",
-"content": "Etiam euismod tempus ligula, sed pellentesque nisi iaculis vel."
+"title": "¿Cómo se denominan los elementos que conforman un transistor?",
+"content": "Colector, base y emisor."
 },
 {
 "id": "24",
-"title": "Vivamus luctus maximus felis",
-"content": "Vivamus luctus maximus felis ac tristique."
+"title": "Tres capacitores de 6 nf son conectados en serie, ¿qué capacidad presenta el conjunto?",
+"content": "2,0 nf."
 },
 {
 "id": "25",
-"title": "Mauris dapibus commodo risus",
-"content": "Mauris dapibus commodo risus, id lacinia lectus scelerisque sit amet."
+"title": "¿Qué elementos indispensables componen un transformador?",
+"content": "Dos bobinas."
 },
 {
 "id": "26",
-"title": "Nunc id semper justo",
-"content": "Nunc id semper justo, at volutpat urna efficitur sit amet."
+"title": "¿Qué elementos indispensables componen una fuente de alimentación típica de 12 Volts c.c. para una estación de radioaficionado.?",
+"content": "Transformador, puente de diodos, capacitor, regulador y fusible."
 },
 {
 "id": "27",
-"title": "Fusce tincidunt nunc lorem",
-"content": "Fusce tincidunt nunc lorem, ac placerat nisl feugiat nec."
+"title": "El primario de un transformador tiene 60 espiras el secundario 300 espiras, si aplicamos al primario 12 V c.a., ¿qué tensión tendremos en el secundario?",
+"content": "60 V."
 },
 {
 "id": "28",
-"title": "Donec posuere mi id",
-"content": "Donec posuere mi id felis tristique, nec iaculis leo vulputate."
+"title": "En clase de emisión A3E :",
+"content": "La portadora es modulada en amplitud. (AM)"
 },
 {
 "id": "29",
-"title": "Aliquam erat volutpat",
-"content": "Aliquam erat volutpat, vulputate in ligula nec, tristique fermentum felis."
+"title": "Se desea utilizar en la banda de 80 mts. una antena dipolo de 1/2 longitud de onda alimentada en su centro por un cable coaxil de 75 ohms, en la que se midieron los siguientes valores de ROE: En 3500 Khz. ROE=1,1. En 3600 Khz.: ROE=2. En 3700 Khz.: ROE=3. En 3750 Khz.: ROE=4 ¿Qué debemos hacer con dicha antena?",
+"content": "Acortarla."
 },
 {
 "id": "30",
-"title": "Praesent eget leo ut",
-"content": "Praesent eget leo ut est viverra molestie."
+"title": "Para obtener una buena relación de ROE, ¿qué es conveniente?",
+"content": "Baja potencia reflejada y alta potencia incidente."
 },
 {
 "id": "31",
-"title": "Curabitur sed dapibus mi",
-"content": "Curabitur sed dapibus mi, at volutpat nulla."
+"title": "Describir en bloque un receptor superheterodino en clase de emisión A3E :",
+"content": "Amplificador de RF, Mezclador, Oscilador de RF, Amplificador de FI, Detector, Amplificador de audio y parlante."
 },
 {
 "id": "32",
-"title": "Nam tempus ante sed",
-"content": "Nam tempus ante sed massa sollicitudin lacinia."
+"title": "¿Qué elemento se utiliza para adaptar una antena dipolo con una línea de alimentación desbalanceada?",
+"content": "Balún."
 },
 {
 "id": "33",
-"title": "Etiam quis elementum tortor",
-"content": "Etiam quis elementum tortor, sit amet fringilla lorem."
+"title": "¿Qué instrumento se utiliza para medir la potencia de un transmisor?",
+"content": "Vatímetro."
 },
 {
 "id": "34",
-"title": "Vivamus auctor ultrices felis",
-"content": "Vivamus auctor ultrices felis, vitae finibus metus condimentum et."
+"title": "¿Para qué se emplea el amplificador de FI?",
+"content": "Para obtener ganancia y selectividad."
 },
 {
 "id": "35",
-"title": "Mauris convallis velit sed",
-"content": "Mauris convallis velit sed purus lobortis fermentum."
+"title": "¿Qué función cumple el mezclador en un receptor superheterodino?",
+"content": "Conversión de la señal captada en otra señal de las mismas características pero de frecuencia distinta para que pueda ser filtrada y amplificada con mayor facilidad."
 },
 {
 "id": "36",
-"title": "Nunc sed ex aliquam",
-"content": "Nunc sed ex aliquam, cursus justo in, posuere dolor."
+"title": "¿Qué instrumento se utiliza para ver la forma de onda en un circuito eléctrico?",
+"content": "Osciloscopio."
 },
 {
 "id": "37",
-"title": "Fusce fringilla facilisis justo",
-"content": "Fusce fringilla facilisis justo id vehicula."
+"title": "Describir en bloque un receptor de F3E :",
+"content": "Amplificador de RF, Mezclador, Oscilador de RF, Filtro, Amplificador de FI, Limitador, Discriminador de frecuencia, amplificador de audio y parlante."
 },
 {
 "id": "38",
-"title": "Donec a ligula eu",
-"content": "Donec a ligula eu dui varius cursus."
+"title": "Defina en bloques, un transmisor de Banda Lateral Unica (J3E) :",
+"content": "Oscilador de RF, Modulador balanceado, Amplificador de micrófono, filtro, mezclador, amplificador lineal."
 },
 {
 "id": "39",
-"title": "Aliquam eget ante non",
-"content": "Aliquam eget ante non diam sollicitudin vulputate vel ut nunc."
+"title": "En clase de emisión F3E :",
+"content": "La señal de micrófono hace variar la frecuencia de la portadora."
 },
 {
 "id": "40",
-"title": "Praesent dapibus lectus at",
-"content": "Praesent dapibus lectus at nibh condimentum tincidunt."
+"title": "Un dipolo de media onda, ¿cómo irradia?",
+"content": "En forma bidireccional."
 },
 {
 "id": "41",
-"title": "Curabitur maximus felis et",
-"content": "Curabitur maximus felis et sem fringilla fermentum."
+"title": "¿Qué ventaja tiene una señal de BLU (SSB) con respecto a una señal AM?",
+"content": "El ancho de banda es la mitad y por lo tanto se hace un mejor aprovechamiento del espectro radioeléctrico."
 },
 {
 "id": "42",
-"title": "Nam accumsan ex id",
-"content": "Nam accumsan ex id nisl pellentesque efficitur."
+"title": "Disponemos de un transformador cuyo primario es alimentado con 220 V c.a. y tiene 1100 Espiras. El secundario nos deberá suministrar 15 V c.a., cuantas espiras deberá tener?",
+"content": "75 espiras."
 },
 {
 "id": "43",
-"title": "Etiam lacinia sem at",
-"content": "Etiam lacinia sem at nisi condimentum, vitae vestibulum odio dapibus."
+"title": "¿Qué intensidad de corriente circula por una resistencia de 5000 ohms si se le aplica 250 V?",
+"content": "0,05 A."
 },
 {
 "id": "44",
-"title": "Vivamus sit amet dui",
-"content": "Vivamus sit amet dui auctor, tempus nisi in, lacinia libero."
+"title": "Cuándo se aplica una tensión de 150 V a un circuito, la corriente medida es de 2,5 A ¿Cuál es la resistencia del circuito?",
+"content": "ninguna es correcta."
 },
 {
 "id": "45",
-"title": "Mauris suscipit lacus vitae",
-"content": "Mauris suscipit lacus vitae lacus congue rutrum."
+"title": "El ancho de banda de una señal de BLU (SSB) es:",
+"content": "Igual de la correspondiente del mensaje."
 },
 {
 "id": "46",
-"title": "Nunc vel scelerisque ex",
-"content": "Nunc vel scelerisque ex, in feugiat risus."
+"title": "¿Con qué instrumento se mide la frecuencia?",
+"content": "Frecuencímetro."
 },
 {
 "id": "47",
-"title": "Fusce eleifend tortor sed",
-"content": "Fusce eleifend tortor sed elit tristique tristique."
+"title": "Para fonía el ancho del mensaje transmitido es:",
+"content": "3.000 hz."
 },
 {
 "id": "48",
-"title": "Donec interdum enim sed",
-"content": "Donec interdum enim sed dolor auctor, in dignissim leo condimentum."
+"title": "En clase de emisión J3E :",
+"content": "La portadora es modulada por el audio proveniente del amplificador de micrófono."
 },
 {
 "id": "49",
-"title": "Aliquam at consequat nulla",
-"content": "Aliquam at consequat nulla, a tincidunt velit."
+"title": "¿Qué función cumple un oscilador?",
+"content": "Genera internamente señales eléctricas y tiene una salida pero ninguna entrada."
 },
 {
 "id": "50",
-"title": "Praesent luctus nisi vel",
-"content": "Praesent luctus nisi vel lorem ullamcorper, eget dignissim est interdum."
+"title": "¿A qué se le llama I.T.V .?",
+"content": "Interferencia a televisores."
 },
 {
 "id": "51",
-"title": "Curabitur consequat leo at",
-"content": "Curabitur consequat leo at velit varius, vitae tempus neque pellentesque."
+"title": "¿Qué permite realizar el sintonizador de antena (transmatch)?",
+"content": "Adaptar impedancias entre transmisor y línea de alimentación."
 },
 {
 "id": "52",
-"title": "Nam porta ligula eu",
-"content": "Nam porta ligula eu enim tempor consequat."
+"title": "¿Qué antena tiene mas ganancia en estaciones VHF móviles?",
+"content": "5/8 de onda."
 },
 {
 "id": "53",
-"title": "Etiam viverra bibendum ligula",
-"content": "Etiam viverra bibendum ligula, sit amet gravida orci varius sed."
+"title": "¿Cuál es la longitud de onda correspondiente a una frecuencia de 3657 Khz?",
+"content": "82,03 m"
 },
 {
 "id": "54",
-"title": "Vivamus cursus scelerisque diam",
-"content": "Vivamus cursus scelerisque diam, nec dictum justo rhoncus et."
+"title": "¿Cuál es habitualmente, la impedancia de salida de los transceptores que se comercializan para uso de radioaficionados?",
+"content": "50 ohms."
 },
 {
 "id": "55",
-"title": "Mauris in risus malesuada",
-"content": "Mauris in risus malesuada, aliquet arcu id, feugiat lectus."
+"title": " ¿Cuál es la longitud de una antena dipolo de 1/2 onda para operar en 28950 Khz.?",
+"content": "4,9 m."
 },
 {
 "id": "56",
-"title": "Nunc a augue ut",
-"content": "Nunc a augue ut magna tincidunt semper."
+"title": "Un filtro :",
+"content": "Elimina alguna parte del contenido espectral de una señal, obteniéndose una nueva señal que es una aproximación de la original."
 },
 {
 "id": "57",
-"title": "Fusce ultricies tellus ac",
-"content": "Fusce ultricies tellus ac turpis finibus, at molestie nunc dapibus."
+"title": "La frecuencia de trabajo de un transmisor es de 21.000 Khz. ¿Cuál es su frecuencia en MHz.?",
+"content": "21 MHz."
 },
 {
 "id": "58",
-"title": "Donec sollicitudin est id",
-"content": "Donec sollicitudin est id purus hendrerit, a hendrerit tellus dapibus."
+"title": "¿Cómo irradia una antena vertical?",
+"content": "Omnidireccionalmente."
 },
 {
 "id": "59",
-"title": "Aliquam eu nunc eu",
-"content": "Aliquam eu nunc eu nulla cursus sagittis."
+"title": "Cuando se recepcionan dos señales de BLU (SSB) que están en una misma frecuencia:",
+"content": "La que llegue con mayor intensidad tapara a la otra."
 },
 {
 "id": "60",
-"title": "Praesent vitae ligula sed",
-"content": "Praesent vitae ligula sed velit malesuada rutrum."
+"title": "¿Cómo irradia una antena común, tipo Yagui de 3 elementos?",
+"content": "Direccionalmente."
 },
 {
 "id": "61",
-"title": "Curabitur tristique lectus eget",
-"content": "Curabitur tristique lectus eget tellus malesuada fringilla."
+"title": "Un transmisor en 146 Mhz. alimenta en un extremo una línea coaxil RG-58-U de 100 mts. y en el otro extremo se conecta una antena. Colocándose vatímetros en ambas puntas, ¿qué se verifica?",
+"content": "La potencia que llega a la antena es menor que la que sale del transmisor."
 },
 {
 "id": "62",
-"title": "Nam ullamcorper nisi ac",
-"content": "Nam ullamcorper nisi ac tellus luctus, nec consequat leo finibus."
+"title": "Se desea enviar como mensaje un tono de 3 Khz., en una señal de BLU banda inferior (BLI) cuya frecuencia es 3.500 Khz, la frecuencia de la señal modulada estará dada por:",
+"content": "Una componente a 3.497 Khz."
 },
 {
 "id": "63",
-"title": "Etiam maximus nibh eu",
-"content": "Etiam maximus nibh eu justo efficitur, ac iaculis ex lacinia."
+"title": "Si por error se selecciona la BLI (SLB) en BLU (SSB) para recibir una señal de banda superior:",
+"content": "Se escuchara una señal ininteligible."
 },
 {
 "id": "64",
-"title": "Vivamus euismod sem id",
-"content": "Vivamus euismod sem id metus accumsan ullamcorper."
+"title": "¿A qué se denomina polarización de una onda?",
+"content": "A la posición relativa (vertical u horizontal) de su campo electromagnético."
 },
 {
 "id": "65",
-"title": "Mauris id ligula sollicitudin",
-"content": "Mauris id ligula sollicitudin, venenatis lorem sed, lobortis justo."
+"title": "Una antena direccional de 3 elementos tipo Yagui, bien construida y optimizada para la banda de VHF. ¿Qué ganancia tiene (respecto antena isotrópica)?",
+"content": "Aproximadamente de 6 a 8 dB."
 },
 {
 "id": "66",
-"title": "Nunc ac velit ipsum",
-"content": "Nunc ac velit ipsum."
+"title": "La densidad, composición y altura de las capas ionosféricas:",
+"content": "Cambia con el ciclo solar, la época del año, la hora y la latitud del lugar."
 },
 {
 "id": "65",
-"title": "Mauris id ligula sollicitudin",
-"content": "Mauris id ligula sollicitudin, venenatis lorem sed, lobortis justo."
+"title": "En una antena direccional tipo Yagui de tres elementos, ¿cómo se denominan sus elementos?",
+"content": "Director, Excitado, Reflector."
 },
 {
 "id": "66",
-"title": "Lorem ipsum dolor sit amet",
-"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac ipsum sit amet lorem ultrices fermentum nec vitae tortor."
+"title": "¿Cuál es la fórmula aproximada de cálculo de una antena vertical de 1/4 de longitud de onda?",
+"content": "72/Frecuencia (MHz)."
 },
 {
 "id": "67",
-"title": "Duis bibendum sem et interdum",
-"content": "Duis bibendum sem et interdum. In in risus vel massa auctor euismod. Maecenas at lorem velit."
+"title": "¿Cómo se propagan usualmente las señales de VHF?",
+"content": "Viajan en línea recta."
 },
 {
 "id": "68",
-"title": "Vestibulum commodo tellus id dolor",
-"content": "Vestibulum commodo tellus id dolor facilisis scelerisque. Nam eget orci felis. Nulla facilisi."
+"title": "¿Qué ventajas ofrece el oscilador a cristal de cuarzo sobre otro con inductancia y condensador?",
+"content": "Que su estabilidad de frecuencia es mucho mayor."
 },
 {
 "id": "69",
-"title": "Etiam eu nisl at erat placerat",
-"content": "Etiam eu nisl at erat placerat convallis. Suspendisse sed elit sapien. In ullamcorper diam ut lectus pulvinar feugiat."
+"title": "En un receptor, ¿qué etapa está inmediatamente después de la antena?",
+"content": "Amplificador de RF."
 },
 {
 "id": "70",
-"title": "Pellentesque tristique tortor ac nulla",
-"content": "Pellentesque tristique tortor ac nulla pulvinar faucibus. Nullam vel mi placerat, vulputate tortor nec, congue lacus."
+"title": "Un transceptor es un equipo:",
+"content": "Que reúne las funciones de transmisor y receptor."
 },
 {
 "id": "71",
-"title": "Sed in bibendum purus",
-"content": "Sed in bibendum purus. Donec luctus semper ligula at pulvinar. Curabitur commodo mauris a sollicitudin efficitur."
+"title": "La antena puede ser desconectada del transmisor y operar en vacío:",
+"content": "Nunca."
 },
 {
 "id": "72",
-"title": "Phasellus non ipsum ut",
-"content": "Phasellus non ipsum ut purus efficitur varius. Sed fringilla tincidunt sem non scelerisque."
+"title": "¿Qué elemento se utiliza para irradiar energía?",
+"content": "Antena."
 },
 {
 "id": "73",
-"title": "Integer fermentum bibendum quam",
-"content": "Integer fermentum bibendum quam, id scelerisque neque tempus at. Nunc tincidunt diam eget eros dapibus pharetra."
+"title": "En un transformador reductor, el número de vueltas del primario es:",
+"content": "Mayor que el secundario."
 },
 {
 "id": "74",
-"title": "Cras bibendum semper mi",
-"content": "Cras bibendum semper mi, sit amet consectetur nisi efficitur id. Nam eget dui ut orci tincidunt interdum."
+"title": "El PTT de un equipo es:",
+"content": "El interruptor que se debe presionar para transmitir. (Significa Push To Talk)"
 },
 {
 "id": "75",
-"title": "Nullam lacinia finibus nibh",
-"content": "Nullam lacinia finibus nibh, sed cursus nisi feugiat et. Aenean fermentum interdum ipsum in facilisis."
+"title": "¿Cómo es la frecuencia de una armónica respecto a la frecuencia fundamental?",
+"content": "Es exactamente un múltiplo."
 },
 {
 "id": "76",
-"title": "Vivamus ultrices odio a condimentum",
-"content": "Vivamus ultrices odio a condimentum. Aliquam eu nisl at urna posuere interdum et id est."
+"title": "Una señal de BLS (USB) ubicada en los 3.750 Khz. , ocupa el sector de frecuencias comprendido entre:",
+"content": "3.750 y 3.753 Khz."
 },
 {
 "id": "77",
-"title": "Aenean rutrum orci nec varius",
-"content": "Aenean rutrum orci nec varius suscipit. Proin nec metus non justo vulputate eleifend."
+"title": "¿Qué ventaja tiene una señal de BLS (USB) con respecto a una señal BLI (LSB)?",
+"content": "No tiene ninguna ventaja ni desventaja, solo presentan diferencias técnicas en el transmisor y el receptor."
 },
 {
 "id": "78",
-"title": "Morbi non ipsum in leo",
-"content": "Morbi non ipsum in leo lobortis laoreet. Sed nec turpis eu urna auctor laoreet."
+"title": "¿Qué relación existe entre la frecuencia y su correspondiente longitud de onda?",
+"content": "Son inversamente proporcionales, al aumentar una la otra disminuye."
 },
 {
 "id": "79",
-"title": "Fusce condimentum malesuada dui",
-"content": "Fusce condimentum malesuada dui, nec eleifend justo pharetra nec. Vestibulum a consectetur nisi."
+"title": "¿Qué polarización de antena se utiliza habitualmente para la comunicación de dos estaciones en la banda de VHF y UHF para el modo Banda Lateral Unica?",
+"content": "Horizontal."
 },
 {
 "id": "80",
-"title": "Praesent a metus in nisl",
-"content": "Praesent a metus in nisl laoreet tempor. Maecenas efficitur libero a neque placerat, id laoreet urna eleifend."
+"title": "¿Con qué instrumento medimos la R.O.E.?",
+"content": "Medidor de ondas estacionarias."
 },
 {
 "id": "81",
-"title": "Nam convallis eros nec augue",
-"content": "Nam convallis eros nec augue rhoncus efficitur. Mauris fermentum quam vel justo luctus dapibus."
+"title": "¿Qué polarización se utiliza habitualmente para la comunicación por repetidoras en la banda de 2 m?",
+"content": "Vertical."
 },
 {
 "id": "82",
-"title": "Vestibulum ac tristique justo",
-"content": "Vestibulum ac tristique justo. Quisque ac enim bibendum, rhoncus justo eget, dapibus nunc."
+"title": "¿Qué significa la sigla R.O.E.?",
+"content": "Relación de Ondas Estacionarias."
 },
 {
 "id": "83",
-"title": "Aliquam tincidunt enim sed enim",
-"content": "Aliquam tincidunt enim sed enim faucibus, non efficitur leo pharetra. Mauris eget risus sed justo interdum vestibulum."
+"title": "Si una estación en la banda de 80 metros llega con muy buena señal, ¿qué señal le daría?",
+"content": "S-9 + 20 dB"
 },
 {
 "id": "84",
-"title": "Mauris tristique lectus eu neque",
-"content": "Mauris tristique lectus eu neque placerat rhoncus. Sed quis elit vel nulla sagittis iaculis."
+"title": "Desde la antena, en un receptor, ¿cuál es la etapa que está inmediatamente antes de la etapa detectora?",
+"content": "Amplificador de F.I."
 },
 {
 "id": "85",
-"title": "Donec dapibus nunc quis enim",
-"content": "Donec dapibus nunc quis enim cursus, nec efficitur nisl varius. Ut sed sapien a felis efficitur facilisis."
+"title": "Si la señal de una estación en VHF llega muy débil, al límite del umbral del Squelch, ¿qué señal le daría?",
+"content": "S-1."
 },
 {
 "id": "86",
-"title": "Fusce id urna sit amet",
-"content": "Fusce id urna sit amet mauris eleifend venenatis vitae in ligula. Integer dignissim fermentum urna, eu rutrum est sollicitudin vel."
+"title": "En un receptor, el amplificador de audio frecuencia:",
+"content": "Amplifica la señal demodulada."
 },
 {
 "id": "87",
-"title": "Proin ultrices justo vitae nibh",
-"content": "Proin ultrices justo vitae nibh dapibus, a egestas elit tristique. Curabitur id elit eu ligula laoreet fringilla."
+"title": "¿En qué posición un dipolo de 80 m, transmite mas intensamente hacia un lado?",
+"content": "Inclinado."
 },
 {
 "id": "88",
-"title": "Nulla vitae sapien malesuada",
-"content": "Nulla vitae sapien malesuada, vulputate nisl sit amet, auctor mi. Fusce mollis interdum orci a semper."
+"title": "Desde la antena, en un receptor, ¿cuál es la etapa que está inmediatamente después del detector?",
+"content": "Amplificador de audio."
 },
 {
 "id": "89",
-"title": "Vivamus auctor euismod ligula",
-"content": "Vivamus auctor euismod ligula, non fermentum nisl vestibulum non. Nulla id leo et mi congue egestas."
+"title": "¿Cuál es la velocidad de las ondas electromagnéticas en el espacio libre?",
+"content": "300.000 Km./seg."
 },
 {
 "id": "90",
-"title": "Mauris luctus nunc sed arcu",
-"content": "Mauris luctus nunc sed arcu placerat gravida. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae."
+"title": "Los coaxiles son líneas de transmisión:",
+"content": "Desbalanceadas."
 },
 {
 "id": "91",
-"title": "Sed euismod quam quis massa",
-"content": "Sed euismod quam quis massa mattis, a suscipit dui tempor. Fusce laoreet ligula ac leo euismod, vel lobortis lectus consectetur."
+"title": "¿Cómo están formadas las ondas de radio ?",
+"content": "Por campos eléctricos y magnéticos."
 },
 {
 "id": "92",
-"title": "Pellentesque id turpis a augue",
-"content": "Pellentesque id turpis a augue tincidunt ultrices nec at tortor. Cras pharetra dolor sit amet ipsum sollicitudin, nec efficitur nisl suscipit."
+"title": "Las líneas abiertas tienen:",
+"content": "Menor perdida que las líneas coaxiles."
 },
 {
 "id": "93",
-"title": "Curabitur a mauris ut massa",
-"content": "Curabitur a mauris ut massa tempor efficitur. Vestibulum rhoncus erat ac tortor lacinia posuere."
+"title": "¿Cuál es la constante práctica que se utiliza para el cálculo de antenas dipolos de 1/2 longitud de onda según la formula Longitud = K/f (MHz)?",
+"content": "K=142,5."
 },
 {
 "id": "94",
-"title": "Etiam auctor ipsum vitae feugiat",
-"content": "Etiam auctor ipsum vitae feugiat pretium. Morbi ut tellus gravida, rhoncus nisi vitae, tempor erat."
+"title": "En un transceptor, por medio del comando AF GAIN:",
+"content": "Se controla la ganancia de la sección de audio frecuencia del receptor."
 },
 {
 "id": "95",
-"title": "Fusce sed turpis et enim",
-"content": "Fusce sed turpis et enim facilisis tincidunt. Nullam ultrices tortor id malesuada vestibulum."
+"title": "En un transceptor, por medio del comando SQUELCH:",
+"content": "Se silencia el audio cuando a la entrada del receptor no se detecta señal en la frecuencia de trabajo."
 },
 {
 "id": "96",
-"title": "In tincidunt elit quis urna",
-"content": "In tincidunt elit quis urna elementum fringilla. Maecenas accumsan mauris ac nisl viverra, eget dictum nisl molestie."
+"title": "En un transceptor, por medio del comando MODE:",
+"content": "Se selecciona los modo de operación AM, BLU (SSB), BLU (LSB), CW y FM."
 },
 {
 "id": "97",
-"title": "Vestibulum faucibus purus vitae nisi",
-"content": "Vestibulum faucibus purus vitae nisi efficitur semper. Proin a ligula ac sem finibus placerat."
+"title": "¿Cuál es la longitud de onda correspondiente a una frecuencia de 430,130 MHz?",
+"content": "0,697 m."
 },
 {
 "id": "98",
-"title": "Donec eleifend ligula non tortor",
-"content": "Donec eleifend ligula non tortor tristique efficitur. Sed dapibus enim sed mi consectetur, vel hendrerit elit dapibus."
+"title": "¿Qué simboliza la 'flecha' en un transistor tipo PNP?",
+"content": "La flecha es el emisor y apunta hacia adentro del círculo."
 },
 {
 "id": "99",
-"title": "Maecenas bibendum varius tortor",
-"content": "Maecenas bibendum varius tortor, a accumsan dui ultrices at. Nulla pulvinar eros ut metus accumsan consequat."
+"title": "¿Cuál es el ángulo ideal entre las ramas de una antena dipolo horizontal de 1/2 longitud de onda para la banda de 80 metros?",
+"content": "180°."
 },
 {
 "id": "100",
-"title": "Nam malesuada metus eu nisl",
-"content": "Nam malesuada metus eu nisl tristique faucibus. Fusce ullamcorper eros et ante congue, vitae tincidunt mi tincidunt."
+"title": "Una antena dipolo plegado. ¿Qué impedancia presenta en su centro?",
+"content": "300 ohms."
 },
 {
 "id": "101",
-"title": "Vivamus convallis dolor ac nunc",
-"content": "Vivamus convallis dolor ac nunc volutpat facilisis. Quisque eget justo id diam finibus dignissim."
+"title": "Si dos resistencias de igual valor están conectadas en serie. ¿Cuánto vale la resistencia total del circuito?",
+"content": "La suma de las dos."
 },
 {
 "id": "102",
-"title": "Aliquam vestibulum mauris in ex",
-"content": "Aliquam vestibulum mauris in ex cursus, a convallis nisi tempus. Nulla a fringilla nisi, nec maximus felis."
+"title": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4=4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Cuál será la resistencia total (aproximada) del circuito?",
+"content": "7,77 ohms."
 },
 {
 "id": "103",
-"title": "Sed tincidunt libero id lorem",
-"content": "Sed tincidunt libero id lorem ultrices, at sagittis nunc commodo. Nullam tristique sapien a consectetur fermentum."
+"title": "¿Cuál es el período en que se producen los máximos ciclos solares.?",
+"content": "11 años."
 },
 {
 "id": "104",
-"title": "Phasellus luctus maximus ante",
-"content": "Phasellus luctus maximus ante ut faucibus. Fusce a ante eu lacus ultrices volutpat."
+"title": "Según el código de colores para resistencias, ¿cuál sería la combinación correcta para 87 ohms?",
+"content": "Gris, violeta, negro."
 },
 {
 "id": "105",
-"title": "Integer sit amet risus consectetur",
-"content": "Integer sit amet risus consectetur, interdum eros nec, maximus est. Aenean vitae sapien id orci aliquam elementum."
+"title": "El dial de un receptor esta calibrado en kilohertz y muestra la frecuencia de 7125Khz. ¿Qué frecuencia mostraría si estuviera calibrado en Megahertz?",
+"content": "7,125 MHz."
 },
 {
 "id": "106",
-"title": "Pellentesque habitant morbi tristique senectus",
-"content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque vitae mi semper, semper lacus eu, rutrum elit."
+"title": "Según el código de colores de resistencias, ¿cuál sería la combinación correcta para 290 ohms",
+"content": "Rojo, blanco, marrón."
 },
 {
 "id": "107",
-"title": "Vestibulum eu nunc et diam",
-"content": "Vestibulum eu nunc et diam ullamcorper ullamcorper eu at ipsum. Etiam non nisl ultrices, faucibus risus nec, condimentum metus."
-},
-{
-"id": "108",
-"title": "Nunc eu ultrices est",
-"content": "Nunc eu ultrices est. Curabitur ut magna consectetur, fringilla nulla sed, euismod nibh."
-},
-{
-"id": "109",
-"title": "Mauris sed risus scelerisque",
-"content": "Mauris sed risus scelerisque, ultricies orci vel, aliquam ipsum. Suspendisse cursus felis in tortor lacinia pulvinar."
-},
-{
-"id": "110",
-"title": "Fusce elementum ante ut odio",
-"content": "Fusce elementum ante ut odio interdum, et vestibulum erat commodo. Aenean dignissim lacus sed massa gravida feugiat."
-},
-{
-"id": "111",
-"title": "Nam et urna non mauris",
-"content": "Nam et urna non mauris cursus luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
-},
-{
-"id": "112",
-"title": "Sed pharetra sapien non felis",
-"content": "Sed pharetra sapien non felis maximus, in posuere erat rutrum. Mauris ut leo quis nunc pulvinar aliquet."
-},
-{
-"id": "113",
-"title": "Morbi luctus turpis vitae metus",
-"content": "Morbi luctus turpis vitae metus efficitur efficitur. Mauris ullamcorper erat ac lorem facilisis, nec faucibus leo lobortis."
-},
-{
-"id": "114",
-"title": "Praesent euismod nisl at elementum",
-"content": "Praesent euismod nisl at elementum commodo. Fusce facilisis lectus ut fermentum cursus."
-},
-{
-"id": "115",
-"title": "Nulla sollicitudin augue eu ante",
-"content": "Nulla sollicitudin augue eu ante rhoncus, nec posuere dolor hendrerit. Vivamus at nibh et enim auctor dignissim."
-},
-{
-"id": "116",
-"title": "Cras ullamcorper tortor eget tincidunt",
-"content": "Cras ullamcorper tortor eget tincidunt consectetur. Sed gravida purus non magna pellentesque ullamcorper."
-},
-{
-"id": "117",
-"title": "Donec in lobortis ipsum",
-"content": "Donec in lobortis ipsum. Integer et massa efficitur, tincidunt dui eu, consequat mauris."
-},
-{
-"id": "118",
-"title": "Mauris vitae neque finibus",
-"content": "Mauris vitae neque finibus, volutpat erat id, condimentum tortor. Ut sed est sed risus congue tristique."
-},
-{
-"id": "119",
-"title": "Lorem ipsum dolor sit amet",
-"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-},
-{
-"id": "120",
-"title": "Sed euismod tempor mauris",
-"content": "Sed euismod tempor mauris, ut fringilla neque tincidunt non."
-},
-{
-"id": "121",
-"title": "Vestibulum ante ipsum primis",
-"content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae."
-},
-{
-"id": "122",
-"title": "Proin consectetur velit",
-"content": "Proin consectetur velit nec sem congue, nec efficitur lectus tincidunt."
-},
-{
-"id": "123",
-"title": "Cras id libero ac mauris",
-"content": "Cras id libero ac mauris dapibus suscipit eu a lectus."
-},
-{
-"id": "124",
-"title": "Fusce interdum sem sit amet",
-"content": "Fusce interdum sem sit amet massa dapibus, sed commodo felis pulvinar."
-},
-{
-"id": "125",
-"title": "Donec tincidunt libero a",
-"content": "Donec tincidunt libero a dolor consectetur, at blandit leo ullamcorper."
-},
-{
-"id": "126",
-"title": "Pellentesque habitant morbi tristique",
-"content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
-},
-{
-"id": "127",
-"title": "Vivamus bibendum lacus",
-"content": "Vivamus bibendum lacus et magna viverra, vitae ultricies diam pellentesque."
-},
-{
-"id": "128",
-"title": "Aliquam et varius odio",
-"content": "Aliquam et varius odio, at fringilla erat consequat id."
-},
-{
-"id": "129",
-"title": "Nullam vel ligula ligula",
-"content": "Nullam vel ligula ligula. Ut fringilla odio a magna pellentesque posuere."
-},
-{
-"id": "130",
-"title": "Phasellus at semper urna",
-"content": "Phasellus at semper urna, nec mattis purus. Morbi consequat tempus nibh vel tincidunt."
-},
-{
-"id": "131",
-"title": "Suspendisse varius viverra ipsum",
-"content": "Suspendisse varius viverra ipsum id pellentesque. Nulla facilisi."
-},
-{
-"id": "132",
-"title": "Nunc finibus congue lectus",
-"content": "Nunc finibus congue lectus, ac mattis enim scelerisque id."
-},
-{
-"id": "133",
-"title": "Etiam aliquet commodo",
-"content": "Etiam aliquet commodo sapien, in sagittis ex finibus sit amet."
-},
-{
-"id": "134",
-"title": "Curabitur in ipsum urna",
-"content": "Curabitur in ipsum urna. Sed maximus metus vel pulvinar fringilla."
-},
-{
-"id": "135",
-"title": "Vestibulum sed odio a",
-"content": "Vestibulum sed odio a quam faucibus pharetra sed nec tortor."
-},
-{
-"id": "136",
-"title": "Nam ullamcorper turpis non",
-"content": "Nam ullamcorper turpis non ante semper, eget semper tellus lacinia."
-},
-{
-"id": "137",
-"title": "Quisque vitae ex a",
-"content": "Quisque vitae ex a dolor venenatis vulputate. Pellentesque pulvinar finibus turpis eu congue."
-},
-{
-"id": "138",
-"title": "Integer quis risus consectetur",
-"content": "Integer quis risus consectetur, viverra tellus nec, posuere dolor."
-},
-{
-"id": "139",
-"title": "Praesent eget nunc in",
-"content": "Praesent eget nunc in tellus pharetra commodo vel non mauris."
-},
-{
-"id": "140",
-"title": "Morbi sit amet pharetra",
-"content": "Morbi sit amet pharetra turpis, vitae fermentum risus."
-},
-{
-"id": "141",
-"title": "Vivamus auctor leo nec",
-"content": "Vivamus auctor leo nec turpis ultrices ultricies. Nam feugiat felis nec tincidunt."
-},
-{
-"id": "142",
-"title": "Sed non tristique turpis",
-"content": "Sed non tristique turpis. Cras sit amet velit vitae libero interdum luctus."
-},
-{
-"id": "143",
-"title": "Aenean a eros auctor",
-"content": "Aenean a eros auctor, eleifend velit nec, auctor nibh."
-},
-{
-"id": "144",
-"title": "Maecenas lacinia finibus est",
-"content": "Maecenas lacinia finibus est, sit amet gravida ante posuere sit amet."
-},
-{
-"id": "145",
-"title": "Cras eget est fermentum",
-"content": "Cras eget est fermentum, dictum sapien in, fermentum justo."
-},
-{
-"id": "146",
-"title": "Aliquam eu odio nisl",
-"content": "Aliquam eu odio nisl. Sed tristique nulla sit amet vulputate efficitur."
-},
-{
-"id": "147",
-"title": "Vestibulum consequat tempus sem",
-"content": "Vestibulum consequat tempus sem, nec sollicitudin nulla tristique sit amet."
-},
-{
-"id": "148",
-"title": "Fusce feugiat dui non",
-"content": "Fusce feugiat dui non dignissim facilisis. Phasellus hendrerit tincidunt metus vel tempor."
-},
-{
-"id": "149",
-"title": "Etiam vulputate sem vel",
-"content": "Etiam vulputate sem vel dolor finibus convallis. Integer tincidunt facilisis pulvinar."
-},
-{
-"id": "150",
-"title": "Pellentesque habitant morbi tristique",
-"content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+"title": "¿Qué elemento de una válvula es el ánodo?",
+"content": "Placa."
 }
 ]
-
-
