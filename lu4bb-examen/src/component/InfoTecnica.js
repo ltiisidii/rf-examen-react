@@ -4,7 +4,7 @@ import facts  from '../sources/facts-novicio-tecnica.json';
 const InfoTecnica = () => {
   return (
     <div>
-      <h2>Información Técnica</h2>
+      <h2>Preguntas de examen: Categoria Novicio Técnica</h2>
       {facts.map((fact, index) => (
         <div key={fact.id}>
           {index > 0 && <hr />} {/* Separador visible */}

@@ -5,7 +5,7 @@ import facts  from '../sources/facts-novicio-reglamentacion.json';
 const InfoReglamentacion = () => {
   return (
     <div>
-      <h2>Información Reglamentación</h2>
+      <h2>Preguntas de examen: Categoria Novicio Reglamentación y Ética Operativa</h2>
       {facts.map((fact, index) => (
         <div key={fact.id}>
           {index > 0 && <hr />} {/* Separador visible */}
