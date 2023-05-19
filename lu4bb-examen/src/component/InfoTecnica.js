@@ -4,7 +4,7 @@ import facts  from '../sources/facts-novicio-tecnica.json';
 const InfoTecnica = () => {
   return (
     <div>
-      <h2>Preguntas de examen: Categoria Novicio Técnica</h2>
+      <h1 style={{ paddingTop: '50px' }}>Preguntas de examen: Categoria Novicio Técnica</h1>
       {facts.map((fact, index) => (
         <div key={fact.id}>
           {index > 0 && <hr />} {/* Separador visible */}
@@ -16,5 +16,6 @@ const InfoTecnica = () => {
     </div>
   );
 };
+
 
 export default InfoTecnica;
