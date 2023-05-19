@@ -65,6 +65,9 @@ const NavBar = () => {
             <MenuItem onClick={closeNovicioMenu} component={Link} to="/info-reglamentacion">
               Info Reglamentación
             </MenuItem>
+            <MenuItem onClick={closeNovicioMenu} component={Link} to="/playlist-youtube">
+              Playlist Youtube
+            </MenuItem>
           </Menu>
         </Toolbar>
       </Container>

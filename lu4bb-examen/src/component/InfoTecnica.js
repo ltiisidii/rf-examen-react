@@ -1,21 +1,25 @@
 import React from 'react';
-import facts  from '../sources/facts-novicio-tecnica.json';
+import facts from '../sources/facts-novicio-tecnica.json';
 
 const InfoTecnica = () => {
+  const handlePrint = () => {
+    window.print();
+  };
+
   return (
     <div>
-      <h1 style={{ paddingTop: '50px' }}>Preguntas de examen: Categoria Novicio Técnica</h1>
+      <h1 style={{ paddingTop: '50px' }}>Preguntas de examen: Categoría Novicio Técnica</h1>
+      <button onClick={handlePrint}>Imprimir</button> {/* Agregar botón de impresión */}
       {facts.map((fact, index) => (
         <div key={fact.id}>
           {index > 0 && <hr />} {/* Separador visible */}
           <p style={{ color: 'red', fontSize: '16px', fontWeight: 'bold' }}>{fact.id}</p> {/* Mostrar el ID */}
           <h3>{fact.title}</h3>
-          <p style={{ color: 'Green', fontSize: '16px', fontWeight: 'bold' }}>{fact.content}</p>
+          <p style={{ color: 'green', fontSize: '16px', fontWeight: 'bold' }}>{fact.content}</p>
         </div>
       ))}
     </div>
   );
 };
-
 
 export default InfoTecnica;
