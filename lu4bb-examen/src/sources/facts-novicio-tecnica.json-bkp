@@ -1,0 +1,763 @@
+[
+
+{
+"id": "1",
+"title": "¿Con qué elemento bloqueamos el paso de una corriente continua entre dos puntos de un circuito?",
+"content": "Capacitor"
+},
+{
+"id": "2",
+"title": "Una resistencia está identificada con los siguientes colores: Rojo-Naranja-Rojo ¿Qué valor tiene?",
+"content": "2,3 Kohm."
+},
+{
+"id": "3",
+"title": "¿Cuál es la unidad de medida de la intensidad de corriente?",
+"content": "Amperio."
+},
+{
+"id": "4",
+"title": "¿En qué unidad se mide la inductancia de una bobina?",
+"content": "Henrio."
+},
+{
+"id": "5",
+"title": "¿Con qué instrumento se mide la tensión en un circuito eléctrico y como se conecta dicho instrumento?",
+"content": "Voltímetro. Se conecta en paralelo"
+},
+{
+"id": "6",
+"title": "Tenemos un circuito con 3 resistencias en serie de 10 ohms cada una, conectadas a una fuente de alimentación de corriente continua con 30 V de tensión. ¿Qué valor de intensidad de corriente eléctrica circula por el circuito?",
+"content": "1 Amperio"
+},
+{
+"id": "7",
+"title": "¿Cuál es la unidad de medida de la potencia eléctrica?",
+"content": "Vatio."
+},
+{
+"id": "8",
+"title": "¿Con qué instrumento se mide la intensidad de corriente en un circuito eléctrico y como se conecta dicho instrumento?",
+"content": "Amperímetro. Se conecta en serie."
+},
+{
+"id": "9",
+"title": "Se conectan en paralelo tres capacitores de 22, 33 y 5 microfaradios respectivamente. ¿Cuál es la capacidad total del circuito?",
+"content": "60 uf"
+},
+{
+"id": "10",
+"title": "¿Cuál es el ángulo ideal entre ramas de una antena dipolo tipo 'V' invertida?",
+"content": "90°"
+},
+{
+"id": "11",
+"title": "¿Qué potencia se producirá en una resistencia de 400 ohm, si la tensión aplicada es de 20V?",
+"content": "1 Vatio."
+},
+{
+"id": "12",
+"title": "¿Qué tipo de antena puede ser una buena elección como parte de un equipo portable para bandas de HF, para ser instalada en caso de emergencia?",
+"content": "Dipolo de 1/2 longitud de onda."
+},
+{
+"id": "13",
+"title": "¿Qué elemento de los señalados, permite elevar por si solo, una tensión alterna?",
+"content": "Transformador."
+},
+{
+"id": "14",
+"title": "El valor máximo de una corriente alterna es de 200 mA. ¿Cuál es su valor eficaz?",
+"content": "141,1 mA."
+},
+{
+"id": "15",
+"title": "En un receptor el demodulador.",
+"content": "Extrae el mensaje a partir de la señal modulada."
+},
+{
+"id": "16",
+"title": "En un transmisor, el modulador:",
+"content": "Modifica la amplitud o frecuencia de la portadora pura, conforme a la señal del mensaje."
+},
+{
+"id": "17",
+"title": "Para proteger un equipo de 220 Voltios y 1 KW de consumo, ¿qué valor de fusible sería conveniente instalar en la línea de alimentación?",
+"content": "6 A."
+},
+{
+"id": "18",
+"title": "En un capacitor, ¿qué fenómeno se produce entre la tensión y la corriente?",
+"content": "La corriente adelanta a la tensión."
+},
+{
+"id": "19",
+"title": "¿Cuándo existe resonancia en un circuito?",
+"content": "Cuando la reactancia capacitiva es igual a la reactancia inductiva."
+},
+{
+"id": "20",
+"title": "¿Cómo se denomina el material que separa las placas de un capacitor?",
+"content": "Dieléctrico."
+},
+{
+"id": "21",
+"title": "¿Qué tipo de corriente entrega una fuente de alimentación típica, usada en transceptores?",
+"content": "Continua."
+},
+{
+"id": "22",
+"title": "¿De qué elemento se compone un puente rectificador?",
+"content": "Diodos."
+},
+{
+"id": "23",
+"title": "¿Cómo se denominan los elementos que conforman un transistor?",
+"content": "Colector, base y emisor."
+},
+{
+"id": "24",
+"title": "Tres capacitores de 6 nf son conectados en serie, ¿qué capacidad presenta el conjunto?",
+"content": "2,0 nf."
+},
+{
+"id": "25",
+"title": "¿Qué elementos indispensables componen un transformador?",
+"content": "Dos bobinas."
+},
+{
+"id": "26",
+"title": "¿Qué elementos indispensables componen una fuente de alimentación típica de 12 Volts c.c. para una estación de radioaficionado.?",
+"content": "Transformador, puente de diodos, capacitor, regulador y fusible."
+},
+{
+"id": "27",
+"title": "El primario de un transformador tiene 60 espiras el secundario 300 espiras, si aplicamos al primario 12 V c.a., ¿qué tensión tendremos en el secundario?",
+"content": "60 V."
+},
+{
+"id": "28",
+"title": "En clase de emisión A3E :",
+"content": "La portadora es modulada en amplitud. (AM)"
+},
+{
+"id": "29",
+"title": "Se desea utilizar en la banda de 80 mts. una antena dipolo de 1/2 longitud de onda alimentada en su centro por un cable coaxil de 75 ohms, en la que se midieron los siguientes valores de ROE: En 3500 Khz. ROE=1,1. En 3600 Khz.: ROE=2. En 3700 Khz.: ROE=3. En 3750 Khz.: ROE=4 ¿Qué debemos hacer con dicha antena?",
+"content": "Acortarla."
+},
+{
+"id": "30",
+"title": "Para obtener una buena relación de ROE, ¿qué es conveniente?",
+"content": "Baja potencia reflejada y alta potencia incidente."
+},
+{
+"id": "31",
+"title": "Describir en bloque un receptor superheterodino en clase de emisión A3E :",
+"content": "Amplificador de RF, Mezclador, Oscilador de RF, Amplificador de FI, Detector, Amplificador de audio y parlante."
+},
+{
+"id": "32",
+"title": "¿Qué elemento se utiliza para adaptar una antena dipolo con una línea de alimentación desbalanceada?",
+"content": "Balún."
+},
+{
+"id": "33",
+"title": "¿Qué instrumento se utiliza para medir la potencia de un transmisor?",
+"content": "Vatímetro."
+},
+{
+"id": "34",
+"title": "¿Para qué se emplea el amplificador de FI?",
+"content": "Para obtener ganancia y selectividad."
+},
+{
+"id": "35",
+"title": "¿Qué función cumple el mezclador en un receptor superheterodino?",
+"content": "Conversión de la señal captada en otra señal de las mismas características pero de frecuencia distinta para que pueda ser filtrada y amplificada con mayor facilidad."
+},
+{
+"id": "36",
+"title": "¿Qué instrumento se utiliza para ver la forma de onda en un circuito eléctrico?",
+"content": "Osciloscopio."
+},
+{
+"id": "37",
+"title": "Describir en bloque un receptor de F3E :",
+"content": "Amplificador de RF, Mezclador, Oscilador de RF, Filtro, Amplificador de FI, Limitador, Discriminador de frecuencia, amplificador de audio y parlante."
+},
+{
+"id": "38",
+"title": "Defina en bloques, un transmisor de Banda Lateral Unica (J3E) :",
+"content": "Oscilador de RF, Modulador balanceado, Amplificador de micrófono, filtro, mezclador, amplificador lineal."
+},
+{
+"id": "39",
+"title": "En clase de emisión F3E :",
+"content": "La señal de micrófono hace variar la frecuencia de la portadora."
+},
+{
+"id": "40",
+"title": "Un dipolo de media onda, ¿cómo irradia?",
+"content": "En forma bidireccional."
+},
+{
+"id": "41",
+"title": "¿Qué ventaja tiene una señal de BLU (SSB) con respecto a una señal AM?",
+"content": "El ancho de banda es la mitad y por lo tanto se hace un mejor aprovechamiento del espectro radioeléctrico."
+},
+{
+"id": "42",
+"title": "Disponemos de un transformador cuyo primario es alimentado con 220 V c.a. y tiene 1100 Espiras. El secundario nos deberá suministrar 15 V c.a., cuantas espiras deberá tener?",
+"content": "75 espiras."
+},
+{
+"id": "43",
+"title": "¿Qué intensidad de corriente circula por una resistencia de 5000 ohms si se le aplica 250 V?",
+"content": "0,05 A."
+},
+{
+"id": "44",
+"title": "Cuándo se aplica una tensión de 150 V a un circuito, la corriente medida es de 2,5 A ¿Cuál es la resistencia del circuito?",
+"content": "ninguna es correcta."
+},
+{
+"id": "45",
+"title": "El ancho de banda de una señal de BLU (SSB) es:",
+"content": "Igual de la correspondiente del mensaje."
+},
+{
+"id": "46",
+"title": "¿Con qué instrumento se mide la frecuencia?",
+"content": "Frecuencímetro."
+},
+{
+"id": "47",
+"title": "Para fonía el ancho del mensaje transmitido es:",
+"content": "3.000 hz."
+},
+{
+"id": "48",
+"title": "En clase de emisión J3E :",
+"content": "La portadora es modulada por el audio proveniente del amplificador de micrófono."
+},
+{
+"id": "49",
+"title": "¿Qué función cumple un oscilador?",
+"content": "Genera internamente señales eléctricas y tiene una salida pero ninguna entrada."
+},
+{
+"id": "50",
+"title": "¿A qué se le llama I.T.V .?",
+"content": "Interferencia a televisores."
+},
+{
+"id": "51",
+"title": "¿Qué permite realizar el sintonizador de antena (transmatch)?",
+"content": "Adaptar impedancias entre transmisor y línea de alimentación."
+},
+{
+"id": "52",
+"title": "¿Qué antena tiene mas ganancia en estaciones VHF móviles?",
+"content": "5/8 de onda."
+},
+{
+"id": "53",
+"title": "¿Cuál es la longitud de onda correspondiente a una frecuencia de 3657 Khz?",
+"content": "82,03 m"
+},
+{
+"id": "54",
+"title": "¿Cuál es habitualmente, la impedancia de salida de los transceptores que se comercializan para uso de radioaficionados?",
+"content": "50 ohms."
+},
+{
+"id": "55",
+"title": " ¿Cuál es la longitud de una antena dipolo de 1/2 onda para operar en 28950 Khz.?",
+"content": "4,9 m."
+},
+{
+"id": "56",
+"title": "Un filtro :",
+"content": "Elimina alguna parte del contenido espectral de una señal, obteniéndose una nueva señal que es una aproximación de la original."
+},
+{
+"id": "57",
+"title": "La frecuencia de trabajo de un transmisor es de 21.000 Khz. ¿Cuál es su frecuencia en MHz.?",
+"content": "21 MHz."
+},
+{
+"id": "58",
+"title": "¿Cómo irradia una antena vertical?",
+"content": "Omnidireccionalmente."
+},
+{
+"id": "59",
+"title": "Cuando se recepcionan dos señales de BLU (SSB) que están en una misma frecuencia:",
+"content": "La que llegue con mayor intensidad tapara a la otra."
+},
+{
+"id": "60",
+"title": "¿Cómo irradia una antena común, tipo Yagui de 3 elementos?",
+"content": "Direccionalmente."
+},
+{
+"id": "61",
+"title": "Un transmisor en 146 Mhz. alimenta en un extremo una línea coaxil RG-58-U de 100 mts. y en el otro extremo se conecta una antena. Colocándose vatímetros en ambas puntas, ¿qué se verifica?",
+"content": "La potencia que llega a la antena es menor que la que sale del transmisor."
+},
+{
+"id": "62",
+"title": "Se desea enviar como mensaje un tono de 3 Khz., en una señal de BLU banda inferior (BLI) cuya frecuencia es 3.500 Khz, la frecuencia de la señal modulada estará dada por:",
+"content": "Una componente a 3.497 Khz."
+},
+{
+"id": "63",
+"title": "Si por error se selecciona la BLI (SLB) en BLU (SSB) para recibir una señal de banda superior:",
+"content": "Se escuchara una señal ininteligible."
+},
+{
+"id": "64",
+"title": "¿A qué se denomina polarización de una onda?",
+"content": "A la posición relativa (vertical u horizontal) de su campo electromagnético."
+},
+{
+"id": "65",
+"title": "Una antena direccional de 3 elementos tipo Yagui, bien construida y optimizada para la banda de VHF. ¿Qué ganancia tiene (respecto antena isotrópica)?",
+"content": "Aproximadamente de 6 a 8 dB."
+},
+{
+"id": "66",
+"title": "La densidad, composición y altura de las capas ionosféricas:",
+"content": "Cambia con el ciclo solar, la época del año, la hora y la latitud del lugar."
+},
+{
+"id": "65",
+"title": "En una antena direccional tipo Yagui de tres elementos, ¿cómo se denominan sus elementos?",
+"content": "Director, Excitado, Reflector."
+},
+{
+"id": "66",
+"title": "¿Cuál es la fórmula aproximada de cálculo de una antena vertical de 1/4 de longitud de onda?",
+"content": "72/Frecuencia (MHz)."
+},
+{
+"id": "67",
+"title": "¿Cómo se propagan usualmente las señales de VHF?",
+"content": "Viajan en línea recta."
+},
+{
+"id": "68",
+"title": "¿Qué ventajas ofrece el oscilador a cristal de cuarzo sobre otro con inductancia y condensador?",
+"content": "Que su estabilidad de frecuencia es mucho mayor."
+},
+{
+"id": "69",
+"title": "En un receptor, ¿qué etapa está inmediatamente después de la antena?",
+"content": "Amplificador de RF."
+},
+{
+"id": "70",
+"title": "Un transceptor es un equipo:",
+"content": "Que reúne las funciones de transmisor y receptor."
+},
+{
+"id": "71",
+"title": "La antena puede ser desconectada del transmisor y operar en vacío:",
+"content": "Nunca."
+},
+{
+"id": "72",
+"title": "¿Qué elemento se utiliza para irradiar energía?",
+"content": "Antena."
+},
+{
+"id": "73",
+"title": "En un transformador reductor, el número de vueltas del primario es:",
+"content": "Mayor que el secundario."
+},
+{
+"id": "74",
+"title": "El PTT de un equipo es:",
+"content": "El interruptor que se debe presionar para transmitir. (Significa Push To Talk)"
+},
+{
+"id": "75",
+"title": "¿Cómo es la frecuencia de una armónica respecto a la frecuencia fundamental?",
+"content": "Es exactamente un múltiplo."
+},
+{
+"id": "76",
+"title": "Una señal de BLS (USB) ubicada en los 3.750 Khz. , ocupa el sector de frecuencias comprendido entre:",
+"content": "3.750 y 3.753 Khz."
+},
+{
+"id": "77",
+"title": "¿Qué ventaja tiene una señal de BLS (USB) con respecto a una señal BLI (LSB)?",
+"content": "No tiene ninguna ventaja ni desventaja, solo presentan diferencias técnicas en el transmisor y el receptor."
+},
+{
+"id": "78",
+"title": "¿Qué relación existe entre la frecuencia y su correspondiente longitud de onda?",
+"content": "Son inversamente proporcionales, al aumentar una la otra disminuye."
+},
+{
+"id": "79",
+"title": "¿Qué polarización de antena se utiliza habitualmente para la comunicación de dos estaciones en la banda de VHF y UHF para el modo Banda Lateral Unica?",
+"content": "Horizontal."
+},
+{
+"id": "80",
+"title": "¿Con qué instrumento medimos la R.O.E.?",
+"content": "Medidor de ondas estacionarias."
+},
+{
+"id": "81",
+"title": "¿Qué polarización se utiliza habitualmente para la comunicación por repetidoras en la banda de 2 m?",
+"content": "Vertical."
+},
+{
+"id": "82",
+"title": "¿Qué significa la sigla R.O.E.?",
+"content": "Relación de Ondas Estacionarias."
+},
+{
+"id": "83",
+"title": "Si una estación en la banda de 80 metros llega con muy buena señal, ¿qué señal le daría?",
+"content": "S-9 + 20 dB"
+},
+{
+"id": "84",
+"title": "Desde la antena, en un receptor, ¿cuál es la etapa que está inmediatamente antes de la etapa detectora?",
+"content": "Amplificador de F.I."
+},
+{
+"id": "85",
+"title": "Si la señal de una estación en VHF llega muy débil, al límite del umbral del Squelch, ¿qué señal le daría?",
+"content": "S-1."
+},
+{
+"id": "86",
+"title": "En un receptor, el amplificador de audio frecuencia:",
+"content": "Amplifica la señal demodulada."
+},
+{
+"id": "87",
+"title": "¿En qué posición un dipolo de 80 m, transmite mas intensamente hacia un lado?",
+"content": "Inclinado."
+},
+{
+"id": "88",
+"title": "Desde la antena, en un receptor, ¿cuál es la etapa que está inmediatamente después del detector?",
+"content": "Amplificador de audio."
+},
+{
+"id": "89",
+"title": "¿Cuál es la velocidad de las ondas electromagnéticas en el espacio libre?",
+"content": "300.000 Km./seg."
+},
+{
+"id": "90",
+"title": "Los coaxiles son líneas de transmisión:",
+"content": "Desbalanceadas."
+},
+{
+"id": "91",
+"title": "¿Cómo están formadas las ondas de radio ?",
+"content": "Por campos eléctricos y magnéticos."
+},
+{
+"id": "92",
+"title": "Las líneas abiertas tienen:",
+"content": "Menor perdida que las líneas coaxiles."
+},
+{
+"id": "93",
+"title": "¿Cuál es la constante práctica que se utiliza para el cálculo de antenas dipolos de 1/2 longitud de onda según la formula Longitud = K/f (MHz)?",
+"content": "K=142,5."
+},
+{
+"id": "94",
+"title": "En un transceptor, por medio del comando AF GAIN:",
+"content": "Se controla la ganancia de la sección de audio frecuencia del receptor."
+},
+{
+"id": "95",
+"title": "En un transceptor, por medio del comando SQUELCH:",
+"content": "Se silencia el audio cuando a la entrada del receptor no se detecta señal en la frecuencia de trabajo."
+},
+{
+"id": "96",
+"title": "En un transceptor, por medio del comando MODE:",
+"content": "Se selecciona los modo de operación AM, BLU (SSB), BLU (LSB), CW y FM."
+},
+{
+"id": "97",
+"title": "¿Cuál es la longitud de onda correspondiente a una frecuencia de 430,130 MHz?",
+"content": "0,697 m."
+},
+{
+"id": "98",
+"title": "¿Qué simboliza la 'flecha' en un transistor tipo PNP?",
+"content": "La flecha es el emisor y apunta hacia adentro del círculo."
+},
+{
+"id": "99",
+"title": "¿Cuál es el ángulo ideal entre las ramas de una antena dipolo horizontal de 1/2 longitud de onda para la banda de 80 metros?",
+"content": "180°."
+},
+{
+"id": "100",
+"title": "Una antena dipolo plegado. ¿Qué impedancia presenta en su centro?",
+"content": "300 ohms."
+},
+{
+"id": "101",
+"title": "Si dos resistencias de igual valor están conectadas en serie. ¿Cuánto vale la resistencia total del circuito?",
+"content": "La suma de las dos."
+},
+{
+"id": "102",
+"title": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4=4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Cuál será la resistencia total (aproximada) del circuito?",
+"content": "7,77 ohms."
+},
+{
+"id": "103",
+"title": "¿Cuál es el período en que se producen los máximos ciclos solares.?",
+"content": "11 años."
+},
+{
+"id": "104",
+"title": "Según el código de colores para resistencias, ¿cuál sería la combinación correcta para 87 ohms?",
+"content": "Gris, violeta, negro."
+},
+{
+"id": "105",
+"title": "El dial de un receptor esta calibrado en kilohertz y muestra la frecuencia de 7125Khz. ¿Qué frecuencia mostraría si estuviera calibrado en Megahertz?",
+"content": "7,125 MHz."
+},
+{
+"id": "106",
+"title": "Según el código de colores de resistencias, ¿cuál sería la combinación correcta para 290 ohms",
+"content": "Rojo, blanco, marrón."
+},
+{
+"id": "107",
+"title": "¿Qué elemento de una válvula es el ánodo?",
+"content": "Placa."
+},
+{
+"id": "108",
+"title": "Nunc eu ultrices est",
+"content": "Nunc eu ultrices est. Curabitur ut magna consectetur, fringilla nulla sed, euismod nibh."
+},
+{
+"id": "109",
+"title": "Mauris sed risus scelerisque",
+"content": "Mauris sed risus scelerisque, ultricies orci vel, aliquam ipsum. Suspendisse cursus felis in tortor lacinia pulvinar."
+},
+{
+"id": "110",
+"title": "Fusce elementum ante ut odio",
+"content": "Fusce elementum ante ut odio interdum, et vestibulum erat commodo. Aenean dignissim lacus sed massa gravida feugiat."
+},
+{
+"id": "111",
+"title": "Nam et urna non mauris",
+"content": "Nam et urna non mauris cursus luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+},
+{
+"id": "112",
+"title": "Sed pharetra sapien non felis",
+"content": "Sed pharetra sapien non felis maximus, in posuere erat rutrum. Mauris ut leo quis nunc pulvinar aliquet."
+},
+{
+"id": "113",
+"title": "Morbi luctus turpis vitae metus",
+"content": "Morbi luctus turpis vitae metus efficitur efficitur. Mauris ullamcorper erat ac lorem facilisis, nec faucibus leo lobortis."
+},
+{
+"id": "114",
+"title": "Praesent euismod nisl at elementum",
+"content": "Praesent euismod nisl at elementum commodo. Fusce facilisis lectus ut fermentum cursus."
+},
+{
+"id": "115",
+"title": "Nulla sollicitudin augue eu ante",
+"content": "Nulla sollicitudin augue eu ante rhoncus, nec posuere dolor hendrerit. Vivamus at nibh et enim auctor dignissim."
+},
+{
+"id": "116",
+"title": "Cras ullamcorper tortor eget tincidunt",
+"content": "Cras ullamcorper tortor eget tincidunt consectetur. Sed gravida purus non magna pellentesque ullamcorper."
+},
+{
+"id": "117",
+"title": "Donec in lobortis ipsum",
+"content": "Donec in lobortis ipsum. Integer et massa efficitur, tincidunt dui eu, consequat mauris."
+},
+{
+"id": "118",
+"title": "Mauris vitae neque finibus",
+"content": "Mauris vitae neque finibus, volutpat erat id, condimentum tortor. Ut sed est sed risus congue tristique."
+},
+{
+"id": "119",
+"title": "Lorem ipsum dolor sit amet",
+"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+},
+{
+"id": "120",
+"title": "Sed euismod tempor mauris",
+"content": "Sed euismod tempor mauris, ut fringilla neque tincidunt non."
+},
+{
+"id": "121",
+"title": "Vestibulum ante ipsum primis",
+"content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae."
+},
+{
+"id": "122",
+"title": "Proin consectetur velit",
+"content": "Proin consectetur velit nec sem congue, nec efficitur lectus tincidunt."
+},
+{
+"id": "123",
+"title": "Cras id libero ac mauris",
+"content": "Cras id libero ac mauris dapibus suscipit eu a lectus."
+},
+{
+"id": "124",
+"title": "Fusce interdum sem sit amet",
+"content": "Fusce interdum sem sit amet massa dapibus, sed commodo felis pulvinar."
+},
+{
+"id": "125",
+"title": "Donec tincidunt libero a",
+"content": "Donec tincidunt libero a dolor consectetur, at blandit leo ullamcorper."
+},
+{
+"id": "126",
+"title": "Pellentesque habitant morbi tristique",
+"content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+},
+{
+"id": "127",
+"title": "Vivamus bibendum lacus",
+"content": "Vivamus bibendum lacus et magna viverra, vitae ultricies diam pellentesque."
+},
+{
+"id": "128",
+"title": "Aliquam et varius odio",
+"content": "Aliquam et varius odio, at fringilla erat consequat id."
+},
+{
+"id": "129",
+"title": "Nullam vel ligula ligula",
+"content": "Nullam vel ligula ligula. Ut fringilla odio a magna pellentesque posuere."
+},
+{
+"id": "130",
+"title": "Phasellus at semper urna",
+"content": "Phasellus at semper urna, nec mattis purus. Morbi consequat tempus nibh vel tincidunt."
+},
+{
+"id": "131",
+"title": "Suspendisse varius viverra ipsum",
+"content": "Suspendisse varius viverra ipsum id pellentesque. Nulla facilisi."
+},
+{
+"id": "132",
+"title": "Nunc finibus congue lectus",
+"content": "Nunc finibus congue lectus, ac mattis enim scelerisque id."
+},
+{
+"id": "133",
+"title": "Etiam aliquet commodo",
+"content": "Etiam aliquet commodo sapien, in sagittis ex finibus sit amet."
+},
+{
+"id": "134",
+"title": "Curabitur in ipsum urna",
+"content": "Curabitur in ipsum urna. Sed maximus metus vel pulvinar fringilla."
+},
+{
+"id": "135",
+"title": "Vestibulum sed odio a",
+"content": "Vestibulum sed odio a quam faucibus pharetra sed nec tortor."
+},
+{
+"id": "136",
+"title": "Nam ullamcorper turpis non",
+"content": "Nam ullamcorper turpis non ante semper, eget semper tellus lacinia."
+},
+{
+"id": "137",
+"title": "Quisque vitae ex a",
+"content": "Quisque vitae ex a dolor venenatis vulputate. Pellentesque pulvinar finibus turpis eu congue."
+},
+{
+"id": "138",
+"title": "Integer quis risus consectetur",
+"content": "Integer quis risus consectetur, viverra tellus nec, posuere dolor."
+},
+{
+"id": "139",
+"title": "Praesent eget nunc in",
+"content": "Praesent eget nunc in tellus pharetra commodo vel non mauris."
+},
+{
+"id": "140",
+"title": "Morbi sit amet pharetra",
+"content": "Morbi sit amet pharetra turpis, vitae fermentum risus."
+},
+{
+"id": "141",
+"title": "Vivamus auctor leo nec",
+"content": "Vivamus auctor leo nec turpis ultrices ultricies. Nam feugiat felis nec tincidunt."
+},
+{
+"id": "142",
+"title": "Sed non tristique turpis",
+"content": "Sed non tristique turpis. Cras sit amet velit vitae libero interdum luctus."
+},
+{
+"id": "143",
+"title": "Aenean a eros auctor",
+"content": "Aenean a eros auctor, eleifend velit nec, auctor nibh."
+},
+{
+"id": "144",
+"title": "Maecenas lacinia finibus est",
+"content": "Maecenas lacinia finibus est, sit amet gravida ante posuere sit amet."
+},
+{
+"id": "145",
+"title": "Cras eget est fermentum",
+"content": "Cras eget est fermentum, dictum sapien in, fermentum justo."
+},
+{
+"id": "146",
+"title": "Aliquam eu odio nisl",
+"content": "Aliquam eu odio nisl. Sed tristique nulla sit amet vulputate efficitur."
+},
+{
+"id": "147",
+"title": "Vestibulum consequat tempus sem",
+"content": "Vestibulum consequat tempus sem, nec sollicitudin nulla tristique sit amet."
+},
+{
+"id": "148",
+"title": "Fusce feugiat dui non",
+"content": "Fusce feugiat dui non dignissim facilisis. Phasellus hendrerit tincidunt metus vel tempor."
+},
+{
+"id": "149",
+"title": "Etiam vulputate sem vel",
+"content": "Etiam vulputate sem vel dolor finibus convallis. Integer tincidunt facilisis pulvinar."
+},
+{
+"id": "150",
+"title": "Pellentesque habitant morbi tristique",
+"content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+}
+]
