@@ -2,62 +2,59 @@
 
 {
 "id": "1",
-"question": "Pregunta de reglamentación 1",
+"question": "¿Las Instituciones Reconocidas están autorizadas por la Autoridad de Aplicación para tomar exámenes para ingreso y ascenso de categorías de Radioaficionados?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Si",
+"No"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"No"
 ]
 },
 {
 "id": "2",
-"question": "Pregunta de reglamentación 2",
+"question": "Identifique las categorías de radioaficionados de acuerdo a la nueva reglamentación:",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Inicial",
+"Novicio",
+"Intermedia",
+"General",
+"Superior",
+"Especial"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"Novicio",
+"General",
+"Superior",
+"Especial"
 ]
 },
 {
 "id": "3",
-"question": "Pregunta de reglamentación 3",
+"question": "Defina “RADIO CLUB”:",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Asociación Civil, integrada por cualquier operador de radio habilitado, cuyos objetivos fundamentales se apoyan en la agrupación de los mismos para propender a la difusión y fomento de la actividad radial",
+"Asociación Civil, integrada por entidades que agrupan a operadores de radio, cuyos objetivos fundamentales se basan en la enseñanza y práctica de la actividad comercial.",
+"Persona Jurídica de Orden Privado cuya composición se tipifica dentro de la figura de Asociación Civil sin fines de lucro y sus objetivos fundamentales se apoyan en la agrupación de los Radioaficionados para fomentar el ingreso, enseñanza, difusión y práctica de la actividad",
+"Asociación Civil, integrada por usuarios del Servicios de Banda Ciudadana cuyos objetivos fundamentales se apoyan en la agrupación de los mismos para propender a la difusión y fomento de la actividad radial"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"Persona Jurídica de Orden Privado cuya composición se tipifica dentro de la figura de Asociación Civil sin fines de lucro y sus objetivos fundamentales se apoyan en la agrupación de los Radioaficionados para fomentar el ingreso, enseñanza, difusión y práctica de la actividad"
 ]
 },
 {
 "id": "4",
-"question": "Pregunta de reglamentación 4",
+"question": "¿El Radioaficionado puede realizar trámites en forma personal ante la Autoridad de Aplicación?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Sí",
+"No"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"No"
 ]
 },
 {

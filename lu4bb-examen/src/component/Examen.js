@@ -135,9 +135,14 @@ const Examen = () => {
   return (
     <div className="container">
         <div>
-        {preguntas.map((pregunta) => {
+        <h5>Primera Parte:</h5>
+        <h3>Teoria, Técnica, Propagación y Antenas</h3>
+        <span>15 preguntas de 150 seleccionadas al azar</span>
+                  
+        {preguntas.map((pregunta, index) => {
             return (
             <div key={pregunta.id}>
+                {index === 15 && <hr />} {/* Agrega el <hr> después de la pregunta 15 */}              
                 <h3>{pregunta.title}</h3>
                 {pregunta.question && <p className="pregunta">{pregunta.question}</p>} {/* Movido aquí para mostrar la pregunta primero */}
                 {pregunta.type === "tecnica" ? (
@@ -183,19 +188,21 @@ const Examen = () => {
         })}
         <button onClick={evaluarExamen}>Evaluar</button>
         {evaluado && (
+          <card>
             <div>
             <h3>Resultados:</h3>
             <p>
-                Técnica: {aprobadoTecnica ? "Aprobado" : "Reprobado"} - Porcentaje de respuestas correctas:{" "}
+                <strong>Técnica:</strong> {aprobadoTecnica ? "Aprobado" : "Reprobado"} - Porcentaje de respuestas correctas:{" "}
                 {porcentajeCorrectasTecnica.toFixed(2)}% - Porcentaje de respuestas incorrectas:{" "}
                 {porcentajeIncorrectasTecnica.toFixed(2)}%
             </p>
             <p>
-                Reglamentación: {aprobadoReglamentacion ? "Aprobado" : "Reprobado"} - Porcentaje de respuestas
+                <strong>Reglamentación:</strong> {aprobadoReglamentacion ? "Aprobado" : "Reprobado"} - Porcentaje de respuestas
                 correctas: {porcentajeCorrectasReglamentacion.toFixed(2)}% - Porcentaje de respuestas incorrectas:{" "}
                 {porcentajeIncorrectasReglamentacion.toFixed(2)}%
             </p>
             </div>
+          </card>            
         )}
         </div>
     </div>        
