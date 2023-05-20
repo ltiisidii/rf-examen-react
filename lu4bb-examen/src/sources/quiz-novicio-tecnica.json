@@ -890,171 +890,171 @@
 },
 {
 "id": "75",
-"question": "¿Cuál de los siguientes es un ejemplo de un semiconductor intrínseco?",
+"question": "En un transformador reductor, el número de vueltas del primario es:",
 "type": "tecnica",
 "answers": [
-"Silicio dopado con impurezas de tipo P",
-"Silicio dopado con impurezas de tipo N",
-"Silicio puro",
-"Silicio cristalino"
+"Menor que el secundario",
+"Mayor que el secundario",
+"Igual que las del secundario",
+"La mitad que las del secundario"
 ],
-"correctAnswer": "Silicio puro"
+"correctAnswer": "Mayor que el secundario"
 },
 {
 "id": "76",
-"question": "¿Qué tipo de onda se utiliza para transmitir señales de radio?",
+"question": "El PTT de un equipo es:",
 "type": "tecnica",
 "answers": [
-"Ondas longitudinales",
-"Ondas transversales",
-"Ondas electromagnéticas",
-"Ondas sonoras"
+"La etapa de transmisión",
+"El interruptor que se debe presionar para recibir",
+"El interruptor que se debe presionar para transmitir",
+"La fuente de alimentación (Power To Transmiter)"
 ],
-"correctAnswer": "Ondas electromagnéticas"
+"correctAnswer": "El interruptor que se debe presionar para transmitir"
 },
 {
 "id": "77",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los circuitos en serie?",
+"question": "¿Cómo es la frecuencia de una armónica respecto a la frecuencia fundamental?",
 "type": "tecnica",
 "answers": [
-"La corriente total es igual a la suma de las corrientes en cada componente",
-"La resistencia total es igual a la suma de las resistencias en cada componente",
-"La diferencia de potencial es la misma en todos los componentes",
-"La corriente se divide entre los componentes de acuerdo con la resistencia de cada componente"
+"Es apenas algo más alta",
+"Es apenas algo más baja",
+"Es exactamente un múltiplo",
+"Ninguna de las opciones indicadas"
 ],
-"correctAnswer": "La resistencia total es igual a la suma de las resistencias en cada componente"
+"correctAnswer": "Es exactamente un múltiplo"
 },
 {
 "id": "78",
-"question": "¿Qué es la modulación de amplitud (AM)?",
+"question": "Una señal de BLS (USB) ubicada en los 3.750 Khz. , ocupa el sector de frecuencias comprendido entre:",
 "type": "tecnica",
 "answers": [
-"Un método para cambiar la frecuencia de una señal",
-"Un método para cambiar la amplitud de una señal",
-"Un método para cambiar la fase de una señal",
-"Un método para cambiar la longitud de onda de una señal"
+"3.747 y 3.750 Khz",
+"3.750 y 3.753 Khz",
+"3.747 y 3.753 Khz",
+"3.748 y 3.752 Khz"
 ],
-"correctAnswer": "Un método para cambiar la amplitud de una señal"
+"correctAnswer": "3.750 y 3.753 Khz"
 },
 {
 "id": "79",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los transistores bipolares?",
+"question": "¿Qué ventaja tiene una señal de BLS (USB) con respecto a una señal BLI (LSB)?",
 "type": "tecnica",
 "answers": [
-"Son dispositivos de dos terminales",
-"No requieren alimentación de corriente",
-"Son adecuados para aplicaciones de alta potencia",
-"Tienen una estructura interna similar a los diodos"
+"No pierde inteligibilidad para pequeños corrimientos en la sintonía",
+"Tiene mucha mayor inmunidad al ruido",
+"No tiene ninguna ventaja ni desventaja, solo presentan diferencias técnicas en el transmisor y el receptor",
+"Es más fácil obtener el mensaje a partir de la señal modulada"
 ],
-"correctAnswer": "Son adecuados para aplicaciones de alta potencia"
+"correctAnswer": "No tiene ninguna ventaja ni desventaja, solo presentan diferencias técnicas en el transmisor y el receptor"
 },
 {
 "id": "80",
-"question": "¿Cuál de los siguientes elementos se utiliza para almacenar carga en un circuito eléctrico?",
+"question": "¿Qué relación existe entre la frecuencia y su correspondiente longitud de onda?",
 "type": "tecnica",
 "answers": [
-"Resistencia",
-"Condensador",
-"Diodo",
-"Inductor"
+"Son directamente proporcionales, al aumentar una la otra también aumenta",
+"Son inversamente proporcionales, al aumentar una la otra disminuye",
+"La frecuencia es directamente proporcional al cuadrado de la longitud de onda",
+"La frecuencia es directamente proporcional a la mitad de la longitud de onda"
 ],
-"correctAnswer": "Condensador"
+"correctAnswer": "Son inversamente proporcionales, al aumentar una la otra disminuye"
 },
 {
 "id": "81",
-"question": "¿Qué es la frecuencia de resonancia en un circuito RLC serie?",
+"question": "¿Qué polarización de antena se utiliza habitualmente para la comunicación de dos estaciones en la banda de VHF y UHF para el modo Banda Lateral Unica?",
 "type": "tecnica",
 "answers": [
-"La frecuencia en la cual la corriente alcanza su valor máximo",
-"La frecuencia en la cual la corriente es mínima",
-"La frecuencia en la cual la reactancia inductiva es igual a la reactancia capacitiva",
-"La frecuencia en la cual la impedancia es máxima"
+"Circular",
+"Vertical",
+"Horizontal",
+"Oblicua a 45°"
 ],
-"correctAnswer": "La frecuencia en la cual la impedancia es máxima"
+"correctAnswer": "Horizontal"
 },
 {
 "id": "82",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los diodos?",
+"question": "¿Con qué instrumento medimos la R.O.E.?",
 "type": "tecnica",
 "answers": [
-"Permiten el flujo de corriente en ambas direcciones",
-"Permiten el flujo de corriente en una sola dirección",
-"No permiten el flujo de corriente en ninguna dirección",
-"No están presentes en los circuitos electrónicos"
+"Frecuencímetro",
+"Amperímetro",
+"Medidor de ondas estacionarias",
+"Osciloscopio"
 ],
-"correctAnswer": "Permiten el flujo de corriente en una sola dirección"
+"correctAnswer": "Medidor de ondas estacionarias"
 },
 {
 "id": "83",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los circuitos RL en serie?",
+"question": "¿Qué polarización se utiliza habitualmente para la comunicación por repetidoras en la banda de 2 m?",
 "type": "tecnica",
 "answers": [
-"La corriente está en fase con la tensión",
-"La corriente está adelantada con respecto a la tensión",
-"La corriente está atrasada con respecto a la tensión",
-"La corriente es nula en todo momento"
+"Circular",
+"Vertical",
+"Horizontal",
+"Oblicua a 45°"
 ],
-"correctAnswer": "La corriente está atrasada con respecto a la tensión"
+"correctAnswer": "Vertical"
 },
 {
 "id": "84",
-"question": "¿Qué es la capacidad de carga de un transformador?",
+"question": "¿Qué significa la sigla R.O.E.?",
 "type": "tecnica",
 "answers": [
-"La potencia máxima que puede suministrar el transformador",
-"La corriente máxima que puede circular por el transformador",
-"La tensión máxima que puede soportar el transformador",
-"La carga máxima que puede alimentar el transformador"
+"Relación de polarización Oblicua Espacial",
+"Red Observadores Espaciales",
+"Relación de Ondas Especiales",
+"Relación de Ondas Estacionarias"
 ],
-"correctAnswer": "La carga máxima que puede alimentar el transformador"
+"correctAnswer": "Relación de Ondas Estacionarias"
 },
 {
 "id": "85",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las ondas electromagnéticas?",
+"question": "Si una estación en la banda de 80 metros llega con muy buena señal, ¿qué señal le daría?",
 "type": "tecnica",
 "answers": [
-"Se propagan únicamente en medios conductores",
-"Se propagan únicamente en el vacío",
-"Se propagan tanto en medios conductores como en el vacío",
-"Se propagan únicamente en medios dieléctricos"
+"S-3 + 9 dB",
+"S-9 + 20 dB",
+"S-20 + 9 dB",
+"S-3"
 ],
-"correctAnswer": "Se propagan tanto en medios conductores como en el vacío"
+"correctAnswer": "S-9 + 20 dB"
 },
 {
 "id": "86",
-"question": "¿Qué es el ángulo de fase en un circuito RLC?",
+"question": "Desde la antena, en un receptor, ¿cuál es la etapa que está inmediatamente antes de la etapa detectora?",
 "type": "tecnica",
 "answers": [
-"El ángulo entre la tensión y la corriente en el circuito",
-"El ángulo entre la resistencia y la reactancia en el circuito",
-"El ángulo entre la inductancia y la capacitancia en el circuito",
-"El ángulo entre la reactancia inductiva y la reactancia capacitiva en el circuito"
+"Amplificador de R.F.",
+"Amplificador de F.I.",
+"Amplificador de AF.",
+"Ninguna de las nombradas"
 ],
-"correctAnswer": "El ángulo entre la tensión y la corriente en el circuito"
+"correctAnswer": "Amplificador de F.I."
 },
 {
 "id": "87",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los amplificadores operacionales?",
+"question": "Si la señal de una estación en VHF llega muy débil, al límite del umbral del Squelch, ¿qué señal le daría?",
 "type": "tecnica",
 "answers": [
-"Son dispositivos de dos terminales",
-"No requieren alimentación de corriente",
-"Son adecuados para aplicaciones de alta potencia",
-"Tienen una ganancia de tensión muy alta"
+"Busy",
+"S-1",
+"S-9",
+"S-5"
 ],
-"correctAnswer": "Tienen una ganancia de tensión muy alta"
+"correctAnswer": "S-1"
 },
 {
 "id": "88",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las redes de área local (LAN)?",
+"question": "En un receptor, el amplificador de audio frecuencia:",
 "type": "tecnica",
 "answers": [
-"Son redes de comunicación de larga distancia",
-"Permiten la conexión de computadoras y dispositivos en un área geográfica limitada",
-"Utilizan señales analógicas para la transmisión de datos",
-"Son inalámbricas y no requieren cables"
+"Amplifica la señal modulada para enviarla a la antena",
+"Extrae el mensaje a partir de la señal demodulada",
+"Modifica la amplitud o la frecuencia de la portadora pura, conforme a la señal del mensaje",
+"Amplifica la señal demodulada"
 ],
-"correctAnswer": "Permiten la conexión de computadoras y dispositivos en un área geográfica limitada"
+"correctAnswer": "Amplifica la señal demodulada"
 },
 {
 "id": "89",
@@ -1070,51 +1070,51 @@
 },
 {
 "id": "90",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los cables de fibra óptica?",
+"question": "¿En qué posición un dipolo de 80 m, transmite mas intensamente hacia un lado?",
 "type": "tecnica",
 "answers": [
-"Utilizan señales eléctricas para la transmisión de datos",
-"Son menos eficientes que los cables de cobre",
-"Son más susceptibles a interferencias electromagnéticas",
-"Permiten la transmisión de datos a alta velocidad y a largas distancias"
+"'V' invertida",
+"Inclinado",
+"Horizontal",
+"Vertical"
 ],
-"correctAnswer": "Permiten la transmisión de datos a alta velocidad y a largas distancias"
+"correctAnswer": "Inclinado"
 },
 {
 "id": "91",
-"question": "¿Cuál de las siguientes es una ventaja de la tecnología inalámbrica?",
+"question": "Desde la antena, en un receptor, ¿cuál es la etapa que está inmediatamente después del detector?",
 "type": "tecnica",
 "answers": [
-"Mayor velocidad de transmisión de datos",
-"Menor interferencia electromagnética",
-"Mayor seguridad en la transmisión de datos",
-"Mayor flexibilidad en la ubicación de los dispositivos"
+"Amplificador de R.F.",
+"Amplificador de F.I.",
+"Amplificador de audio",
+"Mezclador"
 ],
-"correctAnswer": "Mayor flexibilidad en la ubicación de los dispositivos"
+"correctAnswer": "Amplificador de audio"
 },
 {
 "id": "92",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los sistemas de posicionamiento global (GPS)?",
+"question": "¿Cuál es la velocidad de las ondas electromagnéticas en el espacio libre?",
 "type": "tecnica",
 "answers": [
-"Utilizan señales de radio para determinar la ubicación de un dispositivo",
-"Requieren una conexión a Internet para funcionar",
-"Son precisos únicamente en áreas urbanas",
-"Permiten determinar la ubicación geográfica con alta precisión"
+"3.000.000 Km./seg",
+"300.000 Km./seg",
+"300/Frecuencia (Mhz.)",
+"142,5/Frecuencia (MHz)"
 ],
-"correctAnswer": "Permiten determinar la ubicación geográfica con alta precisión"
+"correctAnswer": "300.000 Km./seg"
 },
 {
 "id": "93",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los sistemas de almacenamiento en la nube?",
+"question": "Los coaxiles son líneas de transmisión:",
 "type": "tecnica",
 "answers": [
-"Requieren hardware adicional para funcionar",
-"Son menos seguros que los sistemas de almacenamiento local",
-"Permiten el acceso a los datos desde cualquier ubicación con conexión a Internet",
-"Tienen una capacidad de almacenamiento limitada"
+"Balanceadas",
+"Desbalanceadas",
+"De muy alta impedancia",
+"Para conectar en el punto de máxima tensión de la antena"
 ],
-"correctAnswer": "Permiten el acceso a los datos desde cualquier ubicación con conexión a Internet"
+"correctAnswer": "Desbalanceadas"
 },
 {
 "id": "94",
