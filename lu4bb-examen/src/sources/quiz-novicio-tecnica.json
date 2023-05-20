@@ -26,783 +26,1262 @@
 },
 {
 "id": "3",
-"question": "¿Qué componente se utiliza para bloquear el flujo de corriente continua en un circuito?",
+"question": "¿Cuál es la unidad de medida de la intensidad de corriente?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Voltio",
+"Amperio",
+"Vatio",
+"Henrio"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Amperio"
 },
 {
 "id": "4",
-"question": "En un circuito, ¿qué elemento se usa para impedir el paso de corriente continua?",
+"question": "¿En qué unidad se mide la inductancia de una bobina?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Faradio",
+"Joulio",
+"Henrio",
+"Coulombio"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Henrio"
 },
 {
 "id": "5",
-"question": "Para bloquear el flujo de corriente continua en un circuito, ¿qué componente se utiliza?",
+"question": "¿Con qué instrumento se mide la tensión en un circuito eléctrico y como se conecta dicho instrumento?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Amperímetro. Se conecta en serie.",
+"Voltímetro. Se conecta en serie.",
+"Voltímetro. Se conecta en paralelo.",
+"Amperímetro. Se conecta en paralelo"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Voltímetro. Se conecta en paralelo."
 },
 {
 "id": "6",
-"question": "En el contexto de circuitos, ¿qué elemento se utiliza para obstruir el paso de corriente continua?",
+"question": "Tenemos un circuito con 3 resistencias en serie de 10 ohms cada una, conectadas a una fuente de alimentación de corriente continua con 30 V de tensión. ¿Qué valor de intensidad de corriente eléctrica circula por el circuito?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"10 Amperio",
+"100 Amperio",
+"1 Amperio",
+"0,1 Amperio"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "1 Amperio"
 },
 {
 "id": "7",
-"question": "¿Cuál es el componente adecuado para bloquear el flujo de corriente continua en un circuito?",
+"question": "¿Cuál es la unidad de medida de la potencia eléctrica?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Amperio",
+"Voltio",
+"Vatio",
+"Henrio"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Vatio."
 },
 {
 "id": "8",
-"question": "En un circuito, ¿qué elemento se coloca para detener el paso de corriente continua?",
+"question": "¿Con qué instrumento se mide la intensidad de corriente en un circuito eléctrico y como se conecta dicho instrumento?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Voltímetro. Se conecta en serie",
+"Amperímetro. Se conecta en paralelo",
+"Amperímetro. Se conecta en serie",
+"Amperímetro. Se conecta en paralelo"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Amperímetro. Se conecta en serie."
 },
 {
 "id": "9",
-"question": "¿Qué componente se utiliza para evitar el flujo de corriente continua en un circuito?",
+"question": "Se conectan en paralelo tres capacitores de 22, 33 y 5 microfaradios respectivamente . ¿Cuál es la capacidad total del circuito?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"3 uf",
+"60 uf",
+"45 uf",
+"70 uf"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "60 uf"
 },
 {
 "id": "10",
-"question": "Para bloquear el paso de corriente continua en un circuito, ¿qué elemento se usa?",
+"question": "¿Cuál es el ángulo ideal entre ramas de una antena dipolo tipo 'V' invertida?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"135°",
+"45°",
+"90°",
+"180°"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "90°"
 },
 {
 "id": "11",
-"question": "En el contexto de circuitos eléctricos, ¿qué componente se coloca para impedir el flujo de corriente continua?",
+"question": "¿Qué potencia se producirá en una resistencia de 400 ohm, si la tensión aplicada es de 20V?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"10 Vatio",
+"100 Vatio",
+"1 Vatio",
+"20 Vatio"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "1 Vatio"
 },
 {
 "id": "12",
-"question": "¿Cuál es el componente que se utiliza para bloquear el flujo de corriente continua en un circuito?",
+"question": "¿Qué tipo de antena puede ser una buena elección como parte de un equipo portablepara bandas de HF, para ser instalada en caso de emergencia?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Quad de 3 elementos",
+"Yagi de 3 elementos",
+"Dipolo de 1/2 longitud de onda",
+"Helicoidal"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Dipolo de 1/2 longitud de onda"
 },
 {
 "id": "13",
-"question": "En un circuito eléctrico, ¿qué elemento se utiliza para impedir el paso de corriente continua?",
+"question": "¿Qué elemento de los señalados, permite elevar por si solo, una tensión alterna?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
 "Resistencia",
+"Transformador",
 "Diodo",
-"Transformador"
+"Impedancia"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Transformador"
 },
 {
 "id": "14",
-"question": "¿Qué componente se coloca en un circuito para bloquear el flujo de corriente continua?",
+"question": "El valor máximo de una corriente alterna es de 200 mA. ¿Cuál es su valor eficaz?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"130 mA",
+"141,1 mA",
+"158 mA",
+"282,8 mA"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "141,1 mA"
 },
 {
 "id": "15",
-"question": "En el contexto de circuitos eléctricos, ¿qué elemento se utiliza para obstruir el paso de corriente continua?",
+"question": "En un receptor el demodulador.",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Produce una señal eléctrica oscilatoria de amplitud y frecuencia fija denominada portadora",
+"Extrae el mensaje a partir de la señal modulada",
+"Modifica la amplitud o la frecuencia de la portadora pura, conforme a la señal del mensaje",
+"Amplifica la señal modulada"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Extrae el mensaje a partir de la señal modulada"
 },
 {
 "id": "16",
-"question": "¿Cuál es el componente adecuado para detener el flujo de corriente continua en un circuito?",
+"question": "En un transmisor, el modulador:",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Amplifica la señal proveniente de la antena para que su nivel sea mucho mayor al del ruido interno de las etapas subsiguientes",
+"Produce una señal eléctrica oscilatoria de amplitud y frecuencia fija denominada portadora",
+"Modifica la amplitud o frecuencia de la portadora pura, conforme a la señal del mensaje",
+"Amplifica la señal modulada para enviarla a la antena"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Modifica la amplitud o frecuencia de la portadora pura, conforme a la señal del mensaje"
 },
 {
 "id": "17",
-"question": "En un circuito, ¿qué elemento se coloca para bloquear el paso de corriente continua?",
+"question": "Para proteger un equipo de 220 Voltios y 1 KW de consumo, ¿qué valor de fusible sería conveniente instalar en la línea de alimentación?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"500 mA",
+"1 A",
+"3 A",
+"6 A"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "6 A"
 },
 {
 "id": "18",
-"question": "¿Qué componente se utiliza para impedir el flujo de corriente continua en un circuito?",
+"question": "En un capacitor, ¿qué fenómeno se produce entre la tensión y la corriente?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"La tensión adelanta a la corriente",
+"La corriente adelanta a la tensión",
+"La tensión y la corriente están en fase",
+"La corriente está desfasada 360°"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "La corriente adelanta a la tensión"
 },
 {
 "id": "19",
-"question": "Para bloquear el flujo de corriente continua en un circuito, ¿qué elemento se usa?",
+"question": "¿Cuándo existe resonancia en un circuito?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Cuando la reactancia capacitiva es igual a la corriente eléctrica",
+"Cuando la reactancia inductiva es igual a la tensión aplicada",
+"Cuando la reactancia capacitiva es igual a la reactancia inductiva",
+"Cuando la reactancia inductiva es igual a la corriente eléctrica"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Cuando la reactancia capacitiva es igual a la reactancia inductiva"
 },
 {
 "id": "20",
-"question": "En el contexto de circuitos eléctricos, ¿qué componente se utiliza para evitar el paso de corriente continua?",
+"question": "¿Cómo se denomina el material que separa las placas de un capacitor?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Conductor",
+"Dieléctrico",
+"Cátodo",
+"ánodo"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Dieléctrico"
 },
 {
 "id": "21",
-"question": "¿Cuál es el componente que se coloca en un circuito para detener el flujo de corriente continua?",
+"question": "¿Qué tipo de corriente entrega una fuente de alimentación típica, usada en transceptores?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Pulsante",
+"Continua",
+"Alterna",
+"Monofásica"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Continua"
 },
 {
 "id": "22",
-"question": "En un circuito, ¿qué elemento se utiliza para bloquear el paso de corriente continua?",
+"question": "¿De qué elemento se compone un puente rectificador?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Capacitores",
+"Diodos",
+"Fets",
+"Bobinas"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Diodos"
 },
 {
 "id": "23",
-"question": "¿Qué componente se coloca en un circuito eléctrico para impedir el flujo de corriente continua?",
+"question": "¿Cómo se denominan los elementos que conforman un transistor?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"ánodo, emisor y grilla",
+"Placa, pantalla y base",
+"Colector, base y emisor",
+"Colector, base y cátodo"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Colector, base y emisor"
 },
 {
 "id": "24",
-"question": "Para obstruir el paso de corriente continua en un circuito, ¿qué elemento se utiliza?",
+"question": "Tres capacitores de 6 nf son conectados en serie, ¿qué capacidad presenta el conjunto?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"1,0 nf",
+"2,0 nf",
+"6,0 nf",
+"18 nf"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "2,0 nf"
 },
 {
 "id": "25",
-"question": "En el contexto de circuitos, ¿qué componente se coloca para bloquear el flujo de corriente continua?",
+"question": "¿Qué elementos indispensables componen un transformador?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Dos capacitores",
+"Un capacitor y una bobina",
+"Dos bobinas",
+"Una bobina y un diodo"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Dos bobinas"
 },
 {
 "id": "26",
-"question": "¿Cuál es el componente adecuado para impedir el paso de corriente continua en un circuito?",
+"question": "¿Qué elementos indispensables componen una fuente de alimentación típica de 12 Volts c.c. para una estación de radioaficionado.?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Transformador, Capacitor, regulador y fusible",
+"Puente de diodos, Regulador, capacitor y fusible",
+"Transformador, puente de diodos, capacitor, regulador y fusible",
+"Transformador, resistencias, capacitor y fusible"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Transformador, puente de diodos, capacitor, regulador y fusible"
 },
 {
 "id": "27",
-"question": "En un circuito, ¿qué elemento se usa para bloquear el flujo de corriente continua?",
+"question": "El primario de un transformador tiene 60 espiras el secundario 300 espiras, si aplicamos al primario 12 V c.a., ¿qué tensión tendremos en el secundario?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"40 V",
+"50 V",
+"60 V",
+"70 V"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "60 V"
 },
 {
 "id": "28",
-"question": "¿Qué componente se utiliza para detener el flujo de corriente continua en un circuito?",
+"question": "En clase de emisión A3E :",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"La portadora es modulada en fase",
+"La portadora es modulada en amplitud",
+"La portadora es modulada por los armónicos",
+"La señal de micrófono hace variar la frecuencia de la portadora"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "La portadora es modulada en amplitud"
 },
 {
 "id": "29",
-"question": "En el contexto de circuitos eléctricos, ¿qué elemento se coloca para evitar el paso de corriente continua?",
+"question": "Se desea utilizar en la banda de 80 mts. una antena dipolo de 1/2 longitud de onda alimentada en su centro por un cable coaxil de 75 ohms, en la que se midieron los siguientes valores de ROE: En 3500 Khz. ROE=1,1. En 3600 Khz.: ROE=2. En 3700 Khz.: ROE=3. En 3750 Khz.: ROE=4 ¿Qué debemos hacer con dicha antena?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Alargarla",
+"Acortarla",
+"Aumentar la impedancia del coaxil",
+"Inclinarla"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Acortarla"
 },
 {
 "id": "30",
-"question": "¿Cuál es el componente que se utiliza para bloquear el paso de corriente continua en un circuito?",
+"question": "Para obtener una buena relación de ROE, ¿qué es conveniente?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Alta potencia reflejada y baja potencia incidente",
+"Baja potencia reflejada y alta potencia incidente",
+"Alta potencia reflejada y alta potencia incidente",
+"Baja potencia reflejada y baja potencia incidente"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Baja potencia reflejada y alta potencia incidente"
 },
 {
 "id": "31",
-"question": "En un circuito eléctrico, ¿qué elemento se coloca para impedir el flujo de corriente continua?",
+"question": "Describir en bloque un receptor superheterodino en clase de emisión A3E :",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Amplificador de RF, Mezclador, Oscilador de RF, Amplificador de FI, Amplificador de Audio y parlante",
+"Amplificador de RF, Mezclador, Oscilador de RF, Amplificador de FI, Detector, Amplificador de audio y parlante",
+"Amplificador de RF, mezclador, Amplificador de FI, Detector, Amplificador de audio y parlante",
+"Amplificador de RF, Detector de producto, Mezclador, Detector, Amplificador de audio y parlante"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Amplificador de RF, Mezclador, Oscilador de RF, Amplificador de FI, Detector, Amplificador de audio y parlante"
 },
 {
 "id": "32",
-"question": "¿Qué componente se coloca en un circuito para bloquear el flujo de corriente continua?",
+"question": "¿Qué elemento se utiliza para adaptar una antena dipolo con una línea de alimentación desbalanceada?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
+"Transistor",
 "Diodo",
-"Transformador"
+"Balún",
+"Transmatch"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Balún"
 },
 {
 "id": "33",
-"question": "En el contexto de circuitos eléctricos, ¿qué elemento se utiliza para impedir el paso de corriente continua?",
+"question": "¿Qué instrumento se utiliza para medir la potencia de un transmisor?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Amperímetro",
+"Potenciómetro",
+"Vatímetro",
+"Medidor de ROE"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Vatímetro"
 },
 {
 "id": "34",
-"question": "¿Cuál es el componente adecuado para bloquear el flujo de corriente continua en un circuito?",
+"question": "¿Para qué se emplea el amplificador de FI?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Para aumentar la ganancia de la primera etapa amplificadora de RF",
+"Para usarlo como discriminador de frecuencia",
+"Para obtener ganancia y selectividad",
+"Para aumentar la ganancia de la ultima etapa amplificadora de AF"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Para obtener ganancia y selectividad"
 },
 {
 "id": "35",
-"question": "En un circuito, ¿qué elemento se utiliza para evitar el flujo de corriente continua?",
+"question": "¿Qué función cumple el mezclador en un receptor superheterodino?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Mezclar la frecuencia de la FI con la de la señal recibida",
+"Conversión de la señal captada en otra señal de las mismas características pero de frecuencia distinta para que pueda ser filtrada y amplificada con mayor facilidad",
+"Conversión de la señal captada en otra señal de características totalmente distintas a las dadas",
+"Ninguna es correcta"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Conversión de la señal captada en otra señal de las mismas características pero de frecuencia distinta para que pueda ser filtrada y amplificada con mayor facilidad"
 },
 {
 "id": "36",
-"question": "¿Qué componente se coloca para detener el paso de corriente continua en un circuito?",
+"question": "¿Qué instrumento se utiliza para ver la forma de onda en un circuito eléctrico?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Amperímetro",
+"Formametro",
+"Osciloscopio",
+"Ondámetro"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Osciloscopio"
 },
 {
 "id": "37",
-"question": "En el contexto de circuitos, ¿qué elemento se utiliza para obstruir el flujo de corriente continua?",
+"question": "Describir en bloque un receptor de F3E :",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Oscilador de RF, Amplificador de micrófono, filtro, mezclador, amplificador lineal.",
+"Oscilador de RF, Modulador balanceado, Amplificador de micrófono, filtro, mezclador,amplificador lineal",
+"Amplificador de RF, Mezclador, Oscilador de RF, Filtro, Amplificador de FI, Limitador, Discriminador de frecuencia, amplificador de audio y parlante",
+"Amplificador de RF, Mezclador, Oscilador de RF, Amplificador de FI, Detector, Amplificador de audio y parlante"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Amplificador de RF, Mezclador, Oscilador de RF, Filtro, Amplificador de FI, Limitador, Discriminador de frecuencia, amplificador de audio y parlante."
 },
 {
 "id": "38",
-"question": "¿Cuál es el componente adecuado para obstruir el paso de corriente continua en un circuito?",
+"question": "Defina en bloques, un transmisor de Banda Lateral Unica (J3E) :",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Oscilador de RF, Amplificador de micrófono, filtro, mezclador, amplificador lineal.",
+"Oscilador de RF, Modulador balanceado, Amplificador de micrófono, filtro, mezclador,amplificador lineal",
+"Amplificador de RF, Mezclador, Oscilador de RF, Filtro, Amplificador de FI, Limitador, Discriminador de frecuencia, amplificador de audio y parlante",
+"Amplificador de RF, Mezclador, Oscilador de RF, Amplificador de FI, Detector, Amplificador de audio y parlante"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Oscilador de RF, Modulador balanceado, Amplificador de micrófono, filtro, mezclador, amplificador lineal."
 },
 {
 "id": "39",
-"question": "En un circuito eléctrico, ¿qué elemento se utiliza para bloquear el flujo de corriente continua?",
+"question": "En clase de emisión F3E :",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"La portadora varía su amplitud con la señal de micrófono",
+"La señal de micrófono hace variar la frecuencia de la portadora",
+"La portadora no varía de frecuencia, varían los armónicos",
+"Se transmite la portadora modulada en frecuencia con tres tonos"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "La señal de micrófono hace variar la frecuencia de la portadora"
 },
 {
 "id": "40",
-"question": "¿Qué componente se coloca en un circuito para impedir el paso de corriente continua?",
+"question": "Un dipolo de media onda, ¿cómo irradia?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"En forma unidireccional",
+"En forma omnidireccional",
+"En forma bidireccional",
+"En forma isotrópica"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "En forma bidireccional"
 },
 {
 "id": "41",
-"question": "Para bloquear el flujo de corriente continua en un circuito, ¿qué elemento se utiliza?",
+"question": "¿Qué ventaja tiene una señal de BLU (SSB) con respecto a una señal AM?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"No se pierde inteligibilidad para pequeños corrimientos en la sintonía",
+"La cantidad de sonido es superior",
+"La portadora ayuda a tener un mayor alcance",
+"El ancho de banda es la mitad y por lo tanto se hace un mejor aprovechamiento del espectro radioeléctrico"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "El ancho de banda es la mitad y por lo tanto se hace un mejor aprovechamiento del espectro radioeléctrico"
 },
 {
 "id": "42",
-"question": "En el contexto de circuitos eléctricos, ¿qué componente se utiliza para evitar el flujo de corriente continua?",
+"question": "Disponemos de un transformador cuyo primario es alimentado con 220 V c.a. y tiene 1100 Espiras. El secundario nos deberá suministrar 15 V c.a., cuantas espiras deberá tener?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"50 espiras",
+"60 espiras",
+"75 espiras",
+"85 espiras"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "75 espiras"
 },
 {
 "id": "43",
-"question": "¿Cuál es el componente que se coloca en un circuito para detener el flujo de corriente continua?",
+"question": "¿Qué intensidad de corriente circula por una resistencia de 5000 ohms si se le aplica 250 V?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"0,90 A",
+"10 A",
+"0,05 A",
+"0,5 A"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "0,05 A"
 },
 {
 "id": "44",
-"question": "En un circuito, ¿qué elemento se utiliza para bloquear el paso de corriente continua?",
+"question": "Cuándo se aplica una tensión de 150 V a un circuito, la corriente medida es de 2,5 A ¿Cuál es la resistencia del circuito?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"50 ohms",
+"90 ohms",
+"375 ohms",
+"ninguna es correcta"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "ninguna es correcta"
 },
 {
 "id": "45",
-"question": "¿Qué componente se utiliza para impedir el flujo de corriente continua en un circuito?",
+"question": "El ancho de banda de una señal de BLU (SSB) es:",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"La mitad de la correspondiente al mensaje",
+"El doble de la correspondiente al mensaje",
+"Igual de la correspondiente del mensaje",
+"Igual al valor de la portadora"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Igual de la correspondiente del mensaje"
 },
 {
 "id": "46",
-"question": "En el contexto de circuitos eléctricos, ¿qué elemento se coloca para bloquear el flujo de corriente continua?",
+"question": "¿Con qué instrumento se mide la frecuencia?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Amperímetro",
+"Vatímetro",
+"Frecuencímetro",
+"Potenciómetro"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Frecuencímetro"
 },
 {
 "id": "47",
-"question": "¿Cuál es el componente adecuado para impedir el paso de corriente continua en un circuito?",
+"question": "Para fonía el ancho del mensaje transmitido es:",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"50 hz",
+"200 hz",
+"3.000 hz",
+"20 Khz"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "3.000 hz"
 },
 {
 "id": "48",
-"question": "En un circuito, ¿qué elemento se coloca para evitar el flujo de corriente continua?",
+"question": "En clase de emisión J3E :",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"La portadora es modulada por el audio proveniente del amplificador de RF",
+"La portadora es modulada por el audio proveniente del OFV",
+"La portadora es modulada por el audio proveniente del amplificador de micrófono",
+"La señal de micrófono hace variar la frecuencia de la portadora"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "La portadora es modulada por el audio proveniente del amplificador de micrófono"
 },
 {
 "id": "49",
-"question": "¿Qué componente se coloca en un circuito para bloquear el flujo de corriente continua?",
+"question": "¿Qué función cumple un oscilador?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Elimina alguna parte del contenido espectral de una señal, obteniéndose una nueva señal que es una aproximación de la original",
+"Decrementa la amplitud de una señal manteniendo su forma de onda",
+"Convierte una señal electromagnética en eléctrica",
+"Genera internamente señales eléctricas y tiene una salida pero ninguna entrada"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Genera internamente señales eléctricas y tiene una salida pero ninguna entrada"
 },
 {
 "id": "50",
-"question": "Para detener el flujo de corriente continua en un circuito, ¿qué elemento se utiliza?",
+"question": "¿A qué se le llama I.T.V .?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Interferencia de chispas de automotor",
+"interferencia a teléfonos",
+"Interferencia a televisores",
+"Interferencia total en VHF"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Interferencia a televisores"
 },
 {
 "id": "51",
-"question": "En el contexto de circuitos eléctricos, ¿qué componente se utiliza para obstruir el paso de corriente continua?",
+"question": "¿Qué permite realizar el sintonizador de antena (transmatch)?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Amplificar la potencia",
+"Adaptar impedancias entre transmisor y línea de alimentación",
+"Adaptar impedancias entre línea de alimentación y antena",
+"Enfasar dos antenas direccionales"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Adaptar impedancias entre transmisor y línea de alimentación"
 },
 {
 "id": "52",
-"question": "¿Cuál es el componente adecuado para bloquear el flujo de corriente continua en un circuito?",
+"question": "¿Qué antena tiene mas ganancia en estaciones VHF móviles?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"1/4 de onda",
+"5/8 de onda",
+"Cola de chancho (0 dB)",
+"1,5 dBi"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "5/8 de onda"
 },
 {
 "id": "53",
-"question": "En un circuito, ¿qué elemento se utiliza para impedir el paso de corriente continua?",
+"question": "¿Cuál es la longitud de onda correspondiente a una frecuencia de 3657 Khz?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"154,46 m",
+"94,57 m",
+"82,03 m",
+"75,01 m"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "82,03 m"
 },
 {
 "id": "54",
-"question": "¿Qué componente se coloca en un circuito eléctrico para obstruir el flujo de corriente continua?",
+"question": "¿Cuál es habitualmente, la impedancia de salida de los transceptores que se comercializan para uso de radioaficionados?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"75 ohms",
+"300 ohms",
+"50 ohms",
+"35 ohms"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "50 ohms"
 },
 {
 "id": "55",
-"question": "Para evitar el flujo de corriente continua en un circuito, ¿qué elemento se utiliza?",
+"question": "¿Cuál es la longitud de una antena dipolo de 1/2 onda para operar en 28950 Khz.?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"5,34 m",
+"6,23 m",
+"4,9 m",
+"9,84 m"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "4,9 m"
 },
 {
 "id": "56",
-"question": "En el contexto de circuitos, ¿qué componente se coloca para bloquear el flujo de corriente continua?",
+"question": "Un filtro :",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Genera internamente señales eléctricas, tiene una salida pero ninguna entrada",
+"Decrementa la amplitud de una señal manteniendo su forma de onda",
+"Elimina alguna parte del contenido espectral de una señal, obteniéndose una nueva señal que es una aproximación de la original",
+"Convierte una señal electromagnética en eléctrica"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Elimina alguna parte del contenido espectral de una señal, obteniéndose una nueva señal que es una aproximación de la original"
 },
 {
 "id": "57",
-"question": "¿Cuál es el componente adecuado para impedir el flujo de corriente continua en un circuito eléctrico?",
+"question": "La frecuencia de trabajo de un transmisor es de 21.000 Khz. ¿Cuál es su frecuencia en MHz.?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"0,21 MHz",
+"21 MHz",
+"210 MHz",
+"2,1 MHz"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "21 MHz"
 },
 {
 "id": "58",
-"question": "En un circuito, ¿qué elemento se coloca para detener el paso de corriente continua?",
+"question": "¿Cómo irradia una antena vertical?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Unidireccionalmente",
+"Omnidireccionalmente",
+"Bidireccionalmente",
+"Isotrópicamente"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Omnidireccionalmente"
 },
 {
 "id": "59",
-"question": "¿Qué componente se utiliza para bloquear el flujo de corriente continua en un circuito eléctrico?",
+"question": "Cuando se recepcionan dos señales de BLU (SSB) que están en una misma frecuencia:",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Se cancelan entre sí y se escucha solamente ruido",
+"Se interferirán y se escuchara un sonido inteligible",
+"Se escucharan las dos, de acuerdo a la intensidad que se reciben",
+"La que llegue con mayor intensidad tapara a la otra"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "La que llegue con mayor intensidad tapara a la otra"
 },
 {
 "id": "60",
-"question": "En el contexto de circuitos, ¿qué elemento se utiliza para impedir el paso de corriente continua?",
+"question": "¿Cómo irradia una antena común, tipo Yagui de 3 elementos?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Omnidireccionalmente",
+"Direccionalmente",
+"Isotrópicamente",
+"Con polarización circular"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Direccionalmente"
 },
 {
 "id": "61",
-"question": "¿Cuál es el componente adecuado para evitar el flujo de corriente continua en un circuito?",
+"question": "Un transmisor en 146 Mhz. alimenta en un extremo una línea coaxil RG-58-U de 100 mts. y en el otro extremo se conecta una antena. Colocándose vatímetros en ambas puntas, ¿qué se verifica?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"La potencia que llega a la antena es igual a la que sale del transmisor",
+"La potencia que llega a la antena es menor que la que sale del transmisor",
+"La potencia que llega a la antena es mayor que la que sale del transmisor",
+"La potencia que llega a la antena es inversamente proporcional a la que sale del transmisor"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "La potencia que llega a la antena es menor que la que sale del transmisor"
 },
 {
 "id": "62",
-"question": "En un circuito, ¿qué elemento se utiliza para bloquear el flujo de corriente continua?",
+"question": "Se desea enviar como mensaje un tono de 3 Khz., en una señal de BLU banda inferior (BLI) cuya frecuencia es 3.500 Khz, la frecuencia de la señal modulada estará dada por",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Una componente a 3.497 Khz, una componente a 3.500 Khz y una componente a 3.503 Khz",
+"Una componente a 3.497 Khz y una componente a 3.500 Khz",
+"Una componente a 3.497 Khz",
+"Una componente a 3.500 Khz"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Una componente a 3.497 Khz"
 },
 {
 "id": "63",
-"question": "¿Qué componente se coloca en un circuito eléctrico para impedir el paso de corriente continua?",
+"question": "Si por error se selecciona la BLI (SLB) en BLU (SSB) para recibir una señal de banda superior:",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Se escuchará una señal con tonalidad más aguda",
+"Se escuchara una señal ininteligible",
+"Se podrá escuchar la señal sin dificultad en caso de estar el receptor en la frecuencia correcta, caso contrario se escuchará la voz distorsionada",
+"Se escuchará una señal con tonalidad más grave"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Se escuchara una señal ininteligible"
 },
 {
 "id": "64",
-"question": "Para obstruir el flujo de corriente continua en un circuito, ¿qué elemento se utiliza?",
+"question": "¿A qué se denomina polarización de una onda?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Al componente de iones positivos y negativos de la misma",
+"A que la misma llega a los polos",
+"A la posición relativa (vertical u horizontal) de su campo electromagnético",
+"A la polaridad (positiva ó negativa) de la señal aplicada"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "A la posición relativa (vertical u horizontal) de su campo electromagnético"
 },
 {
 "id": "65",
-"question": "En el contexto de circuitos eléctricos, ¿qué componente se utiliza para bloquear el paso de corriente continua?",
+"question": "Una antena direccional de 3 elementos tipo Yagui, bien construida y optimizada para la banda de VHF. ¿Qué ganancia tiene (respecto antena isotrópica)?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Aproximadamente de 3 a 5 dB",
+"Aproximadamente de 6 a 8 dB",
+"Aproximadamente de 8 a 10 dB",
+"Aproximadamente de 9a 11dB"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Aproximadamente de 6 a 8 dB"
 },
 {
 "id": "66",
-"question": "¿Cuál es el componente adecuado para impedir el flujo de corriente continua en un circuito?",
+"question": "La densidad, composición y altura de las capas ionosféricas:",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Cambia con la luna y el estado meteorológico",
+"Cambia con el ciclo solar, la época del año, la hora y la latitud del lugar",
+"Es permanente y no cambia",
+"Cambia en relación a la posición planetaria"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Cambia con el ciclo solar, la época del año, la hora y la latitud del lugar"
 },
 {
 "id": "67",
-"question": "En un circuito, ¿qué elemento se coloca para evitar el paso de corriente continua?",
+"question": "En una antena direccional tipo Yagui de tres elementos, ¿cómo se denominan sus elementos?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
+"Director, Balún, Excitado",
+"Director, Excitado, Reflector",
+"Director, Excitado, Pasivo",
 "Transformador"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Director, Excitado, Reflector"
+},
+{
+"id": "68",
+"question": "¿Cuál es la fórmula aproximada de cálculo de una antena vertical de 1/4 de longitud de onda?",
+"type": "tecnica",
+"answers": [
+"142,5/Frecuencia (MHz)",
+"72/Frecuencia (MHz)",
+"142,5/Velocidad de la luz",
+"Frecuencia (MHz) / 72"
+],
+"correctAnswer": "72/Frecuencia (MHz)"
+},
+{
+"id": "69",
+"question": "¿Cómo se propagan usualmente las señales de VHF?",
+"type": "tecnica",
+"answers": [
+"Se curvan en la ionosfera",
+"Se mueven en círculos",
+"Viajan en línea recta",
+"Viajan en ángulos rectos"
+],
+"correctAnswer": "Viajan en línea recta"
+},
+{
+"id": "70",
+"question": "¿Qué ventajas ofrece el oscilador a cristal de cuarzo sobre otro con inductancia y condensador?",
+"type": "tecnica",
+"answers": [
+"Que es un circuito más sencillo",
+"Que el oscilador de cristal está libre de armónicos y el otro no",
+"Que su estabilidad de frecuencia es mucho mayor",
+"Que es mas económico"
+],
+"correctAnswer": "Que su estabilidad de frecuencia es mucho mayor"
+},
+{
+"id": "71",
+"question": "En un receptor, ¿qué etapa está inmediatamente después de la antena?",
+"type": "tecnica",
+"answers": [
+"Mezclador",
+"Amplificador de FI",
+"Amplificador de RF",
+"Amplificador de AF"
+],
+"correctAnswer": "Amplificador de RF."
+},
+{
+"id": "72",
+"question": "Un transceptor es un equipo:",
+"type": "tecnica",
+"answers": [
+"Transmisor especifico",
+"Que reúne las funciones de transmisor y receptor",
+"Receptor especifico",
+"Receptor bibanda"
+],
+"correctAnswer": "Que reúne las funciones de transmisor y receptor"
+},
+{
+"id": "73",
+"question": "La antena puede ser desconectada del transmisor y operar en vacío:",
+"type": "tecnica",
+"answers": [
+"Cuando se quiere hacer comunicados de corta distancia",
+"Cuando el transmisor esta en clase C",
+"Nunca",
+"Cuando se opera en VHF ó UHF"
+],
+"correctAnswer": "Nunca"
+},
+{
+"id": "74",
+"question": "¿Qué elemento se utiliza para irradiar energía?",
+"type": "tecnica",
+"answers": [
+"Líneas de transmisión",
+"Antena",
+"Transmisores",
+"Amplificadores de RF"
+],
+"correctAnswer": "Antena"
+},
+{
+"id": "75",
+"question": "¿Cuál de los siguientes es un ejemplo de un semiconductor intrínseco?",
+"type": "tecnica",
+"answers": [
+"Silicio dopado con impurezas de tipo P",
+"Silicio dopado con impurezas de tipo N",
+"Silicio puro",
+"Silicio cristalino"
+],
+"correctAnswer": "Silicio puro"
+},
+{
+"id": "76",
+"question": "¿Qué tipo de onda se utiliza para transmitir señales de radio?",
+"type": "tecnica",
+"answers": [
+"Ondas longitudinales",
+"Ondas transversales",
+"Ondas electromagnéticas",
+"Ondas sonoras"
+],
+"correctAnswer": "Ondas electromagnéticas"
+},
+{
+"id": "77",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los circuitos en serie?",
+"type": "tecnica",
+"answers": [
+"La corriente total es igual a la suma de las corrientes en cada componente",
+"La resistencia total es igual a la suma de las resistencias en cada componente",
+"La diferencia de potencial es la misma en todos los componentes",
+"La corriente se divide entre los componentes de acuerdo con la resistencia de cada componente"
+],
+"correctAnswer": "La resistencia total es igual a la suma de las resistencias en cada componente"
+},
+{
+"id": "78",
+"question": "¿Qué es la modulación de amplitud (AM)?",
+"type": "tecnica",
+"answers": [
+"Un método para cambiar la frecuencia de una señal",
+"Un método para cambiar la amplitud de una señal",
+"Un método para cambiar la fase de una señal",
+"Un método para cambiar la longitud de onda de una señal"
+],
+"correctAnswer": "Un método para cambiar la amplitud de una señal"
+},
+{
+"id": "79",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los transistores bipolares?",
+"type": "tecnica",
+"answers": [
+"Son dispositivos de dos terminales",
+"No requieren alimentación de corriente",
+"Son adecuados para aplicaciones de alta potencia",
+"Tienen una estructura interna similar a los diodos"
+],
+"correctAnswer": "Son adecuados para aplicaciones de alta potencia"
+},
+{
+"id": "80",
+"question": "¿Cuál de los siguientes elementos se utiliza para almacenar carga en un circuito eléctrico?",
+"type": "tecnica",
+"answers": [
+"Resistencia",
+"Condensador",
+"Diodo",
+"Inductor"
+],
+"correctAnswer": "Condensador"
+},
+{
+"id": "81",
+"question": "¿Qué es la frecuencia de resonancia en un circuito RLC serie?",
+"type": "tecnica",
+"answers": [
+"La frecuencia en la cual la corriente alcanza su valor máximo",
+"La frecuencia en la cual la corriente es mínima",
+"La frecuencia en la cual la reactancia inductiva es igual a la reactancia capacitiva",
+"La frecuencia en la cual la impedancia es máxima"
+],
+"correctAnswer": "La frecuencia en la cual la impedancia es máxima"
+},
+{
+"id": "82",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los diodos?",
+"type": "tecnica",
+"answers": [
+"Permiten el flujo de corriente en ambas direcciones",
+"Permiten el flujo de corriente en una sola dirección",
+"No permiten el flujo de corriente en ninguna dirección",
+"No están presentes en los circuitos electrónicos"
+],
+"correctAnswer": "Permiten el flujo de corriente en una sola dirección"
+},
+{
+"id": "83",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los circuitos RL en serie?",
+"type": "tecnica",
+"answers": [
+"La corriente está en fase con la tensión",
+"La corriente está adelantada con respecto a la tensión",
+"La corriente está atrasada con respecto a la tensión",
+"La corriente es nula en todo momento"
+],
+"correctAnswer": "La corriente está atrasada con respecto a la tensión"
+},
+{
+"id": "84",
+"question": "¿Qué es la capacidad de carga de un transformador?",
+"type": "tecnica",
+"answers": [
+"La potencia máxima que puede suministrar el transformador",
+"La corriente máxima que puede circular por el transformador",
+"La tensión máxima que puede soportar el transformador",
+"La carga máxima que puede alimentar el transformador"
+],
+"correctAnswer": "La carga máxima que puede alimentar el transformador"
+},
+{
+"id": "85",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las ondas electromagnéticas?",
+"type": "tecnica",
+"answers": [
+"Se propagan únicamente en medios conductores",
+"Se propagan únicamente en el vacío",
+"Se propagan tanto en medios conductores como en el vacío",
+"Se propagan únicamente en medios dieléctricos"
+],
+"correctAnswer": "Se propagan tanto en medios conductores como en el vacío"
+},
+{
+"id": "86",
+"question": "¿Qué es el ángulo de fase en un circuito RLC?",
+"type": "tecnica",
+"answers": [
+"El ángulo entre la tensión y la corriente en el circuito",
+"El ángulo entre la resistencia y la reactancia en el circuito",
+"El ángulo entre la inductancia y la capacitancia en el circuito",
+"El ángulo entre la reactancia inductiva y la reactancia capacitiva en el circuito"
+],
+"correctAnswer": "El ángulo entre la tensión y la corriente en el circuito"
+},
+{
+"id": "87",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los amplificadores operacionales?",
+"type": "tecnica",
+"answers": [
+"Son dispositivos de dos terminales",
+"No requieren alimentación de corriente",
+"Son adecuados para aplicaciones de alta potencia",
+"Tienen una ganancia de tensión muy alta"
+],
+"correctAnswer": "Tienen una ganancia de tensión muy alta"
+},
+{
+"id": "88",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las redes de área local (LAN)?",
+"type": "tecnica",
+"answers": [
+"Son redes de comunicación de larga distancia",
+"Permiten la conexión de computadoras y dispositivos en un área geográfica limitada",
+"Utilizan señales analógicas para la transmisión de datos",
+"Son inalámbricas y no requieren cables"
+],
+"correctAnswer": "Permiten la conexión de computadoras y dispositivos en un área geográfica limitada"
+},
+{
+"id": "89",
+"question": "¿Qué es un multiplexor?",
+"type": "tecnica",
+"answers": [
+"Un dispositivo que combina múltiples señales en una sola",
+"Un dispositivo que amplifica la potencia de una señal",
+"Un dispositivo que convierte señales analógicas en señales digitales",
+"Un dispositivo que filtra señales no deseadas"
+],
+"correctAnswer": "Un dispositivo que combina múltiples señales en una sola"
+},
+{
+"id": "90",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los cables de fibra óptica?",
+"type": "tecnica",
+"answers": [
+"Utilizan señales eléctricas para la transmisión de datos",
+"Son menos eficientes que los cables de cobre",
+"Son más susceptibles a interferencias electromagnéticas",
+"Permiten la transmisión de datos a alta velocidad y a largas distancias"
+],
+"correctAnswer": "Permiten la transmisión de datos a alta velocidad y a largas distancias"
+},
+{
+"id": "91",
+"question": "¿Cuál de las siguientes es una ventaja de la tecnología inalámbrica?",
+"type": "tecnica",
+"answers": [
+"Mayor velocidad de transmisión de datos",
+"Menor interferencia electromagnética",
+"Mayor seguridad en la transmisión de datos",
+"Mayor flexibilidad en la ubicación de los dispositivos"
+],
+"correctAnswer": "Mayor flexibilidad en la ubicación de los dispositivos"
+},
+{
+"id": "92",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los sistemas de posicionamiento global (GPS)?",
+"type": "tecnica",
+"answers": [
+"Utilizan señales de radio para determinar la ubicación de un dispositivo",
+"Requieren una conexión a Internet para funcionar",
+"Son precisos únicamente en áreas urbanas",
+"Permiten determinar la ubicación geográfica con alta precisión"
+],
+"correctAnswer": "Permiten determinar la ubicación geográfica con alta precisión"
+},
+{
+"id": "93",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los sistemas de almacenamiento en la nube?",
+"type": "tecnica",
+"answers": [
+"Requieren hardware adicional para funcionar",
+"Son menos seguros que los sistemas de almacenamiento local",
+"Permiten el acceso a los datos desde cualquier ubicación con conexión a Internet",
+"Tienen una capacidad de almacenamiento limitada"
+],
+"correctAnswer": "Permiten el acceso a los datos desde cualquier ubicación con conexión a Internet"
+},
+{
+"id": "94",
+"question": "¿Cuál de las siguientes tecnologías permite la comunicación inalámbrica de corto alcance entre dispositivos?",
+"type": "tecnica",
+"answers": [
+"Bluetooth",
+"Ethernet",
+"USB",
+"HDMI"
+],
+"correctAnswer": "Bluetooth"
+},
+{
+"id": "95",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las impresoras 3D?",
+"type": "tecnica",
+"answers": [
+"Utilizan tinta líquida para imprimir imágenes en papel",
+"Solo pueden imprimir objetos de plástico",
+"Son más lentas que las impresoras tradicionales",
+"Permiten la fabricación de objetos tridimensionales a partir de diseños digitales"
+],
+"correctAnswer": "Permiten la fabricación de objetos tridimensionales a partir de diseños digitales"
+},
+{
+"id": "96",
+"question": "¿Cuál de las siguientes tecnologías permite la transmisión de datos a través de la red eléctrica?",
+"type": "tecnica",
+"answers": [
+"Wi-Fi",
+"Bluetooth",
+"NFC",
+"PLC"
+],
+"correctAnswer": "PLC"
+},
+{
+"id": "97",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las pantallas OLED?",
+"type": "tecnica",
+"answers": [
+"Utilizan retroiluminación para mostrar imágenes",
+"Son más gruesas que las pantallas LCD",
+"Tienen un menor consumo de energía que las pantallas LCD",
+"Son menos flexibles que las pantallas LCD"
+],
+"correctAnswer": "Tienen un menor consumo de energía que las pantallas LCD"
+},
+{
+"id": "98",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las cámaras digitales?",
+"type": "tecnica",
+"answers": [
+"Utilizan película fotográfica para capturar imágenes",
+"Tienen una menor resolución que las cámaras analógicas",
+"Permiten el almacenamiento de imágenes en formato digital",
+"Son menos versátiles que las cámaras analógicas"
+],
+"correctAnswer": "Permiten el almacenamiento de imágenes en formato digital"
+},
+{
+"id": "99",
+"question": "¿Cuál de las siguientes tecnologías permite la transmisión de datos a través de señales de luz?",
+"type": "tecnica",
+"answers": [
+"Wi-Fi",
+"Bluetooth",
+"Infrarrojo",
+"NFC"
+],
+"correctAnswer": "Infrarrojo"
+},
+{
+"id": "100",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los sistemas operativos móviles?",
+"type": "tecnica",
+"answers": [
+"Son exclusivos de los teléfonos inteligentes",
+"No permiten la instalación de aplicaciones",
+"Permiten la multitarea y la instalación de aplicaciones",
+"Tienen una menor capacidad de almacenamiento que los sistemas operativos de escritorio"
+],
+"correctAnswer": "Permiten la multitarea y la instalación de aplicaciones"
+},
+{
+"id": "101",
+"question": "¿Cuál de las siguientes tecnologías permite la comunicación inalámbrica de corto alcance entre dispositivos mediante el contacto físico?",
+"type": "tecnica",
+"answers": [
+"Wi-Fi",
+"Bluetooth",
+"NFC",
+"Ethernet"
+],
+"correctAnswer": "NFC"
+},
+{
+"id": "102",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los dispositivos de almacenamiento sólido (SSD)?",
+"type": "tecnica",
+"answers": [
+"Utilizan discos magnéticos para almacenar datos",
+"Son más lentos que los discos duros convencionales",
+"Tienen una menor capacidad de almacenamiento que los discos duros convencionales",
+"Son más rápidos y duraderos que los discos duros convencionales"
+],
+"correctAnswer": "Son más rápidos y duraderos que los discos duros convencionales"
+},
+{
+"id": "103",
+"question": "¿Cuál de las siguientes tecnologías permite la transmisión de datos a través de señales de radio?",
+"type": "tecnica",
+"answers": [
+"Wi-Fi",
+"Bluetooth",
+"Ethernet",
+"USB"
+],
+"correctAnswer": "Wi-Fi"
+},
+{
+"id": "104",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las baterías recargables?",
+"type": "tecnica",
+"answers": [
+"No pueden ser recargadas",
+"Tienen una menor capacidad de almacenamiento de energía que las baterías no recargables",
+"Son más caras que las baterías no recargables",
+"Pueden ser recargadas y utilizadas múltiples veces"
+],
+"correctAnswer": "Pueden ser recargadas y utilizadas múltiples veces"
+},
+{
+"id": "105",
+"question": "¿Cuál de las siguientes tecnologías permite la conexión de periféricos a una computadora mediante un cable?",
+"type": "tecnica",
+"answers": [
+"Wi-Fi",
+"Bluetooth",
+"USB",
+"HDMI"
+],
+"correctAnswer": "USB"
+},
+{
+"id": "106",
+"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las redes de área amplia (WAN)?",
+"type": "tecnica",
+"answers": [
+"Son redes de comunicación de corta distancia",
+"Permiten la conexión de dispositivos en un área geográfica limitada",
+"Utilizan señales digitales para la transmisión de datos",
+"Son redes de comunicación de larga distancia"
+],
+"correctAnswer": "Son redes de comunicación de larga distancia"
+},
+{
+"id": "107",
+"question": "¿Cuál de las siguientes tecnologías permite la transmisión de datos entre dispositivos cercanos sin necesidad de cables?",
+"type": "tecnica",
+"answers": [
+"Wi-Fi",
+"Bluetooth",
+"Ethernet",
+"USB"
+],
+"correctAnswer": "Bluetooth"
 }
-]
-  
+]  
