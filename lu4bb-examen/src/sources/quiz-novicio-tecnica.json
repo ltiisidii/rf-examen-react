@@ -1,0 +1,808 @@
+[
+
+{
+"id": "1",
+"question": "¿Con qué elemento bloqueamos el paso de una corriente continua entre dos puntos de un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "2",
+"question": "¿Con qué elemento bloqueamos el paso de una corriente continua entre dos puntos de un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "3",
+"question": "¿Qué componente se utiliza para bloquear el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "4",
+"question": "En un circuito, ¿qué elemento se usa para impedir el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "5",
+"question": "Para bloquear el flujo de corriente continua en un circuito, ¿qué componente se utiliza?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "6",
+"question": "En el contexto de circuitos, ¿qué elemento se utiliza para obstruir el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "7",
+"question": "¿Cuál es el componente adecuado para bloquear el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "8",
+"question": "En un circuito, ¿qué elemento se coloca para detener el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "9",
+"question": "¿Qué componente se utiliza para evitar el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "10",
+"question": "Para bloquear el paso de corriente continua en un circuito, ¿qué elemento se usa?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "11",
+"question": "En el contexto de circuitos eléctricos, ¿qué componente se coloca para impedir el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "12",
+"question": "¿Cuál es el componente que se utiliza para bloquear el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "13",
+"question": "En un circuito eléctrico, ¿qué elemento se utiliza para impedir el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "14",
+"question": "¿Qué componente se coloca en un circuito para bloquear el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "15",
+"question": "En el contexto de circuitos eléctricos, ¿qué elemento se utiliza para obstruir el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "16",
+"question": "¿Cuál es el componente adecuado para detener el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "17",
+"question": "En un circuito, ¿qué elemento se coloca para bloquear el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "18",
+"question": "¿Qué componente se utiliza para impedir el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "19",
+"question": "Para bloquear el flujo de corriente continua en un circuito, ¿qué elemento se usa?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "20",
+"question": "En el contexto de circuitos eléctricos, ¿qué componente se utiliza para evitar el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "21",
+"question": "¿Cuál es el componente que se coloca en un circuito para detener el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "22",
+"question": "En un circuito, ¿qué elemento se utiliza para bloquear el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "23",
+"question": "¿Qué componente se coloca en un circuito eléctrico para impedir el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "24",
+"question": "Para obstruir el paso de corriente continua en un circuito, ¿qué elemento se utiliza?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "25",
+"question": "En el contexto de circuitos, ¿qué componente se coloca para bloquear el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "26",
+"question": "¿Cuál es el componente adecuado para impedir el paso de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "27",
+"question": "En un circuito, ¿qué elemento se usa para bloquear el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "28",
+"question": "¿Qué componente se utiliza para detener el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "29",
+"question": "En el contexto de circuitos eléctricos, ¿qué elemento se coloca para evitar el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "30",
+"question": "¿Cuál es el componente que se utiliza para bloquear el paso de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "31",
+"question": "En un circuito eléctrico, ¿qué elemento se coloca para impedir el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "32",
+"question": "¿Qué componente se coloca en un circuito para bloquear el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "33",
+"question": "En el contexto de circuitos eléctricos, ¿qué elemento se utiliza para impedir el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "34",
+"question": "¿Cuál es el componente adecuado para bloquear el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "35",
+"question": "En un circuito, ¿qué elemento se utiliza para evitar el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "36",
+"question": "¿Qué componente se coloca para detener el paso de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "37",
+"question": "En el contexto de circuitos, ¿qué elemento se utiliza para obstruir el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "38",
+"question": "¿Cuál es el componente adecuado para obstruir el paso de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "39",
+"question": "En un circuito eléctrico, ¿qué elemento se utiliza para bloquear el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "40",
+"question": "¿Qué componente se coloca en un circuito para impedir el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "41",
+"question": "Para bloquear el flujo de corriente continua en un circuito, ¿qué elemento se utiliza?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "42",
+"question": "En el contexto de circuitos eléctricos, ¿qué componente se utiliza para evitar el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "43",
+"question": "¿Cuál es el componente que se coloca en un circuito para detener el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "44",
+"question": "En un circuito, ¿qué elemento se utiliza para bloquear el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "45",
+"question": "¿Qué componente se utiliza para impedir el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "46",
+"question": "En el contexto de circuitos eléctricos, ¿qué elemento se coloca para bloquear el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "47",
+"question": "¿Cuál es el componente adecuado para impedir el paso de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "48",
+"question": "En un circuito, ¿qué elemento se coloca para evitar el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "49",
+"question": "¿Qué componente se coloca en un circuito para bloquear el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "50",
+"question": "Para detener el flujo de corriente continua en un circuito, ¿qué elemento se utiliza?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "51",
+"question": "En el contexto de circuitos eléctricos, ¿qué componente se utiliza para obstruir el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "52",
+"question": "¿Cuál es el componente adecuado para bloquear el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "53",
+"question": "En un circuito, ¿qué elemento se utiliza para impedir el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "54",
+"question": "¿Qué componente se coloca en un circuito eléctrico para obstruir el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "55",
+"question": "Para evitar el flujo de corriente continua en un circuito, ¿qué elemento se utiliza?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "56",
+"question": "En el contexto de circuitos, ¿qué componente se coloca para bloquear el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "57",
+"question": "¿Cuál es el componente adecuado para impedir el flujo de corriente continua en un circuito eléctrico?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "58",
+"question": "En un circuito, ¿qué elemento se coloca para detener el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "59",
+"question": "¿Qué componente se utiliza para bloquear el flujo de corriente continua en un circuito eléctrico?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "60",
+"question": "En el contexto de circuitos, ¿qué elemento se utiliza para impedir el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "61",
+"question": "¿Cuál es el componente adecuado para evitar el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "62",
+"question": "En un circuito, ¿qué elemento se utiliza para bloquear el flujo de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "63",
+"question": "¿Qué componente se coloca en un circuito eléctrico para impedir el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "64",
+"question": "Para obstruir el flujo de corriente continua en un circuito, ¿qué elemento se utiliza?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "65",
+"question": "En el contexto de circuitos eléctricos, ¿qué componente se utiliza para bloquear el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "66",
+"question": "¿Cuál es el componente adecuado para impedir el flujo de corriente continua en un circuito?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+},
+{
+"id": "67",
+"question": "En un circuito, ¿qué elemento se coloca para evitar el paso de corriente continua?",
+"type": "tecnica",
+"answers": [
+"Capacitor",
+"Resistencia",
+"Diodo",
+"Transformador"
+],
+"correctAnswer": "Resistencia"
+}
+]
+  

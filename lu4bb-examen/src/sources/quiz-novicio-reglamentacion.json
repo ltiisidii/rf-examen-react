@@ -1,0 +1,514 @@
+[
+
+{
+"id": "1",
+"question": "Pregunta de reglamentación 1",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "2",
+"question": "Pregunta de reglamentación 2",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "3",
+"question": "Pregunta de reglamentación 3",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "4",
+"question": "Pregunta de reglamentación 4",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "5",
+"question": "Pregunta de reglamentación 5",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "6",
+"question": "Pregunta de reglamentación 6",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "7",
+"question": "Pregunta de reglamentación 7",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "8",
+"question": "Pregunta de reglamentación 8",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "9",
+"question": "Pregunta de reglamentación 9",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "10",
+"question": "Pregunta de reglamentación 10",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "11",
+"question": "Pregunta de reglamentación 11",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "12",
+"question": "Pregunta de reglamentación 12",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "13",
+"question": "Pregunta de reglamentación 13",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "14",
+"question": "Pregunta de reglamentación 14",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "15",
+"question": "Pregunta de reglamentación 15",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "16",
+"question": "Pregunta de reglamentación 16",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "17",
+"question": "Pregunta de reglamentación 17",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "18",
+"question": "Pregunta de reglamentación 18",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "19",
+"question": "Pregunta de reglamentación 19",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "20",
+"question": "Pregunta de reglamentación 20",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "21",
+"question": "Pregunta de reglamentación 21",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "22",
+"question": "Pregunta de reglamentación 22",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "23",
+"question": "Pregunta de reglamentación 23",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "24",
+"question": "Pregunta de reglamentación 24",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "25",
+"question": "Pregunta de reglamentación 25",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "26",
+"question": "Pregunta de reglamentación 26",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "27",
+"question": "Pregunta de reglamentación 27",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "28",
+"question": "Pregunta de reglamentación 28",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "29",
+"question": "Pregunta de reglamentación 29",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "30",
+"question": "Pregunta de reglamentación 30",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "31",
+"question": "Pregunta de reglamentación 31",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "32",
+"question": "Pregunta de reglamentación 32",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "33",
+"question": "Pregunta de reglamentación 33",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+},
+{
+"id": "34",
+"question": "Pregunta de reglamentación 34",
+"type": "reglamentacion",
+"answers": [
+"Respuesta 1",
+"Respuesta 2",
+"Respuesta 3",
+"Respuesta 4"
+],
+"correctAnswer": [
+"Respuesta 1",
+"Respuesta 3"
+]
+}
+]
+  
