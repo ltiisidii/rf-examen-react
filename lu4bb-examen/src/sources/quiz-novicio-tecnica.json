@@ -5,24 +5,24 @@
 "question": "¿Con qué elemento bloqueamos el paso de una corriente continua entre dos puntos de un circuito?",
 "type": "tecnica",
 "answers": [
+"Resistor",
+"Inductor",
 "Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"Termistor"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "Capacitor."
 },
 {
 "id": "2",
-"question": "¿Con qué elemento bloqueamos el paso de una corriente continua entre dos puntos de un circuito?",
+"question": "Una resistencia está identificada con los siguientes colores: Rojo-Naranja-Rojo ¿Qué valor tiene?",
 "type": "tecnica",
 "answers": [
-"Capacitor",
-"Resistencia",
-"Diodo",
-"Transformador"
+"670 Kohm",
+"230 ohm",
+"2,3 Kohm",
+"23 Kohm"
 ],
-"correctAnswer": "Resistencia"
+"correctAnswer": "2,3 Kohm"
 },
 {
 "id": "3",
