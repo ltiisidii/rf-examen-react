@@ -134,79 +134,117 @@ const Examen = () => {
 
   return (
     <div className="container">
-        <div>
+      <div>
         <h5>Primera Parte:</h5>
-        <h3>Teoria, Técnica, Propagación y Antenas</h3>
+        <h3>Teoría, Técnica, Propagación y Antenas</h3>
         <span>15 preguntas de 150 seleccionadas al azar</span>
-                  
+  
         {preguntas.map((pregunta, index) => {
-            return (
+          return (
             <div key={pregunta.id}>
-                {index === 15 && <hr />} {/* Agrega el <hr> después de la pregunta 15 */}              
-                <h3>{pregunta.title}</h3>
-                {pregunta.question && <p className="pregunta">{pregunta.question}</p>} {/* Movido aquí para mostrar la pregunta primero */}
-                {pregunta.type === "tecnica" ? (
+              {index === 15 && (
+              <>
+              <hr />
+              <h5>Segunda Parte:</h5>
+              <h3>Reglamentación y Ética Operativa</h3>
+              <span>15 preguntas de 183 seleccionadas al azar</span>
+              </>
+              )}       
+              <h3>{pregunta.title}</h3>
+              {pregunta.question && (
+                <p className="pregunta">{pregunta.question}</p>
+              )} {/* Movido aquí para mostrar la pregunta primero */}
+              {pregunta.type === "tecnica" ? (
                 <div>
-                    {pregunta.answers.map((respuesta) => {
-                    const isChecked = respuestasTecnica[pregunta.id] === respuesta;
+                  {pregunta.answers.map((respuesta) => {
+                    const isChecked =
+                      respuestasTecnica[pregunta.id] === respuesta;
                     return (
-                        <div key={respuesta}>
+                      <div key={respuesta}>
                         <input
-                            type="radio"
-                            id={respuesta}
-                            name={pregunta.id}
-                            checked={isChecked}
-                            onChange={() => handleSeleccionarRespuestaTecnica(pregunta.id, respuesta)}
+                          type="radio"
+                          id={respuesta}
+                          name={pregunta.id}
+                          checked={isChecked}
+                          onChange={() =>
+                            handleSeleccionarRespuestaTecnica(
+                              pregunta.id,
+                              respuesta
+                            )
+                          }
                         />
-                        <label htmlFor={respuesta} className="respuesta-label">{respuesta}</label> {/* Agrega la clase CSS "respuesta-label" */}
-                        </div>
+                        <label
+                          htmlFor={respuesta}
+                          className="respuesta-label"
+                        >
+                          {respuesta}
+                        </label>{" "}
+                        {/* Agrega la clase CSS "respuesta-label" */}
+                      </div>
                     );
-                    })}
+                  })}
                 </div>
-                ) : (
+              ) : (
                 <div>
-                    {pregunta.answers.map((respuesta) => {
-                    const isChecked = (respuestasReglamentacion[pregunta.id] || []).includes(respuesta);
+
+                  {pregunta.answers.map((respuesta) => {
+                    const isChecked = (respuestasReglamentacion[
+                      pregunta.id
+                    ] || []).includes(respuesta);
                     return (
-                        <div key={respuesta}>
+                      <div key={respuesta}> 
                         <input
-                            type="checkbox"
-                            id={respuesta}
-                            name={pregunta.id}
-                            checked={isChecked}
-                            onChange={() => handleSeleccionarRespuestaReglamentacion(pregunta.id, respuesta)}
+                          type="checkbox"
+                          id={respuesta}
+                          name={pregunta.id}
+                          checked={isChecked}
+                          onChange={() =>
+                            handleSeleccionarRespuestaReglamentacion(
+                              pregunta.id,
+                              respuesta
+                            )
+                          }
                         />
-                        <label htmlFor={respuesta} className="respuesta-label">{respuesta}</label> {/* Agrega la clase CSS "respuesta-label" */}
-                        </div>
+                        <label
+                          htmlFor={respuesta}
+                          className="respuesta-label"
+                        >
+                          {respuesta}
+                        </label>{" "}
+                        {/* Agrega la clase CSS "respuesta-label" */}
+                      </div>
                     );
-                    })}
+                  })}
                 </div>
-                )}
-                
+              )}
             </div>
-            );
+          );
         })}
         <button onClick={evaluarExamen}>Evaluar</button>
         {evaluado && (
           <card>
             <div>
-            <h3>Resultados:</h3>
-            <p>
-                <strong>Técnica:</strong> {aprobadoTecnica ? "Aprobado" : "Reprobado"} - Porcentaje de respuestas correctas:{" "}
-                {porcentajeCorrectasTecnica.toFixed(2)}% - Porcentaje de respuestas incorrectas:{" "}
+              <h3>Resultados:</h3>
+              <p>
+                <strong>Técnica:</strong>{" "}
+                {aprobadoTecnica ? "Aprobado" : "Reprobado"} - Porcentaje de
+                respuestas correctas: {porcentajeCorrectasTecnica.toFixed(2)}% -
+                Porcentaje de respuestas incorrectas:{" "}
                 {porcentajeIncorrectasTecnica.toFixed(2)}%
-            </p>
-            <p>
-                <strong>Reglamentación:</strong> {aprobadoReglamentacion ? "Aprobado" : "Reprobado"} - Porcentaje de respuestas
-                correctas: {porcentajeCorrectasReglamentacion.toFixed(2)}% - Porcentaje de respuestas incorrectas:{" "}
-                {porcentajeIncorrectasReglamentacion.toFixed(2)}%
-            </p>
+              </p>
+              <p>
+                <strong>Reglamentación:</strong>{" "}
+                {aprobadoReglamentacion ? "Aprobado" : "Reprobado"} - Porcentaje
+                de respuestas correctas: {porcentajeCorrectasReglamentacion.toFixed(2)}% - Porcentaje de respuestas
+                incorrectas: {porcentajeIncorrectasReglamentacion.toFixed(2)}%
+              </p>
             </div>
-          </card>            
+          </card>
         )}
-        </div>
-    </div>        
+      </div>
+    </div>
   );
+  
 };
 
 export default Examen;
