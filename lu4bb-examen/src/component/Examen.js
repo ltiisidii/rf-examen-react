@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import preguntasTecnica from "../sources/quiz-novicio-tecnica.json";
 import preguntasReglamentacion from "../sources/quiz-novicio-reglamentacion.json";
+import './Examen.css';
 
 const Examen = () => {
   const [preguntas, setPreguntas] = useState([]);
@@ -137,7 +138,7 @@ const Examen = () => {
         return (
           <div key={pregunta.id}>
             <h3>{pregunta.title}</h3>
-            {pregunta.question && <p>{pregunta.question}</p>} {/* Movido aquí para mostrar la pregunta primero */}
+            {pregunta.question && <p className="pregunta">{pregunta.question}</p>} {/* Movido aquí para mostrar la pregunta primero */}
             {pregunta.type === "tecnica" ? (
               <div>
                 {pregunta.answers.map((respuesta) => {
@@ -151,7 +152,7 @@ const Examen = () => {
                         checked={isChecked}
                         onChange={() => handleSeleccionarRespuestaTecnica(pregunta.id, respuesta)}
                       />
-                      <label htmlFor={respuesta}>{respuesta}</label>
+                      <label htmlFor={respuesta} className="respuesta-label">{respuesta}</label> {/* Agrega la clase CSS "respuesta-label" */}
                     </div>
                   );
                 })}
@@ -169,7 +170,7 @@ const Examen = () => {
                         checked={isChecked}
                         onChange={() => handleSeleccionarRespuestaReglamentacion(pregunta.id, respuesta)}
                       />
-                      <label htmlFor={respuesta}>{respuesta}</label>
+                      <label htmlFor={respuesta} className="respuesta-label">{respuesta}</label> {/* Agrega la clase CSS "respuesta-label" */}
                     </div>
                   );
                 })}
