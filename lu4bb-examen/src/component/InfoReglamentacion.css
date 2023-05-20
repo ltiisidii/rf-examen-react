@@ -1,4 +1,4 @@
-.info-tecnica-container {
+.info-Reglamentacion-container {
     display: grid;
     gap: 10px;
   }
@@ -26,9 +26,9 @@
     border: none;
     border-top: 1px solid #ccc;
   }
-  
+
 .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+ display: flex;
+ justify-content: center;
+ align-items: center;
 }
