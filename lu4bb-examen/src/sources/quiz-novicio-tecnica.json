@@ -1118,170 +1118,206 @@
 },
 {
 "id": "94",
-"question": "¿Cuál de las siguientes tecnologías permite la comunicación inalámbrica de corto alcance entre dispositivos?",
+"question": "¿Cómo están formadas las ondas de radio ?",
 "type": "tecnica",
 "answers": [
-"Bluetooth",
-"Ethernet",
-"USB",
-"HDMI"
+"Por campos eléctricos",
+"Por campos magnéticos",
+"Por campos eléctricos y magnéticos",
+"Por campos electroestáticos"
 ],
-"correctAnswer": "Bluetooth"
+"correctAnswer": "Por campos eléctricos y magnéticos"
 },
 {
 "id": "95",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las impresoras 3D?",
+"question": "Las líneas abiertas tienen:",
 "type": "tecnica",
 "answers": [
-"Utilizan tinta líquida para imprimir imágenes en papel",
-"Solo pueden imprimir objetos de plástico",
-"Son más lentas que las impresoras tradicionales",
-"Permiten la fabricación de objetos tridimensionales a partir de diseños digitales"
+"Menor perdida que las líneas coaxiles",
+"Igual perdida que las líneas coaxiles",
+"Mayor pérdida que las líneas coaxiles",
+"Tiene el doble de pérdida que las líneas coaxiles"
 ],
-"correctAnswer": "Permiten la fabricación de objetos tridimensionales a partir de diseños digitales"
+"correctAnswer": "Menor perdida que las líneas coaxiles"
 },
 {
 "id": "96",
-"question": "¿Cuál de las siguientes tecnologías permite la transmisión de datos a través de la red eléctrica?",
+"question": "¿Cuál es la constante práctica que se utiliza para el cálculo de antenas dipolos de 1/2 longitud de onda según la formula Longitud = K/f (MHz)?",
 "type": "tecnica",
 "answers": [
-"Wi-Fi",
-"Bluetooth",
-"NFC",
-"PLC"
+"K=72",
+"K=132,5",
+"K=142,5",
+"K=300"
 ],
-"correctAnswer": "PLC"
+"correctAnswer": "K=142,5"
 },
 {
 "id": "97",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las pantallas OLED?",
+"question": "En un transceptor, por medio del comando AF GAIN:",
 "type": "tecnica",
 "answers": [
-"Utilizan retroiluminación para mostrar imágenes",
-"Son más gruesas que las pantallas LCD",
-"Tienen un menor consumo de energía que las pantallas LCD",
-"Son menos flexibles que las pantallas LCD"
+"Se controla la ganancia de la sección de radio frecuencia del transmisor",
+"Se controla la ganancia de la sección de radio frecuencia del receptor",
+"Se controla la ganancia de la sección de audio frecuencia del transmisor",
+"Se controla la ganancia de la sección de audio frecuencia del receptor"
 ],
-"correctAnswer": "Tienen un menor consumo de energía que las pantallas LCD"
+"correctAnswer": "Se controla la ganancia de la sección de audio frecuencia del receptor"
 },
 {
 "id": "98",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las cámaras digitales?",
+"question": "En un transceptor, por medio del comando SQUELCH:",
 "type": "tecnica",
 "answers": [
-"Utilizan película fotográfica para capturar imágenes",
-"Tienen una menor resolución que las cámaras analógicas",
-"Permiten el almacenamiento de imágenes en formato digital",
-"Son menos versátiles que las cámaras analógicas"
+"Se atenúa el ruido de las estaciones que llegan con señales débiles",
+"Se atenúa el ruido de las estaciones que llegan con señales fuertes",
+"Se silencia el audio cuando a la entrada del receptor no se detecta señal en la frecuencia de trabajo",
+"Aumenta la ganancia del receptor para estaciones débiles y la disminuye para estaciones fuertes"
 ],
-"correctAnswer": "Permiten el almacenamiento de imágenes en formato digital"
+"correctAnswer": "Se silencia el audio cuando a la entrada del receptor no se detecta señal en la frecuencia de trabajo"
 },
 {
 "id": "99",
-"question": "¿Cuál de las siguientes tecnologías permite la transmisión de datos a través de señales de luz?",
+"question": "En un transceptor, por medio del comando MODE:",
 "type": "tecnica",
 "answers": [
-"Wi-Fi",
-"Bluetooth",
-"Infrarrojo",
-"NFC"
+"Se selecciona los modo de operación AM, BLU (SSB), BLU (LSB), CW y FM",
+"Se selecciona la frecuencia de operación de acuerdo a las memorias programadas.",
+"Se controla la amplitud de la portadora a transmitir en AM, BLU (SSB), BLU (LSB) y FM",
+"Se selecciona la banda de operación"
 ],
-"correctAnswer": "Infrarrojo"
+"correctAnswer": "Se selecciona los modo de operación AM, BLU (SSB), BLU (LSB), CW y FM"
 },
 {
 "id": "100",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los sistemas operativos móviles?",
+"question": "¿Cuál es la longitud de onda correspondiente a una frecuencia de 430,130 MHz?",
 "type": "tecnica",
 "answers": [
-"Son exclusivos de los teléfonos inteligentes",
-"No permiten la instalación de aplicaciones",
-"Permiten la multitarea y la instalación de aplicaciones",
-"Tienen una menor capacidad de almacenamiento que los sistemas operativos de escritorio"
+"0,662 m",
+"0,595 m",
+"0,697 m",
+"0,98 m"
 ],
-"correctAnswer": "Permiten la multitarea y la instalación de aplicaciones"
+"correctAnswer": "0,697 m"
 },
 {
 "id": "101",
-"question": "¿Cuál de las siguientes tecnologías permite la comunicación inalámbrica de corto alcance entre dispositivos mediante el contacto físico?",
+"question": "¿Qué simboliza la 'flecha' en un transistor tipo PNP?",
 "type": "tecnica",
 "answers": [
-"Wi-Fi",
-"Bluetooth",
-"NFC",
-"Ethernet"
+"La flecha es el colector y apunta hacia adentro del círculo",
+"La flecha es la base y apunta hacia adentro del círculo",
+"La flecha es el emisor y apunta hacia adentro del círculo",
+"La flecha es el colector y apunta hacia fuera del círculo"
 ],
-"correctAnswer": "NFC"
+"correctAnswer": "La flecha es el emisor y apunta hacia adentro del círculo"
 },
 {
 "id": "102",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de los dispositivos de almacenamiento sólido (SSD)?",
+"question": "¿Cuál es el ángulo ideal entre las ramas de una antena dipolo horizontal de 1/2 longitud de onda para la banda de 80 metros?",
 "type": "tecnica",
 "answers": [
-"Utilizan discos magnéticos para almacenar datos",
-"Son más lentos que los discos duros convencionales",
-"Tienen una menor capacidad de almacenamiento que los discos duros convencionales",
-"Son más rápidos y duraderos que los discos duros convencionales"
+"45°",
+"90°",
+"135°",
+"180°"
 ],
-"correctAnswer": "Son más rápidos y duraderos que los discos duros convencionales"
+"correctAnswer": "180°"
 },
 {
 "id": "103",
-"question": "¿Cuál de las siguientes tecnologías permite la transmisión de datos a través de señales de radio?",
+"question": "Una antena dipolo plegado. ¿Qué impedancia presenta en su centro?",
 "type": "tecnica",
 "answers": [
-"Wi-Fi",
-"Bluetooth",
-"Ethernet",
-"USB"
+"50 ohms",
+"75 ohms",
+"150 ohms",
+"300 ohms"
 ],
-"correctAnswer": "Wi-Fi"
+"correctAnswer": "300 ohms"
 },
 {
 "id": "104",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las baterías recargables?",
+"question": "Si dos resistencias de igual valor están conectadas en serie. ¿Cuánto vale la resistencia total del circuito?",
 "type": "tecnica",
 "answers": [
-"No pueden ser recargadas",
-"Tienen una menor capacidad de almacenamiento de energía que las baterías no recargables",
-"Son más caras que las baterías no recargables",
-"Pueden ser recargadas y utilizadas múltiples veces"
+"La suma de las dos",
+"La mitad de una de ellas",
+"Tres veces el valor de una de ellas",
+"La cuarta parte del producto de las dos"
 ],
-"correctAnswer": "Pueden ser recargadas y utilizadas múltiples veces"
+"correctAnswer": "La suma de las dos"
 },
 {
 "id": "105",
-"question": "¿Cuál de las siguientes tecnologías permite la conexión de periféricos a una computadora mediante un cable?",
+"question": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4= 4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Cuál será la resistencia total (aproximada) del circuito?",
 "type": "tecnica",
 "answers": [
-"Wi-Fi",
-"Bluetooth",
-"USB",
-"HDMI"
+"7,77 Kohms",
+"77,7 ohms",
+"7,77 ohms",
+"777 ohms"
 ],
-"correctAnswer": "USB"
+"correctAnswer": "7,77 ohms"
 },
 {
 "id": "106",
-"question": "¿Cuál de las siguientes afirmaciones es cierta acerca de las redes de área amplia (WAN)?",
+"question": "¿Cuál es el período en que se producen los máximos ciclos solares.?",
 "type": "tecnica",
 "answers": [
-"Son redes de comunicación de corta distancia",
-"Permiten la conexión de dispositivos en un área geográfica limitada",
-"Utilizan señales digitales para la transmisión de datos",
-"Son redes de comunicación de larga distancia"
+"2 años",
+"11 años",
+"15 años",
+"5 años"
 ],
-"correctAnswer": "Son redes de comunicación de larga distancia"
+"correctAnswer": "11 años"
 },
 {
 "id": "107",
-"question": "¿Cuál de las siguientes tecnologías permite la transmisión de datos entre dispositivos cercanos sin necesidad de cables?",
+"question": "Según el código de colores para resistencias, ¿cuál sería la combinación correcta para 87 ohms?",
 "type": "tecnica",
 "answers": [
-"Wi-Fi",
-"Bluetooth",
-"Ethernet",
-"USB"
+"Gris, azul, negro",
+"Blanco, azul, negro",
+"Blanco, verde, marrón",
+"Gris, violeta, negro"
 ],
-"correctAnswer": "Bluetooth"
+"correctAnswer": "Gris, violeta, negro"
+},
+{
+"id": "108",
+"question": "El dial de un receptor esta calibrado en kilohertz y muestra la frecuencia de 7125 Khz. ¿Qué frecuencia mostraría si estuviera calibrado en Megahertz?",
+"type": "tecnica",
+"answers": [
+"71,25 MHz",
+"7,125 MHz",
+".007125 MHz",
+"712,5 MHz"
+],
+"correctAnswer": "7,125 MHz"
+},
+{
+"id": "109",
+"question": "Según el código de colores de resistencias, ¿cuál sería la combinación correcta para 290 ohms",
+"type": "tecnica",
+"answers": [
+"Naranja, blanco, negro",
+"Rojo, blanco, marrón",
+"Rojo, gris, marrón",
+"Rojo, gris, negro"
+],
+"correctAnswer": "Rojo, blanco, marrón"
+},
+{
+"id": "110",
+"question": "¿Qué elemento de una válvula es el ánodo?",
+"type": "tecnica",
+"answers": [
+"Filamento",
+"Placa",
+"Pantalla",
+"Drenaje"
+],
+"correctAnswer": "Placa"
 }
 ]  
