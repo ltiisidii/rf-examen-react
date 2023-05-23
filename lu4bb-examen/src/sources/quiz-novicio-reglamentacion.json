@@ -1225,127 +1225,110 @@
 },
 {
 "id": "89",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Cuál es el criterio de asignación por parte de la Autoridad de Aplicación del sufijo de la señal distintiva en caso de poseer sólo estaciones móviles?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Domicilio de emplazamiento de la estación fija",
+"Domicilio indicado en el DNI del Radioaficionado"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"Domicilio indicado en el DNI del Radioaficionado"
 ]
 },
 {
 "id": "90",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Por cuánto tiempo se otorga la Señal Distintiva Especial?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"2 años",
+"1 año",
+"5 años"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"1 año"
 ]
 },
 {
 "id": "91",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Quiénes podrán solicitar Señales Distintivas Especiales?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Radioaficionados categoría General o Superior",
+"Radio Clubes, Instituciones Autorizadas, Instituciones Reconocidas",
+"Radioaficionados categoría Novicio"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"Radioaficionados categoría General o Superior",
+"Radio Clubes, Instituciones Autorizadas, Instituciones Reconocidas"
 ]
 },
 {
 "id": "92",
-"question": "Pregunta de reglamentación 34",
+"question": "¿En qué casos los titulares de licencia de Radioaficionado están autorizados a instalar y operar estaciones móviles?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Sólo en caso de emergencias",
+"Sólo en período de vacaciones",
+"Cuando posea licencia de conductor",
+"No hay restricciones"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"No hay restricciones"
 ]
 },
 {
 "id": "93",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Cuáles son las condiciones que deberá acreditar el Radioaficionado para solicitar una Señal Distintiva Especial?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Haber participado en tres concursos distintos con su señal distintiva propia",
+"Haber realizado en cada uno de ellos un mínimo de 500 contactos",
+"Haber sido titular de equipo de operación"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"Haber participado en tres concursos distintos con su señal distintiva propia",
+"Haber realizado en cada uno de ellos un mínimo de 500 contactos"
 ]
 },
 {
 "id": "94",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Se pueden tener dos o más Señales Distintivas Especiales vigentes al mismo tiempo?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"No",
+"Si"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"No"
 ]
 },
 {
 "id": "95",
-"question": "Pregunta de reglamentación 34",
+"question": "En caso de poseer Estaciones Terrenas pertenecientes al Servicio de Radioaficionados por Satélite, ¿es necesario registrarlas ante la Autoridad de Aplicación?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Si",
+"No"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"No"
 ]
 },
 {
 "id": "96",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Quiénes podrán operar simultáneamente múltiples estaciones de su titularidad durante el dictado de cursos, Práctica Operativa, toma de exámenes, contactos DX o concursos, según corresponda a sus competencias?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Radioaficionados",
+"Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas"
 ]
 },
 {
 "id": "97",
-"question": "Pregunta de reglamentación 34",
+"question": "Cuando un Radioaficionado opera una estación radioeléctrica de la cual no es titular, ¿en qué bandas lo hace?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
@@ -1360,7 +1343,7 @@
 },
 {
 "id": "98",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Cuál es el plazo máximo para poner en funcionamiento una Estación Repetidora ya autorizada por la Autoridad de Aplicación?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
@@ -1375,7 +1358,7 @@
 },
 {
 "id": "99",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Ante qué casos caducará la autorización de una Estación Repetidora?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
@@ -1390,7 +1373,7 @@
 },
 {
 "id": "100",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Puede haber en nuestro país Estaciones Repetidoras del Servicio de Radioaficionados con acceso codificado mediante subtonos?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
@@ -1405,7 +1388,7 @@
 },
 {
 "id": "101",
-"question": "Pregunta de reglamentación 34",
+"question": "En el caso en que una Estación Repetidora autorizada se encuentra totalmente fuera de servicio, ¿cuál es el plazo máximo en que puede permanecer inactiva, antes que se produzca su caducidad automática?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
@@ -1420,7 +1403,7 @@
 },
 {
 "id": "102",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Qué se requiere para la autorización de un enlace de 2 o más Estaciones Repetidoras por parte de la Autoridad de Aplicación?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
@@ -1435,7 +1418,7 @@
 },
 {
 "id": "103",
-"question": "Pregunta de reglamentación 34",
+"question": "Con relación a la altura de la estructura soporte de antenas que pretende instalar el Radioaficionado, ¿ante qué Organismo debe realizar el trámite pertinente de autorización?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
@@ -1450,7 +1433,7 @@
 },
 {
 "id": "104",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Quiénes están autorizados a dar prácticas operativas?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
@@ -1465,7 +1448,7 @@
 },
 {
 "id": "105",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Qué categoría se requiere para instalar y poner en funcionamiento una Radiobaliza (Radiofaro)?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
@@ -1480,7 +1463,7 @@
 },
 {
 "id": "106",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Quiénes podrán dictar cursos y/o tomar examen para ingreso y ascenso de categoría?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
@@ -1495,7 +1478,7 @@
 },
 {
 "id": "107",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Cómo deberán tomarse los exámenes para ingreso o ascenso de categoría?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
@@ -1510,7 +1493,7 @@
 },
 {
 "id": "108",
-"question": "Pregunta de reglamentación 34",
+"question": "¿Con cuántos días de anticipación a la instalación el Radioaficionado deberá notificar a la Autoridad de Aplicación la puesta en funcionamiento de la Radiobaliza, en forma fehaciente, la frecuencia de operación, el domicilio de emplazamiento y potencia de transmisión?",
 "type": "reglamentacion",
 "answers": [
 "Respuesta 1",
