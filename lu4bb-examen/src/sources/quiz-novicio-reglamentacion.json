@@ -1331,14 +1331,11 @@
 "question": "Cuando un Radioaficionado opera una estación radioeléctrica de la cual no es titular, ¿en qué bandas lo hace?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"En las permitidas según la categoría del Titular",
+"En las permitidas según la categoría del Operador"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"En las permitidas según la categoría del Operador"
 ]
 },
 {
@@ -1346,14 +1343,13 @@
 "question": "¿Cuál es el plazo máximo para poner en funcionamiento una Estación Repetidora ya autorizada por la Autoridad de Aplicación?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"72 horas",
+"30 días",
+"60 días",
+"90 días"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"90 días"
 ]
 },
 {
@@ -1361,14 +1357,15 @@
 "question": "¿Ante qué casos caducará la autorización de una Estación Repetidora?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"No haber informado dentro de los 15 días corridos, el inicio de su operación",
+"Inactividad comprobada en un período mayor a los 60 días corridos",
+"No haber renovado la licencia del titular o la autorización de la Estación Repetidora en el período estipulado en el Reglamento vigente",
+"Cuando el titular reciba un apercibimiento por parte de la Autoridad de Aplicación por infracción en el uso de la Estación Repetidora"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"No haber informado dentro de los 15 días corridos, el inicio de su operación",
+"Inactividad comprobada en un período mayor a los 60 días corridos",
+"No haber renovado la licencia del titular o la autorización de la Estación Repetidora en el período estipulado en el Reglamento vigente"
 ]
 },
 {
@@ -1376,14 +1373,13 @@
 "question": "¿Puede haber en nuestro país Estaciones Repetidoras del Servicio de Radioaficionados con acceso codificado mediante subtonos?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"No, porque la Reglamentación lo prohibe",
+"No, porque los equipos para Radioaficionados no disponen de subtonos",
+"Sí, siempre que el código sea aprobado previamente por la Autoridad de Aplicación y sea de conocimiento público",
+"Sí, si el código es únicamente de conocimiento previo de la Autoridad de Aplicación"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"Sí, siempre que el código sea aprobado previamente por la Autoridad de Aplicación y sea de conocimiento público"
 ]
 },
 {
@@ -1391,14 +1387,13 @@
 "question": "En el caso en que una Estación Repetidora autorizada se encuentra totalmente fuera de servicio, ¿cuál es el plazo máximo en que puede permanecer inactiva, antes que se produzca su caducidad automática?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"72 horas",
+"30 días",
+"60 días",
+"90 días"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"60 días"
 ]
 },
 {
@@ -1406,14 +1401,12 @@
 "question": "¿Qué se requiere para la autorización de un enlace de 2 o más Estaciones Repetidoras por parte de la Autoridad de Aplicación?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"La conformidad por escrito de los titulares de las Estaciones Repetidoras",
+"Sólo el estudio técnico del cálculo de enlace",
+"El estudio técnico del cálculo de enlace y la conformidad por escrito de los titulares de las Estaciones Repetidoras"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"El estudio técnico del cálculo de enlace y la conformidad por escrito de los titulares de las Estaciones Repetidoras"
 ]
 },
 {
@@ -1421,14 +1414,11 @@
 "question": "Con relación a la altura de la estructura soporte de antenas que pretende instalar el Radioaficionado, ¿ante qué Organismo debe realizar el trámite pertinente de autorización?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"ENACOM",
+"ANAC"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"ANAC"
 ]
 },
 {
@@ -1436,14 +1426,14 @@
 "question": "¿Quiénes están autorizados a dar prácticas operativas?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Radio Clubes",
+"Instituciones Autorizadas",
+"Instituciones Reconocidas"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"Radio Clubes",
+"Instituciones Autorizadas",
+"Instituciones Reconocidas"
 ]
 },
 {
@@ -1451,14 +1441,13 @@
 "question": "¿Qué categoría se requiere para instalar y poner en funcionamiento una Radiobaliza (Radiofaro)?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Novicio",
+"General",
+"Superior",
+"No se requiere una categoría determinada"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"No se requiere una categoría determinada"
 ]
 },
 {
@@ -1466,14 +1455,13 @@
 "question": "¿Quiénes podrán dictar cursos y/o tomar examen para ingreso y ascenso de categoría?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"Radio Clubes",
+"Instituciones Autorizadas",
+"Instituciones Reconocidas"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"Radio Clubes",
+"Instituciones Autorizadas"
 ]
 },
 {
@@ -1481,14 +1469,12 @@
 "question": "¿Cómo deberán tomarse los exámenes para ingreso o ascenso de categoría?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"En forma escrita únicamente",
+"En forma oral únicamente",
+"En forma escrita, y para aspirantes no videntes o imposibilitados para escribir, en forma oral"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"En forma escrita, y para aspirantes no videntes o imposibilitados para escribir, en forma oral"
 ]
 },
 {
@@ -1496,14 +1482,13 @@
 "question": "¿Con cuántos días de anticipación a la instalación el Radioaficionado deberá notificar a la Autoridad de Aplicación la puesta en funcionamiento de la Radiobaliza, en forma fehaciente, la frecuencia de operación, el domicilio de emplazamiento y potencia de transmisión?",
 "type": "reglamentacion",
 "answers": [
-"Respuesta 1",
-"Respuesta 2",
-"Respuesta 3",
-"Respuesta 4"
+"10 días",
+"15 días",
+"30 días",
+"No se necesita notificar"
 ],
 "correctAnswer": [
-"Respuesta 1",
-"Respuesta 3"
+"15 días"
 ]
 }
 ]
