@@ -95,8 +95,8 @@ const NavBar = () => {
             open={Boolean(toolsMenuAnchor)}
             onClose={closeToolsMenu}
           >
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/simulador-novicio">
-              Calculadora 1
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
+              Calculadora Dipolo
             </MenuItem>
             <MenuItem onClick={closeToolsMenu} component={Link} to="/info-tecnica">
               Calculadora 2
@@ -117,9 +117,7 @@ const NavBar = () => {
               Calculadora 7
             </MenuItem>
           </Menu>
-          <Button color="inherit" component={Link} to="/contact-us">
-          Contacto
-          </Button>
+
         </Toolbar>
       </Container>
     </AppBar>

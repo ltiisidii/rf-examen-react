@@ -11,6 +11,7 @@ import Contactanos from './component/Contactanos';
 import Morse from './component/Morse';
 import Electronica from './component/Electronica';
 import Bandas from './component/Bandas';
+import CalculatorDipole from './component/Calc-Dipolo'
 
 const Root = () => {
   return (
@@ -27,6 +28,7 @@ const Root = () => {
           <Route path="/Morse" element={<Morse />} />
           <Route path="/Electronica" element={<Electronica />} />
           <Route path="/bandas" element={<Bandas />} />
+          <Route path="/calc-dipolo" element={<CalculatorDipole />} />
         </Routes>
       </div>
     </Router>
