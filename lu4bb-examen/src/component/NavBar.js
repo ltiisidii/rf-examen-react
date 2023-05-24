@@ -50,7 +50,9 @@ const NavBar = () => {
           <Button color="inherit" onClick={openNovicioMenu}>
             Novicio
           </Button>
-          <Button color="inherit">Contacto</Button>
+          <Button color="inherit" component={Link} to="/contact-us">
+          Contacto
+          </Button>
           <Menu
             anchorEl={novicioMenuAnchor}
             open={Boolean(novicioMenuAnchor)}
@@ -64,6 +66,9 @@ const NavBar = () => {
             </MenuItem>
             <MenuItem onClick={closeNovicioMenu} component={Link} to="/info-reglamentacion">
               Info Reglamentación
+            </MenuItem>
+            <MenuItem onClick={closeNovicioMenu} component={Link} to="/morse">
+              Morse
             </MenuItem>
             <MenuItem onClick={closeNovicioMenu} component={Link} to="/playlist-youtube">
               Playlist Youtube

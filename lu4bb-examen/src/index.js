@@ -7,6 +7,8 @@ import SimuladorNovicio from './component/SimuladorNovicio';
 import InfoTecnica from './component/InfoTecnica';
 import InfoReglamentacion from './component/InfoReglamentacion';
 import PlaylistYoutube from './component/YoutubePlaylist';
+import Contactanos from './component/Contactanos';
+import Morse from './component/Morse';
 
 const Root = () => {
   return (
@@ -19,6 +21,8 @@ const Root = () => {
           <Route path="/info-tecnica" element={<InfoTecnica />} />
           <Route path="/info-reglamentacion" element={<InfoReglamentacion />} />
           <Route path="/playlist-youtube" element={<PlaylistYoutube />} />
+          <Route path="/contact-us" element={<Contactanos />} />
+          <Route path="/Morse" element={<Morse />} />
         </Routes>
       </div>
     </Router>

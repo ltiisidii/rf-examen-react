@@ -1,22 +1,35 @@
 import React from 'react';
-import PropTypes from "prop-types";
 
-const YoutubePlaylist = ({ embedId }) => (
-  <div className="video-responsive">
-    <iframe
-      width="560"
-      height="315"
-      src={`https://www.youtube-nocookie.com/embed/HdAiGPejrhI`}
-      frameBorder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowFullScreen
-      title="Embedded youtube"
-    />
-  </div>
-);
+const Contactanos = () => {
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    // Lógica para enviar el formulario de contacto
+  };
 
-YoutubePlaylist.propTypes = {
-  embedId: PropTypes.string.isRequired
+  return (
+    <div className="contact-form">
+      <h2>Contáctanos</h2>
+      <form onSubmit={handleSubmit}>
+        <div>
+          <label htmlFor="name">Nombre:</label>
+          <input type="text" id="name" required />
+        </div>
+        <div>
+          <label htmlFor="email">Email:</label>
+          <input type="email" id="email" required />
+        </div>
+        <div>
+          <label htmlFor="message">Mensaje:</label>
+          <textarea id="message" rows="4" required></textarea>
+        </div>
+        <div>
+          {/* Agrega aquí el componente del captcha */}
+        </div>
+        <button type="submit">Enviar</button>
+        <h2>Este form esta sin funcionamiento.</h2>
+      </form>
+    </div>
+  );
 };
 
-export default YoutubePlaylist;
+export default Contactanos;
