@@ -1,7 +1,7 @@
 import React from 'react';
-import { Box, Button, Divider, Heading, Text } from '@chakra-ui/react';
 import facts from '../sources/facts-novicio-reglamentacion.json';
 import './InfoReglamentacion.css';
+
 
 const InfoReglamentacion = () => {
   const handlePrint = () => {

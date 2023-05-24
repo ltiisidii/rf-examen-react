@@ -98,22 +98,22 @@ const NavBar = () => {
             <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
               Calculadora Dipolo
             </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/info-tecnica">
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
               Calculadora 2
             </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/info-reglamentacion">
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
               Calculadora 3
             </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/morse">
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
               Calculadora 4
             </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/electronica">
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
               Calculadora 5
             </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/bandas">
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
               Calculadora 6
             </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/playlist-youtube">
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
               Calculadora 7
             </MenuItem>
           </Menu>
