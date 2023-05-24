@@ -27,9 +27,9 @@ const NavBar = () => {
 
   const getTitle = () => {
     if (isMobile) {
-      return 'LU4BB';
+      return 'p00lack';
     }
-    return 'Buenos Aires Radio Club';
+    return 'p00lack Training Center';
   };
 
   return (
@@ -69,6 +69,12 @@ const NavBar = () => {
             </MenuItem>
             <MenuItem onClick={closeNovicioMenu} component={Link} to="/morse">
               Morse
+            </MenuItem>
+            <MenuItem onClick={closeNovicioMenu} component={Link} to="/electronica">
+              Electronica
+            </MenuItem>
+            <MenuItem onClick={closeNovicioMenu} component={Link} to="/bandas">
+              Frecuencias y Bandas
             </MenuItem>
             <MenuItem onClick={closeNovicioMenu} component={Link} to="/playlist-youtube">
               Playlist Youtube

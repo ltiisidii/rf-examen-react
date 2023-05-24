@@ -9,6 +9,8 @@ import InfoReglamentacion from './component/InfoReglamentacion';
 import PlaylistYoutube from './component/YoutubePlaylist';
 import Contactanos from './component/Contactanos';
 import Morse from './component/Morse';
+import Electronica from './component/Electronica';
+import Bandas from './component/Bandas';
 
 const Root = () => {
   return (
@@ -23,6 +25,8 @@ const Root = () => {
           <Route path="/playlist-youtube" element={<PlaylistYoutube />} />
           <Route path="/contact-us" element={<Contactanos />} />
           <Route path="/Morse" element={<Morse />} />
+          <Route path="/Electronica" element={<Electronica />} />
+          <Route path="/bandas" element={<Bandas />} />
         </Routes>
       </div>
     </Router>
