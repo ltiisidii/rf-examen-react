@@ -35,32 +35,36 @@ const CalculatorDipole = () => {
   return (
     <div>
       <h1 style={{ textAlign: 'center', paddingTop: '50px' }}>Calculadora de Antena Dipolo</h1>
-      <div style={{ textAlign: 'center' }}>
-        <label>
-          Frecuencia (MHz):
-          <input type="text" value={frequency} onChange={handleFrequencyChange} />
-        </label>
-        <button onClick={calculateLength}>Calcular</button>
-        {length && armLength && (
-          <div>
-            <p>Largo del dipolo (L): {length} metros</p>
-            <p>Brazo de cada dipolo (I): {armLength} metros</p>
-            <p>Largo del dipolo (L) en centímetros: {convertToCentimeters(length)} centímetros</p>
-            <p>Brazo de cada dipolo (I) en centímetros: {convertToCentimeters(armLength)} centímetros</p>
-          </div>
-        )}
-        <img
-          src={DipoleAntenna}
-          alt="Calculadora Dipolo"
-          style={{
-            maxWidth: '100%',
-            height: 'auto',
-            '@media (max-width: 768px)': {
-              maxWidth: '80%',
-            },
-          }}
-        />
-      </div>
+        <div style={{ textAlign: 'center' }}>
+            <p>Las antenas dipolos son fáciles de construir y pueden ser muy efectivas cuando se colocan a media longitud de onda o más sobre el suelo.
+            Ingrese la frecuencia operativa deseada en megahercios para obtener una buena longitud inicial para un dipolo en pies y metros. </p>
+            <label>
+            Frecuencia (MHz):
+            <input type="text" value={frequency} onChange={handleFrequencyChange} />
+            </label>
+            <button onClick={calculateLength}>Calcular</button>
+            {length && armLength && (
+            <div>
+                <p>Largo del dipolo (L): {length} metros</p>
+                <p>Brazo de cada dipolo (I): {armLength} metros</p>
+                <p>Largo del dipolo (L) en centímetros: {convertToCentimeters(length)} centímetros</p>
+                <p>Brazo de cada dipolo (I) en centímetros: {convertToCentimeters(armLength)} centímetros</p>
+            </div>
+            )}
+        </div>
+        <div style={{ textAlign: 'center' }}>
+            <img
+            src={DipoleAntenna}
+            alt="Calculadora Dipolo"
+            style={{
+                maxWidth: '100%',
+                height: 'auto',
+                '@media (max-width: 768px)': {
+                maxWidth: '80%',
+                },
+            }}
+            />
+        </div>
     </div>
   );
 };
