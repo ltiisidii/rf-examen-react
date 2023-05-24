@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from "prop-types";
 
 const YoutubePlaylist = ({ embedId }) => (
-  <div className="video-responsive">
+  <div className="video-responsive" style={{ textAlign: 'center', paddingTop: '100px'}}> 
     <iframe
       width="560"
       height="315"
