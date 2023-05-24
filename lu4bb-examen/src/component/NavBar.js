@@ -25,6 +25,16 @@ const NavBar = () => {
     setNovicioMenuAnchor(null);
   };
 
+  const [toolsMenuAnchor, setToolsMenuAnchor] = React.useState(null);
+
+  const openToolsMenu = (event) => {
+    setToolsMenuAnchor(event.currentTarget);
+  };
+
+  const closeToolsMenu = () => {
+    setToolsMenuAnchor(null);
+  };
+
   const getTitle = () => {
     if (isMobile) {
       return 'p00lack';
@@ -49,9 +59,6 @@ const NavBar = () => {
           </Button>
           <Button color="inherit" onClick={openNovicioMenu}>
             Novicio
-          </Button>
-          <Button color="inherit" component={Link} to="/contact-us">
-          Contacto
           </Button>
           <Menu
             anchorEl={novicioMenuAnchor}
@@ -80,6 +87,39 @@ const NavBar = () => {
               Playlist Youtube
             </MenuItem>
           </Menu>
+          <Button color="inherit" onClick={openToolsMenu}>
+            Tools
+          </Button>
+          <Menu
+            anchorEl={toolsMenuAnchor}
+            open={Boolean(toolsMenuAnchor)}
+            onClose={closeToolsMenu}
+          >
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/simulador-novicio">
+              Calculadora 1
+            </MenuItem>
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/info-tecnica">
+              Calculadora 2
+            </MenuItem>
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/info-reglamentacion">
+              Calculadora 3
+            </MenuItem>
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/morse">
+              Calculadora 4
+            </MenuItem>
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/electronica">
+              Calculadora 5
+            </MenuItem>
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/bandas">
+              Calculadora 6
+            </MenuItem>
+            <MenuItem onClick={closeToolsMenu} component={Link} to="/playlist-youtube">
+              Calculadora 7
+            </MenuItem>
+          </Menu>
+          <Button color="inherit" component={Link} to="/contact-us">
+          Contacto
+          </Button>
         </Toolbar>
       </Container>
     </AppBar>
