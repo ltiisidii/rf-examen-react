@@ -38,6 +38,8 @@ const CalculatorDipole = () => {
         <div style={{ textAlign: 'center' }}>
             <p>Las antenas dipolos son fáciles de construir y pueden ser muy efectivas cuando se colocan a media longitud de onda o más sobre el suelo.
             Ingrese la frecuencia operativa deseada en megahercios para obtener una buena longitud inicial para un dipolo en pies y metros. </p>
+            <p>La fórmula para calcular la longitud aproximada de un dipolo es: Longitud del dipolo en metros: 143 / frecuencia en MHz</p>
+            <p>Estos son solo valores aproximados. En la práctica, es mejor hacer que la antena sea un poco más larga que el valor calculado y luego recortarla para obtener el mejor valor de SWR.</p>
             <label>
             Frecuencia (MHz):
             <input type="text" value={frequency} onChange={handleFrequencyChange} />
