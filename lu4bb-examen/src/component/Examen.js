@@ -242,8 +242,8 @@ const Examen = () => {
               maxWidth="md"
               mt="25rem"
               mb="7rem"
-              ml="65rem"
-              mr="65rem"
+              ml="50vh"
+              mr="50vh"
               
               zIndex="modal"
               
