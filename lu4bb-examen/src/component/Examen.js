@@ -179,7 +179,7 @@ const Examen = () => {
                         <label
                           htmlFor={respuesta}
                           className="respuesta-label"
-                          style={{ fontWeight: aprobadoTecnica ? "bold" : "bold", color: aprobadoTecnica ? "green" : "red" }}
+                          style={{ fontWeight: aprobadoTecnica ? "bold" : "bold", color: aprobadoTecnica ? "black" : "black" }}
                         >
                           {respuesta}
                         </label>{" "}
@@ -212,7 +212,7 @@ const Examen = () => {
                         <label
                           htmlFor={respuesta}
                           className="respuesta-label"
-                          style={{ fontWeight: aprobadoReglamentacion ? "bold" : "bold", color: aprobadoReglamentacion ? "green" : "red" }}
+                          style={{ fontWeight: aprobadoReglamentacion ? "bold" : "bold", color: aprobadoReglamentacion ? "black" : "black" }}
                         >
                           {respuesta}
                         </label>{" "}
