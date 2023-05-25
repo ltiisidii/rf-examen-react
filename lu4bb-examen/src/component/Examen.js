@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react";
 import preguntasTecnica from "../sources/quiz-novicio-tecnica.json";
 import preguntasReglamentacion from "../sources/quiz-novicio-reglamentacion.json";
 import './Examen.css';
+import { Button, Modal, ModalOverlay, ModalContent, ModalHeader, ModalCloseButton, ModalBody, ModalFooter } from "@chakra-ui/react";
+
 
 const Examen = () => {
   const [preguntas, setPreguntas] = useState([]);
@@ -14,6 +16,7 @@ const Examen = () => {
   const [porcentajeIncorrectasTecnica, setPorcentajeIncorrectasTecnica] = useState(0);
   const [porcentajeCorrectasReglamentacion, setPorcentajeCorrectasReglamentacion] = useState(0);
   const [porcentajeIncorrectasReglamentacion, setPorcentajeIncorrectasReglamentacion] = useState(0);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   useEffect(() => {
     const preguntasTecnicaAleatorias = seleccionarPreguntasAleatorias(preguntasTecnica, 15);
@@ -70,6 +73,7 @@ const Examen = () => {
   };
 
   const evaluarExamen = () => {
+    setIsModalOpen(true);
     const todasRespondidas = preguntas.every((pregunta) => {
       if (pregunta.type === "tecnica") {
         return respuestasTecnica.hasOwnProperty(pregunta.id);
@@ -220,26 +224,48 @@ const Examen = () => {
             </div>
           );
         })}
-        <button onClick={evaluarExamen}>Evaluar</button>
+        <Button onClick={evaluarExamen}>Evaluar</Button>
         {evaluado && (
-          <card>
-            <div>
-              <h3>Resultados:</h3>
+          <Modal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} isCentered>
+          <ModalOverlay
+            bg='none'
+            backdropFilter='auto'
+            backdropInvert='80%'
+            backdropBlur='2px'
+          />
+            <ModalContent
+              bg="white"
+              color="gray.800"
+              borderRadius="md"
+              boxShadow="lg"
+              maxWidth="md"
+              mt="25rem"
+              mb="7rem"
+              ml="35rem"
+              mr="35rem"
+              
+              zIndex="modal"
+              
+              className="custom-modal"
+          >
+            <ModalHeader><center>Resultados</center></ModalHeader>
+            
+            <ModalBody>
               <p>
                 <strong>Técnica:</strong>{" "}
-                {aprobadoTecnica ? "Aprobado" : "Reprobado"} - Porcentaje de
-                respuestas correctas: {porcentajeCorrectasTecnica.toFixed(2)}% -
-                Porcentaje de respuestas incorrectas:{" "}
-                {porcentajeIncorrectasTecnica.toFixed(2)}%
+                {aprobadoTecnica ? "Aprobado" : "Reprobado"} - Porcentaje de respuestas correctas: {porcentajeCorrectasTecnica.toFixed(2)}% - Porcentaje de respuestas incorrectas: {porcentajeIncorrectasTecnica.toFixed(2)}%
               </p>
               <p>
                 <strong>Reglamentación:</strong>{" "}
-                {aprobadoReglamentacion ? "Aprobado" : "Reprobado"} - Porcentaje
-                de respuestas correctas: {porcentajeCorrectasReglamentacion.toFixed(2)}% - Porcentaje de respuestas
-                incorrectas: {porcentajeIncorrectasReglamentacion.toFixed(2)}%
+                {aprobadoReglamentacion ? "Aprobado" : "Reprobado"} - Porcentaje de respuestas correctas: {porcentajeCorrectasReglamentacion.toFixed(2)}% - Porcentaje de respuestas incorrectas: {porcentajeIncorrectasReglamentacion.toFixed(2)}%
               </p>
-            </div>
-          </card>
+            </ModalBody>
+            <ModalFooter>
+            <Button colorScheme="blue" mr={3} onClick={() => setIsModalOpen(false)}>Cerrar</Button>
+            </ModalFooter>
+          </ModalContent>
+        </Modal>
+
         )}
       </div>
     </div>
