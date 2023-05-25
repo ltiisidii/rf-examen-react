@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import preguntasTecnica from "../sources/quiz-novicio-tecnica.json";
 import preguntasReglamentacion from "../sources/quiz-novicio-reglamentacion.json";
 import './Examen.css';
-import { Button, Modal, ModalOverlay, ModalContent, ModalHeader, ModalCloseButton, ModalBody, ModalFooter } from "@chakra-ui/react";
+import { Button, Modal, ModalOverlay, ModalContent, ModalHeader, ModalBody, ModalFooter } from "@chakra-ui/react";
 
 
 const Examen = () => {
