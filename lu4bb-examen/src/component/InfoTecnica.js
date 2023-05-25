@@ -1,6 +1,7 @@
 import React from 'react';
 import facts from '../sources/facts-novicio-tecnica.json';
 import { Box, Button, Divider, Heading, Text } from '@chakra-ui/react';
+import './InfoTecnica.css';
 
 const InfoTecnica = () => {
   const handlePrint = () => {
