@@ -240,8 +240,8 @@ const Examen = () => {
               borderRadius="2em"
               boxShadow="0 0 0 1px black"
               maxWidth="md"
-              mt="25rem"
-              mb="7rem"
+              mt="40vh"
+              mb="50vh"
               ml="50vh"
               mr="50vh"
               
