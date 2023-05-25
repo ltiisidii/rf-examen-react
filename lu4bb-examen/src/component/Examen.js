@@ -237,8 +237,8 @@ const Examen = () => {
             <ModalContent
               bg="white"
               color="gray.800"
-              borderRadius="md"
-              boxShadow="lg"
+              borderRadius="2em"
+              boxShadow="0 0 0 1px black"
               maxWidth="md"
               mt="25rem"
               mb="7rem"
@@ -282,7 +282,7 @@ const Examen = () => {
             </center>
             </ModalBody>
             <ModalFooter>
-              <Button colorScheme="blue" onClick={() => setIsModalOpen(false)}>Cerrar</Button>
+              
             </ModalFooter>
           </ModalContent>
         </Modal>
