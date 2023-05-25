@@ -4,7 +4,6 @@ import preguntasReglamentacion from "../sources/quiz-novicio-reglamentacion.json
 import './Examen.css';
 import { Button, Modal, ModalOverlay, ModalContent, ModalHeader, ModalBody, ModalFooter } from "@chakra-ui/react";
 
-
 const Examen = () => {
   const [preguntas, setPreguntas] = useState([]);
   const [respuestasTecnica, setRespuestasTecnica] = useState({});
@@ -180,6 +179,7 @@ const Examen = () => {
                         <label
                           htmlFor={respuesta}
                           className="respuesta-label"
+                          style={{ fontWeight: aprobadoTecnica ? "bold" : "normal", color: aprobadoTecnica ? "green" : "red" }}
                         >
                           {respuesta}
                         </label>{" "}
@@ -212,6 +212,7 @@ const Examen = () => {
                         <label
                           htmlFor={respuesta}
                           className="respuesta-label"
+                          style={{ fontWeight: aprobadoReglamentacion ? "bold" : "normal", color: aprobadoReglamentacion ? "green" : "red" }}
                         >
                           {respuesta}
                         </label>{" "}
@@ -241,8 +242,8 @@ const Examen = () => {
               maxWidth="md"
               mt="25rem"
               mb="7rem"
-              ml="35rem"
-              mr="35rem"
+              ml="65rem"
+              mr="65rem"
               
               zIndex="modal"
               
@@ -251,26 +252,44 @@ const Examen = () => {
             <ModalHeader><center>Resultados</center></ModalHeader>
             
             <ModalBody>
+            <center>
               <p>
-                <strong>Técnica:</strong>{" "}
-                {aprobadoTecnica ? "Aprobado" : "Reprobado"} - Porcentaje de respuestas correctas: {porcentajeCorrectasTecnica.toFixed(2)}% - Porcentaje de respuestas incorrectas: {porcentajeIncorrectasTecnica.toFixed(2)}%
+                Porcentaje de respuestas correctas (Técnica): {porcentajeCorrectasTecnica.toFixed(2)}%
               </p>
               <p>
-                <strong>Reglamentación:</strong>{" "}
-                {aprobadoReglamentacion ? "Aprobado" : "Reprobado"} - Porcentaje de respuestas correctas: {porcentajeCorrectasReglamentacion.toFixed(2)}% - Porcentaje de respuestas incorrectas: {porcentajeIncorrectasReglamentacion.toFixed(2)}%
+                Porcentaje de respuestas incorrectas (Técnica): {porcentajeIncorrectasTecnica.toFixed(2)}%
               </p>
+              <p>
+                Porcentaje de respuestas correctas (Reglamentación): {porcentajeCorrectasReglamentacion.toFixed(2)}%
+              </p>
+              <p>
+                Porcentaje de respuestas incorrectas (Reglamentación): {porcentajeIncorrectasReglamentacion.toFixed(2)}%
+              </p>
+              <p>
+                {aprobadoTecnica ? (
+                  <span style={{ color: "green", fontWeight: "bold" }}>Has aprobado la parte de Técnica.</span>
+                ) : (
+                  <span style={{ color: "red", fontWeight: "bold"  }}>No has aprobado la parte de Técnica.</span>
+                )}
+              </p>
+              <p>
+                {aprobadoReglamentacion ? (
+                  <span style={{ color: "green", fontWeight: "bold" }}>Has aprobado la parte de Reglamentación.</span>
+                ) : (
+                  <span style={{ color: "red", fontWeight: "bold" }}>No has aprobado la parte de Reglamentación.</span>
+                )}
+              </p>
+            </center>
             </ModalBody>
             <ModalFooter>
-            <Button colorScheme="blue" mr={3} onClick={() => setIsModalOpen(false)}>Cerrar</Button>
+              <Button colorScheme="blue" onClick={() => setIsModalOpen(false)}>Cerrar</Button>
             </ModalFooter>
           </ModalContent>
         </Modal>
-
         )}
       </div>
-    </div>
+  </div>
   );
-  
 };
 
 export default Examen;
