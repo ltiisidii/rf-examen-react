@@ -6,7 +6,7 @@ const YoutubePlaylist = ({ embedId }) => (
     <iframe
       width="560"
       height="315"
-      src={`https://www.youtube-nocookie.com/embed/HdAiGPejrhI`}
+      src={`https://www.youtube-nocookie.com/embed/${embedId}`}
       frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowFullScreen
@@ -20,3 +20,6 @@ YoutubePlaylist.propTypes = {
 };
 
 export default YoutubePlaylist;
+
+// Utilizar el componente en otro lugar de tu código
+<YoutubePlaylist embedId="HdAiGPejrhI" />;

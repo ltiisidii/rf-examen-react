@@ -74,7 +74,7 @@ const NavBar = () => {
             <MenuItem onClick={closeNovicioMenu} component={Link} to="/info-reglamentacion">
               Info Reglamentación
             </MenuItem>
-            <MenuItem onClick={closeNovicioMenu} component={Link} to="/morse">
+            <MenuItem onClick={closeNovicioMenu} component={Link} to="/morse-sim">
               Morse
             </MenuItem>
             <MenuItem onClick={closeNovicioMenu} component={Link} to="/electronica">
