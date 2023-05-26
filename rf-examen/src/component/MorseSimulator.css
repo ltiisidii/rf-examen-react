@@ -8,3 +8,10 @@
     margin-right: auto;
   }
   
+.correct-answer {
+  color: green;
+}
+
+.incorrect-answer {
+  color: red;
+}
