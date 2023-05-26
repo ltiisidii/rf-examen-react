@@ -1,82 +1,87 @@
-import React, { useState, useEffect } from 'react';
-import { Button, Modal, ModalOverlay, ModalContent, ModalHeader, ModalBody, ModalFooter } from "@chakra-ui/react";
+import React, { useState } from 'react';
 import wordsData from '../sources/wordsData.json';
 import './MorseSimulator.css';
 
 const MorseSimulator = () => {
-  const [morseWords, setMorseWords] = useState([]);
-  const [userInputs, setUserInputs] = useState([]);
-  const [isExamCompleted, setIsExamCompleted] = useState(false);
-  const [isModalOpen, setIsModalOpen] = useState(false);
-  const [isAnswerCorrect, setIsAnswerCorrect] = useState(new Array(25).fill(false));
+  const [morseWords] = useState(wordsData);
+  const [morseInput, setMorseInput] = useState('');
+  const [results, setResults] = useState([]);
+  const [isValidInput, setIsValidInput] = useState(true);
+  const [showResults, setShowResults] = useState(false);
 
-  useEffect(() => {
-    const randomIndices = getRandomIndices(wordsData.length, 25);
-    const randomWords = randomIndices.map((index) => wordsData[index].word);
-    setMorseWords(randomWords);
-    setUserInputs(new Array(25).fill(''));
-  }, []);
+  const handleInputChange = (e, index) => {
+    const value = e.target.value;
+    setMorseInput(value);
+    setIsValidInput(true);
 
-  useEffect(() => {
-    const isAllCorrect = userInputs.every((input, index) => input.trim() === morseWords[index]);
-    setIsExamCompleted(isAllCorrect);
-  }, [userInputs, morseWords]);
+    // Update results array with user's input
+    const updatedResults = [...results];
+    updatedResults[index] = value;
+    setResults(updatedResults);
+  };
 
-  const getRandomIndices = (max, count) => {
-    const indices = [];
-    while (indices.length < count) {
-      const randomIndex = Math.floor(Math.random() * max);
-      if (!indices.includes(randomIndex)) {
-        indices.push(randomIndex);
-      }
+  const validateMorseInput = (input) => {
+    // Validate input to allow only '.', '-', and spaces
+    const validCharsRegex = /^[.\-\s]+$/;
+    return validCharsRegex.test(input);
+  };
+
+  const handleSubmit = () => {
+    // Validate user's inputs
+    const isValid = validateMorseInput(morseInput);
+
+    if (!isValid) {
+      setIsValidInput(false);
+    } else {
+      setIsValidInput(true);
     }
-    return indices;
+
+    setMorseInput('');
+    setShowResults(true);
   };
 
-  const handleInputChange = (event, index) => {
-    const newInputs = [...userInputs];
-    newInputs[index] = event.target.value;
-    setUserInputs(newInputs);
+  const calculateResult = (index) => {
+    const currentWord = morseWords[index];
+    const isCorrect =
+      results[index] &&
+      results[index].toLowerCase() === currentWord.morse.toLowerCase();
 
-    const isCorrect = event.target.value.trim() === wordsData[index].word;
-    const newAnswerCorrect = [...isAnswerCorrect];
-    newAnswerCorrect[index] = isCorrect;
-    setIsAnswerCorrect(newAnswerCorrect);
-  };
-
-  const handleCloseModal = () => {
-    setIsModalOpen(false);
+    return isCorrect ? 'Respuesta correcta' : 'Respuesta incorrecta';
   };
 
   return (
     <div className="container">
       <div>
         <h1>Morse Simulator</h1>
-        {morseWords.map((word, index) => (
+        {morseWords.map((wordObj, index) => (
           <div key={index}>
-            <p>Ingresa el código Morse para la siguiente palabra:</p>
-            <p>{word}</p>
-            <form>
-              <input type="text" value={userInputs[index]} onChange={(event) => handleInputChange(event, index)} />
-            </form>
-            {isAnswerCorrect[index] && <p className="correct-answer">Respuesta correcta</p>}
-            {!isAnswerCorrect[index] && userInputs[index].trim() !== '' && <p className="incorrect-answer">Respuesta incorrecta</p>}
-            {isExamCompleted && index === morseWords.length - 1 && (
-              <Modal isOpen={isModalOpen} onClose={handleCloseModal}>
-                <ModalOverlay />
-                <ModalContent>
-                  <ModalHeader>Examen completado</ModalHeader>
-                  <ModalBody>
-                    ¡Respuestas correctas en todos los inputs!
-                  </ModalBody>
-                  <ModalFooter>
-                    <Button colorScheme="blue" onClick={handleCloseModal}>Cerrar</Button>
-                  </ModalFooter>
-                </ModalContent>
-              </Modal>
-            )}
+            <p>Ingresa el código Morse correspondiente a la palabra: {wordObj.word}</p>
+            <input
+              type="text"
+              value={results[index] || ''}
+              onChange={(e) => handleInputChange(e, index)}
+              disabled={showResults}
+            />
           </div>
         ))}
+        {!isValidInput && (
+          <span className="error-message">
+            Caracteres no válidos. Introduce solo '.', '-', y espacios.
+          </span>
+        )}
+        {!showResults ? (
+          <button onClick={handleSubmit}>Enviar respuestas</button>
+        ) : (
+          <div>
+            <hr />
+            <h2>Mostrar resultados</h2>
+            {morseWords.map((wordObj, index) => (
+              <p key={index}>
+                {wordObj.word}: {calculateResult(index)}
+              </p>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   );
