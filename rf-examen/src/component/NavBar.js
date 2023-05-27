@@ -1,127 +1,119 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import {
-  AppBar,
-  Box,
-  Button,
-  Container,
-  IconButton,
-  Toolbar,
-  Typography,
-  Menu,
-  MenuItem,
-} from '@mui/material';
+import { Box,
+  Button, 
+  Container, 
+  Flex, 
+  Heading, 
+  IconButton, 
+  Menu, 
+  MenuButton, 
+  MenuItem, 
+  MenuList } from '@chakra-ui/react';
 import { MdHome } from 'react-icons/md';
 import { isMobile } from 'react-device-detect';
 
 const NavBar = () => {
-  const [novicioMenuAnchor, setNovicioMenuAnchor] = React.useState(null);
+  const [novicioMenuAnchor, setNovicioMenuAnchor] = useState(null);
 
   const openNovicioMenu = (event) => {
     setNovicioMenuAnchor(event.currentTarget);
   };
-
+  
   const closeNovicioMenu = () => {
     setNovicioMenuAnchor(null);
   };
-
-  const [toolsMenuAnchor, setToolsMenuAnchor] = React.useState(null);
-
+  
+  const [toolsMenuAnchor, setToolsMenuAnchor] = useState(null);
+  
   const openToolsMenu = (event) => {
     setToolsMenuAnchor(event.currentTarget);
   };
-
+  
   const closeToolsMenu = () => {
     setToolsMenuAnchor(null);
   };
+  
+  const getTitle = () => (isMobile ? 'p00lack' : 'p00lack Training Center');
 
-  const getTitle = () => {
-    if (isMobile) {
-      return 'p00lack';
-    }
-    return 'p00lack Training Center';
-  };
+return (
+  <Box bg="gray.400" color="Black">
+    <Container maxW="mg">
+      <Flex px={0} align="center">
+        <Box mr={1}>
+          <IconButton size="lg" colorScheme="black">
+            <MdHome />
+          </IconButton>
+        </Box>
+        <Heading as="h1" size="md" flexGrow={1}>
+          {getTitle()}
+        </Heading>
+        <Button colorScheme="white" as={Link} to="/">
+          Home
+        </Button>
 
-  return (
-    <AppBar>
-      <Container maxWidth="lg">
-        <Toolbar disableGutters>
-          <Box sx={{ mr: 1 }}>
-            <IconButton size="large" color="inherit">
-              <MdHome />
-            </IconButton>
-          </Box>
-          <Typography variant="h6" component="h1" noWrap sx={{ flexGrow: 1 }}>
-            {getTitle()}
-          </Typography>
-          <Button color="inherit" component={Link} to="/">
-            Home
-          </Button>
-          <Button color="inherit" onClick={openNovicioMenu}>
-            Novicio
-          </Button>
-          <Menu
-            anchorEl={novicioMenuAnchor}
-            open={Boolean(novicioMenuAnchor)}
-            onClose={closeNovicioMenu}
-          >
-            <MenuItem onClick={closeNovicioMenu} component={Link} to="/simulador-novicio">
-              Simulador
-            </MenuItem>
-            <MenuItem onClick={closeNovicioMenu} component={Link} to="/info-tecnica">
-              Info Técnica
-            </MenuItem>
-            <MenuItem onClick={closeNovicioMenu} component={Link} to="/info-reglamentacion">
-              Info Reglamentación
-            </MenuItem>
-            <MenuItem onClick={closeNovicioMenu} component={Link} to="/morse-sim">
-              Morse
-            </MenuItem>
-            <MenuItem onClick={closeNovicioMenu} component={Link} to="/electronica">
-              Electronica
-            </MenuItem>
-            <MenuItem onClick={closeNovicioMenu} component={Link} to="/bandas">
-              Frecuencias y Bandas
-            </MenuItem>
-            <MenuItem onClick={closeNovicioMenu} component={Link} to="/playlist-youtube">
-              Playlist Youtube
-            </MenuItem>
-          </Menu>
-          <Button color="inherit" onClick={openToolsMenu}>
-            Tools
-          </Button>
-          <Menu
-            anchorEl={toolsMenuAnchor}
-            open={Boolean(toolsMenuAnchor)}
-            onClose={closeToolsMenu}
-          >
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
-              Calculadora Dipolo
-            </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
-              Calculadora 2
-            </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
-              Calculadora 3
-            </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
-              Calculadora 4
-            </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
-              Calculadora 5
-            </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
-              Calculadora 6
-            </MenuItem>
-            <MenuItem onClick={closeToolsMenu} component={Link} to="/calc-dipolo">
-              Calculadora 7
-            </MenuItem>
+        <Menu isOpen={Boolean(novicioMenuAnchor)} onClose={closeNovicioMenu}>
+            <MenuButton as={Button} onClick={openNovicioMenu}>
+              Novicio
+            </MenuButton>
+            <MenuList>
+              <MenuItem as={Link} to="/simulador-novicio">
+                Simulador
+              </MenuItem>
+              <MenuItem as={Link} to="/info-tecnica">
+                Info Técnica
+              </MenuItem>
+              <MenuItem as={Link} to="/info-reglamentacion">
+                Info Reglamentación
+              </MenuItem>
+              <MenuItem as={Link} to="/morse-sim">
+                Morse
+              </MenuItem>
+              <MenuItem as={Link} to="/electronica">
+                Electronica
+              </MenuItem>
+              <MenuItem as={Link} to="/bandas">
+                Frecuencias y Bandas
+              </MenuItem>
+              <MenuItem as={Link} to="/playlist-youtube">
+                Playlist Youtube
+              </MenuItem>
+            </MenuList>
           </Menu>
 
-        </Toolbar>
-      </Container>
-    </AppBar>
-  );
+          <Menu isOpen={Boolean(toolsMenuAnchor)} onClose={closeToolsMenu}>
+            <MenuButton as={Button} onClick={openToolsMenu}>
+              Tools
+            </MenuButton>
+            <MenuList>
+              <MenuItem as={Link} to="/calc-dipolo">
+                Calculadora Dipolo
+              </MenuItem>
+              <MenuItem as={Link} to="/calc-dipolo-2">
+                Calculadora 2
+              </MenuItem>
+              <MenuItem as={Link} to="/calc-dipolo-3">
+                Calculadora 3
+              </MenuItem>
+              <MenuItem as={Link} to="/calc-dipolo-4">
+                Calculadora 4
+              </MenuItem>
+              <MenuItem as={Link} to="/calc-dipolo-5">
+                Calculadora 5
+              </MenuItem>
+              <MenuItem as={Link} to="/calc-dipolo-6">
+                Calculadora 6
+              </MenuItem>
+              <MenuItem as={Link} to="/calc-dipolo-7">
+                Calculadora 7
+              </MenuItem>
+            </MenuList>
+          </Menu>
+        </Flex>
+    </Container>
+  </Box>
+);
+
 };
 
 export default NavBar;

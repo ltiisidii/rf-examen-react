@@ -1,5 +1,6 @@
 import React from 'react';
 import facts from '../sources/facts-novicio-reglamentacion.json';
+import { Box, Button, Divider, Heading, Text } from '@chakra-ui/react';
 import './InfoReglamentacion.css';
 
 
@@ -9,10 +10,10 @@ const InfoReglamentacion = () => {
   };
 
   return (
-    <div className="container">
-      <div className="info-tecnica-container">
-        <h1 style={{ paddingTop: '50px' }}>Preguntas de examen: Categoría Novicio Reglamentación y Ética Operativa</h1>
-        <button onClick={handlePrint}>Imprimir</button> {/* Agregar botón de impresión */}
+    <Box className="container">
+      <Box className="info-Reglamentacion-container">
+        <Heading paddingTop="50px" as="h1">Preguntas de examen: Categoría Novicio Reglamentación y Ética Operativa</Heading>
+        <Button onClick={handlePrint}>Imprimir</Button> {/* Agregar botón de impresión */}
         {facts.map((fact, index) => (
           <div key={fact.id}>
           {index > 0 && <hr />} {/*   Separador visible */}
@@ -23,8 +24,8 @@ const InfoReglamentacion = () => {
           {/* </Box> */}
           </div>
         ))}
-      </div>
-    </div>
+      </Box>
+    </Box>
   );
 };
 
