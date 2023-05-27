@@ -18,7 +18,7 @@ const InfoTecnica = () => {
             {index > 0 && <Divider />} {/* Separador visible */}
             {/* <Box key={fact.id} maxW='sm' borderWidth='1px' borderRadius='lg' overflow='hidden' p="4" borderColor="gray.200"> */}
               <Text color="red" fontSize="16px" fontWeight="bold">{fact.id}</Text> {/* Mostrar el ID */}
-              <Heading as="h3">{fact.title}</Heading>
+              <Heading as="h3" fontSize="20px">{fact.title}</Heading>
               <Text color="green" fontSize="16px" fontWeight="bold">{fact.content}</Text>
             {/* </Box> */}
           </Box>
