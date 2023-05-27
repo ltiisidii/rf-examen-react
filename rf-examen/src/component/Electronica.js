@@ -1,38 +1,41 @@
 import React from 'react';
+import { Box, Center, Heading, Image } from '@chakra-ui/react';
 import Electronica1Image from './images/resistencias.png';
 import Electronica2Image from './images/leydeohm.png';
 
 const Electronica = () => {
   return (
-    <div>
-      <h2 style={{ textAlign: 'center', paddingTop: '50px' }}>Electronica</h2>
-      <div style={{ textAlign: 'center' }}>
-        <img
-          src={Electronica1Image}
-          alt="Imagen Resistencias"
-          style={{
-            maxWidth: '100%',
-            height: 'auto',
-            '@media (max-width: 768px)': {
-              maxWidth: '80%',
-            },
-          }}
-        />
-      </div>
-      <div style={{ textAlign: 'center' }}>
-        <img
-          src={Electronica2Image}
-          alt="Imagen Ley de Ohm"
-          style={{
-            maxWidth: '100%',
-            height: 'auto',
-            '@media (max-width: 768px)': {
-              maxWidth: '80%',
-            },
-          }}
-        />
-      </div>
-    </div>
+    <Center>
+      <Box>
+        <Heading textAlign="center" paddingTop="50px">Electronica</Heading>
+        <Center>
+          <Image
+            src={Electronica1Image}
+            alt="Imagen Resistencias"
+            maxW="100%"
+            h="auto"
+            sx={{
+              '@media (max-width: 768px)': {
+                maxW: '80%',
+              },
+            }}
+          />
+        </Center>
+        <Center>
+          <Image
+            src={Electronica2Image}
+            alt="Imagen Ley de Ohm"
+            maxW="100%"
+            h="auto"
+            sx={{
+              '@media (max-width: 768px)': {
+                maxW: '80%',
+              },
+            }}
+          />
+        </Center>
+      </Box>
+    </Center>
   );
 };
 

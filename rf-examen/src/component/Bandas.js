@@ -1,38 +1,41 @@
 import React from 'react';
+import { Box, Center, Heading, Image } from '@chakra-ui/react';
 import Bandas1Image from './images/bandasyfreq.png';
 import Bandas2Image from './images/clasesymodos.png';
 
 const Bandas = () => {
   return (
-    <div>
-      <h2 style={{ textAlign: 'center', paddingTop: '50px' }}>Bandas y frecuencias // Clases y modos</h2>
-      <div style={{ textAlign: 'center' }}>
-        <img
-          src={Bandas1Image}
-          alt="Imagen Bandas y frecuencias"
-          style={{
-            maxWidth: '100%',
-            height: 'auto',
-            '@media (max-width: 768px)': {
-              maxWidth: '80%',
-            },
-          }}
-        />
-      </div>
-      <div style={{ textAlign: 'center' }}>
-        <img
-          src={Bandas2Image}
-          alt="Imagen Clases y modos"
-          style={{
-            maxWidth: '100%',
-            height: 'auto',
-            '@media (max-width: 768px)': {
-              maxWidth: '80%',
-            },
-          }}
-        />
-      </div>
-    </div>
+    <Center>
+      <Box>
+        <Heading textAlign="center" paddingTop="50px">Bandas y frecuencias // Clases y modos</Heading>
+        <Center>
+          <Image
+            src={Bandas1Image}
+            alt="Imagen Bandas y frecuencias"
+            maxW="100%"
+            h="auto"
+            sx={{
+              '@media (max-width: 768px)': {
+                maxW: '80%',
+              },
+            }}
+          />
+        </Center>
+        <Center>
+          <Image
+            src={Bandas2Image}
+            alt="Imagen Clases y modos"
+            maxW="100%"
+            h="auto"
+            sx={{
+              '@media (max-width: 768px)': {
+                maxW: '80%',
+              },
+            }}
+          />
+        </Center>
+      </Box>
+    </Center>
   );
 };
 
