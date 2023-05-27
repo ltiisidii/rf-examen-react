@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Box, Button, Input } from "@chakra-ui/react";
 import wordsData from '../sources/wordsData.json';
 import './MorseSimulator.css';
 
@@ -50,29 +51,31 @@ const MorseSimulator = () => {
   };
 
   return (
-    <div className="container">
-      <div>
+    <Box className="container">
+      <Box>
         <h1>Morse Simulator</h1>
         {morseWords.map((wordObj, index) => (
-          <div key={index}>
-            <p>Ingresa el código Morse correspondiente a la palabra: {wordObj.word}</p>
-            <input
+          <Box key={index}>
+            <p>
+              Ingresa el código Morse correspondiente a la palabra: {wordObj.word}
+            </p>
+            <Input
               type="text"
-              value={results[index] || ''}
+              value={results[index] || ""}
               onChange={(e) => handleInputChange(e, index)}
-              disabled={showResults}
+              isDisabled={showResults}
             />
-          </div>
+          </Box>
         ))}
         {!isValidInput && (
-          <span className="error-message">
+          <Box className="error-message">
             Caracteres no válidos. Introduce solo '.', '-', y espacios.
-          </span>
+          </Box>
         )}
         {!showResults ? (
-          <button onClick={handleSubmit}>Enviar respuestas</button>
+          <Button onClick={handleSubmit}>Enviar respuestas</Button>
         ) : (
-          <div>
+          <Box>
             <hr />
             <h2>Mostrar resultados</h2>
             {morseWords.map((wordObj, index) => (
@@ -80,10 +83,10 @@ const MorseSimulator = () => {
                 {wordObj.word}: {calculateResult(index)}
               </p>
             ))}
-          </div>
+          </Box>
         )}
-      </div>
-    </div>
+      </Box>
+    </Box>
   );
 };
 
