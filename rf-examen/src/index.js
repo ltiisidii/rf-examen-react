@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { ChakraProvider } from '@chakra-ui/react'
 import Home from './component/Home';
@@ -13,6 +12,7 @@ import Electronica from './component/Electronica';
 import Bandas from './component/Bandas';
 import CalculatorDipole from './component/Calc-Dipolo'
 import MorseSimulator from './component/MorseSimulator';
+import { createRoot } from 'react-dom/client';
 
 const Root = () => {
   return (
@@ -38,4 +38,6 @@ const Root = () => {
   );
 };
 
-ReactDOM.render(<Root />, document.getElementById('root'));
+const container = document.getElementById('root');
+const root = createRoot(container);
+root.render(<Root />);
