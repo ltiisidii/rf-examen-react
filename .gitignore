@@ -8,6 +8,7 @@ lu4bb-examen/node_modules/.cache/default-development
 
 # production
 /build
+/rf-examen/build
 
 # misc
 .DS_Store
