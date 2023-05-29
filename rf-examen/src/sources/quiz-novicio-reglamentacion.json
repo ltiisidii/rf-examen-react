@@ -1489,6 +1489,149 @@
 "correctAnswer": [
 "15 días"
 ]
+},
+{
+"id": "109",
+"question": "Las estaciones del Servicio de Radioaficionados y de Radioaficionados por Satelite que operen actualmente y las que se autoricen e instalen en el futuro, dentro o por fuera de las zonas de proteccion de las actuales o futuras Estaciones de Comprobacion Tecnica de Emisiones, estaran sujetas a lo dispuesto por:",
+"type": "reglamentacion",
+"answers": [
+"Resolucion SC 329/2000 o aquellas que la reemplacen o modifiquen",
+"LEY N° 27078",
+"Resolucion SC 50/1998 o aquellas que la reemplacen o modifiquen"
+],
+"correctAnswer": [
+"Resolucion SC 329/2000 o aquellas que la reemplacen o modifiquen"
+]
+},
+{
+"id": "110",
+"question": "En caso de mediar distancias excesivas o dificultades geograficas para acceder a un Radio Club, Institucion Autorizada o Institucion Reconocida, las practicas operativas podran realizarse en las filiales de los Radio Clubes o en el domicilio de un instructor?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"Si"
+]
+},
+{
+"id": "111",
+"question": "Defina Etica Operativa",
+"type": "reglamentacion",
+"answers": [
+"Es el conjunto de deberes, obligaciones, conductas y principios establecidos en el Reglamento y en las disposiciones, recomendaciones y procedimientos fijados por la Union Internacional de Radioaficionados (IARU), que rigen el normal desenvolvimiento de la actividad de los RadioAficionados",
+"Es el conjunto de simbolos, alfabetos y codigos establecidos en el Reglamento y las disposiciones, recomendaciones y procedimientos fijados por la Union Internacional de Radioaficionados (IARU), que rigen el normal desenvolvimiento de la actividad de los RadioAficionados"
+],
+"correctAnswer": [
+"Es el conjunto de deberes, obligaciones, conductas y principios establecidos en el Reglamento y en las disposiciones, recomendaciones y procedimientos fijados por la Union Internacional de Radioaficionados (IARU), que rigen el normal desenvolvimiento de la actividad de los RadioAficionados"
+]
+},
+{
+"id": "112",
+"question": "En que circunstancias las estaciones del Servicio de Radioaficionados y de Radioaficionados por Satelite estaran autorizadas a conectar inductiva y acusticamente, o por cualquier otro medio disponible, sus equipos radioelectricos a las lineas telefonicas.",
+"type": "reglamentacion",
+"answers": [
+"Exclusivamente ante Emergencias",
+"En situaciones de interes comunitario",
+"En eventos propios de la actividad",
+"En ninguna circunstancia"
+],
+"correctAnswer": [
+"Exclusivamente ante Emergencias"
+]
+},
+{
+"id": "113",
+"question": "Defina REPETIDOR DIGITAL (Digipeater)",
+"type": "reglamentacion",
+"answers": [
+"Exclusivamente ante Emergencias",
+"En situaciones de interes comunitario",
+"En eventos propios de la actividad",
+"En ninguna circunstancia"
+],
+"correctAnswer": [
+"Estacion capaz de recibir y retransmitir informacion digital por paquete (Packet - Radio), en tiempo real, en la misma frecuencia, con capacidad de enlazar dos estaciones automaticamente. Se identifica con la señal distintiva del titular"
+]
+},
+{
+"id": "114",
+"question": "Para dar de baja una Estacion Repetidora de cuanto tiempo se dispone desde el cese de las emisiones?",
+"type": "reglamentacion",
+"answers": [
+"15 dias corridos",
+"30 dias corridos",
+"60 dias corridos"
+],
+"correctAnswer": [
+"Estacion capaz de recibir y retransmitir informacion digital por paquete (Packet - Radio), en tiempo real, en la misma frecuencia, con capacidad de enlazar dos estaciones automaticamente. Se identifica con la señal distintiva del titular"
+]
+},
+{
+"id": "115",
+"question": "Es obligatorio contar con un sistema de apagado de la Estacion Repetidora?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"Si"
+]
+},
+{
+"id": "116",
+"question": "Que categoria debe poseer el titular de la licencia de Radioaficionado que deseara diseñar, contruir, lanzar y/o constituirse como responsable primario de una estacion espacial del Servicio de Radioaficionados por Satelite?",
+"type": "reglamentacion",
+"answers": [
+"General o Superior",
+"Especial",
+"Novicio"
+],
+"correctAnswer": [
+"Si"
+]
+},
+{
+"id": "117",
+"question": "Cual es la PIRE maxima autorizada para la categoria Novicio en la banda de 2200 metros?",
+"type": "reglamentacion",
+"answers": [
+"1 W",
+"25 W",
+"La autorizada para la categoría",
+"No puede emitir en esta banda"
+],
+"correctAnswer": [
+"1 W"
+]
+},
+{
+"id": "118",
+"question": "Como se debe operar una estacion movil?",
+"type": "reglamentacion",
+"answers": [
+"Se debera mencionar su señal distintiva, su ubicacion geografica y su condicion de movil",
+"Se debera mencionar su señal distintiva, su ubicacion geografica"
+],
+"correctAnswer": [
+"Se debera mencionar su señal distintiva, su ubicacion geografica y su condicion de movil"
+]
+},
+{
+"id": "119",
+"question": "Cual es la potencia maxima autorizada para la categoria Novicio en la banda de 30 metros?",
+"type": "reglamentacion",
+"answers": [
+"500 W",
+"250 W",
+"No se puede emitir en esta banda",
+"La autorizada para la categoría"
+],
+"correctAnswer": [
+"No se puede emitir en esta banda"
+]
 }
 ]
   

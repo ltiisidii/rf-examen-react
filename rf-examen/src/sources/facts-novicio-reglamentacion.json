@@ -537,17 +537,67 @@
 {
 "id": "106",
 "title": "¿Cómo deberán tomarse los exámenes para ingreso o ascenso de categoría?",
-"content": "En forma escrita, y para aspirantes no videntes o imposibilitados para escribir, en forma oral."
+"content": "En forma escrita, y para aspirantes no videntes o imposibilitados para escribir, en forma oral"
 },
 {
 "id": "107",
 "title": "¿Con cuántos días de anticipación a la instalación el Radioaficionado deberá notificar a la Autoridad de Aplicación la puesta en funcionamiento de la Radiobaliza, en forma fehaciente, la frecuencia de operación, el domicilio de emplazamiento y potencia de transmisión?",
-"content": "15 días."
+"content": "15 días"
 },
 {
 "id": "108",
-"title": "¿Con cuántos días de anticipación a la instalación el Radioaficionado deberá notificar a la Autoridad de Aplicación la puesta en funcionamiento de la Radiobaliza, en forma fehaciente, la frecuencia de operación, el domicilio de emplazamiento y potencia de transmisión?",
-"content": "15 días."
+"title": "Las estaciones del Servicio de Radioaficionados y de Radioaficionados por Satelite que operen actualmente y las que se autoricen e instalen en el futuro, dentro o por fuera de las zonas de proteccion de las actuales o futuras Estaciones de Comprobacion Tecnica de Emisiones, estaran sujetas a lo dispuesto por:",
+"content": "Resolucion SC 329/2000 o aquellas que la reemplacen o modifiquen"
+},
+{
+"id": "109",
+"title": "En caso de mediar distancias excesivas o dificultades geograficas para acceder a un Radio Club, Institucion Autorizada o Institucion Reconocida, las practicas operativas podran realizarse en las filiales de los Radio Clubes o en el domicilio de un instructor?",
+"content": "Si"
+},
+{
+"id": "110",
+"title": "Defina Etica Operativa",
+"content": "Es el conjunto de deberes, obligaciones, conductas y principios establecidos en el Reglamento y en las disposiciones, recomendaciones y procedimientos fijados por la Union Internacional de Radioaficionados (IARU), que rigen el normal desenvolvimiento de la actividad de los RadioAficionados."
+},
+{
+"id": "111",
+"title": "En que circunstancias las estaciones del Servicio de Radioaficionados y de Radioaficionados por Satelite estaran autorizadas a conectar inductiva y acusticamente, o por cualquier otro medio disponible, sus equipos radioelectricos a las lineas telefonicas.",
+"content": "Ante Emergencias."
+},
+{
+"id": "112",
+"title": "Defina REPETIDOR DIGITAL (Digipeater)",
+"content": "Estacion capaz de recibir y retransmitir informacion digital por paquete (Packet - Radio), en tiempo real, en la misma frecuencia, con capacidad de enlazar dos estaciones automaticamente. Se identifica con la señal distintiva del titular"
+},
+{
+"id": "113",
+"title": "Para dar de baja una Estacion Repetidora de cuanto tiempo se dispone desde el cese de las emisiones?",
+"content": "15 dias corridos"
+},
+{
+"id": "114",
+"title": "Es obligatorio contar con un sistema de apagado de la Estacion Repetidora?",
+"content": "Si"
+},
+{
+"id": "115",
+"title": "Que categoria debe poseer el titular de la licencia de Radioaficionado que deseara diseñar, contruir, lanzar y/o constituirse como responsable primario de una estacion espacial del Servicio de Radioaficionados por Satelite?",
+"content": "General o Superior"
+},
+{
+"id": "116",
+"title": "Cual es la PIRE maxima autorizada para la categoria Novicio en la banda de 2200 metros?",
+"content": "1W"
+},
+{
+"id": "117",
+"title": "Como se debe operar una estacion movil?",
+"content": "Se debera mencionar su señal distintiva, su ubicacion geografica y su condicion de movil"
+},
+{
+"id": "118",
+"title": "Cual es la potencia maxima autorizada para la categoria Novicio en la banda de 30 metros?",
+"content": "No se puede emitir en esta banda"
 }
 ]
 

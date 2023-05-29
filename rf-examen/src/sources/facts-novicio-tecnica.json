@@ -544,5 +544,50 @@
 "id": "107",
 "title": "¿Qué elemento de una válvula es el ánodo?",
 "content": "Placa."
+},
+{
+"id": "108",
+"title": "¿Cuantos elementos se necesitan (como minimo) para construir una antena tipo Yagui?",
+"content": "2"
+},
+{
+"id": "109",
+"title": "Cual es la unidad de medida de la tension?",
+"content": "Voltio"
+},
+{
+"id": "110",
+"title": "Desde la antena, en un receptor, Cual es la etapa que antecede al amplificador de F.I.?",
+"content": "Mezclador"
+},
+{
+"id": "111",
+"title": "Cual es una de las funciones mas importantes que realiza un transistor?",
+"content": "Amplificar señales debiles"
+},
+{
+"id": "112",
+"title": "Si se duplica la frecuencia de la corriente que atraviesa una inductancia, que sucede con la reactancia?",
+"content": "Se duplica"
+},
+{
+"id": "113",
+"title": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4=4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Que corriente circulara por R1?",
+"content": "240 mA"
+},
+{
+"id": "114",
+"title": "Definicion de selectividad",
+"content": "El receptor tiene la capacidad de evitar las interferencias de estaciones potentes y cercanas a la frecuencia de trabajo"
+},
+{
+"id": "115",
+"title": "Que simboliza la flecha en un transistor tipo PNP?",
+"content": "La flecha es el emisor y apunta hacia adentro del circulo"
+},
+{
+"id": "116",
+"title": "Que significa la sigla ALC?",
+"content": "Control automatico de nivel"
 }
 ]

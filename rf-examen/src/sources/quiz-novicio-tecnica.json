@@ -1319,5 +1319,126 @@
 "Drenaje"
 ],
 "correctAnswer": "Placa"
+},
+{
+"id": "111",
+"question": "Cuantos elementos se necesitan (como minimo) para construir una antena tipo Yagui",
+"type": "tecnica",
+"answers": [
+"1",
+"2",
+"3",
+"4"
+],
+"correctAnswer": "2"
+},
+{
+"id": "112",
+"question": "Cuantos elementos se necesitan (como minimo) para construir una antena tipo Yagui",
+"type": "tecnica",
+"answers": [
+"1",
+"2",
+"3",
+"4"
+],
+"correctAnswer": "2"
+},
+{
+"id": "113",
+"question": "Cual es la unidad de medida de la tension?",
+"type": "tecnica",
+"answers": [
+"Voltio",
+"Amperio",
+"Vatio",
+"Henrio"
+],
+"correctAnswer": "Voltio"
+},
+{
+"id": "114",
+"question": "Desde la antena, en un receptor, Cual es la etapa que antecede al amplificador de F.I.?",
+"type": "tecnica",
+"answers": [
+"Amplificador de R.F.",
+"Mezclador",
+"Detector",
+"Amplificador de AF"
+],
+"correctAnswer": "Mezclador"
+},
+{
+"id": "115",
+"question": "Cual es una de las funciones mas importantes que realiza un transistor?",
+"type": "tecnica",
+"answers": [
+"Amplificar señales debiles",
+"Rectificar la tension de linea",
+"Regula la frecuencia del oscilador",
+"Atenuar señales debiles"
+],
+"correctAnswer": "Amplificar señales debiles"
+},
+{
+"id": "116",
+"question": "Si se duplica la frecuencia de la corriente que atraviesa una inductancia, que sucede con la reactancia?",
+"type": "tecnica",
+"answers": [
+"Se duplica",
+"Se reduce a la mitad",
+"Se cuadriplica",
+"Queda igual"
+],
+"correctAnswer": "Se duplica"
+},
+{
+"id": "117",
+"question": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4=4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Que corriente circulara por R1?",
+"type": "tecnica",
+"answers": [
+"10mA",
+"240mA",
+"1000mA",
+"24mA"
+],
+"correctAnswer": "240 mA"
+},
+{
+"id": "118",
+"question": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4=4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Que corriente circulara por R1?",
+"type": "tecnica",
+"answers": [
+"El receptor tiene la capacidad de evitar las interferencias de estaciones potentes y cercanas a la frecuencia de trabajo",
+"El receptor tiene la capacidad de escuchar las señales muy debiles",
+"El receptor tiene la capacidad de escuchar señales muy fuertes",
+"El receptor tiene la capacidad de bloquear las señales muy debiles"
+],
+"correctAnswer": "El receptor tiene la capacidad de evitar las interferencias de estaciones potentes y cercanas a la frecuencia de trabajo"
+},
+{
+"id": "119",
+"question": "Que simboliza la flecha en un transistor tipo PNP?",
+"type": "tecnica",
+"answers": [
+"La flecha es el colector y apunta hacia adentro del circuito",
+"La flecha es la base y apunta hacia adentro del circuito",
+"La flecha es el emisor y apunta hacia adentro del circuito",
+"La flecha es el colector y apunta hacia fuera del circuito"
+],
+"correctAnswer": "1000ma"
+},
+{
+"id": "120",
+"question": "Que significa la sigla ALC",
+"type": "tecnica",
+"answers": [
+"Control automatico de nivel",
+"Control anual de nivel",
+"Control manual de audio",
+"Amplificador lineal controlado"
+],
+"correctAnswer": "Control automatico de nivel"
 }
+
 ]  
