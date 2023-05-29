@@ -1426,7 +1426,7 @@
 "La flecha es el emisor y apunta hacia adentro del circuito",
 "La flecha es el colector y apunta hacia fuera del circuito"
 ],
-"correctAnswer": "1000ma"
+"correctAnswer": "La flecha es el emisor y apunta hacia adentro del circuito"
 },
 {
 "id": "120",
@@ -1439,6 +1439,30 @@
 "Amplificador lineal controlado"
 ],
 "correctAnswer": "Control automatico de nivel"
+},
+{
+"id": "121",
+"question": "Una antena vertical de 1/4 de onda para la frecuencia de 146 MHz. deberá tener una longitud aproximada de:",
+"type": "tecnica",
+"answers": [
+"48,8 cm",
+"24,4 cm",
+"97,7 cm",
+"2 mts"
+],
+"correctAnswer": "48,8 cm"
+},
+{
+"id": "122",
+"question": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4= 4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. Cual sera la tension aplicada sobre R4?",
+"type": "tecnica",
+"answers": [
+"12 V",
+"25 V",
+"47 V",
+"6 V"
+],
+"correctAnswer": "12 V"
 }
 
-]  
+]

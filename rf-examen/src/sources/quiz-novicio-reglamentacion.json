@@ -1632,6 +1632,79 @@
 "correctAnswer": [
 "No se puede emitir en esta banda"
 ]
-}
+},
+{
+"id": "120",
+"question": "Cual es el prefijo correspondiente a la Republica Argentina?",
+"type": "reglamentacion",
+"answers": [
+"LU/LW",
+"CX",
+"PY"
+],
+"correctAnswer": [
+"LU/LW"
 ]
-  
+},
+{
+"id": "121",
+"question": "Se puede tener dos o mas Señales Distintivas Especiales vigentes al mismo tiempo?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"LU/LW"
+]
+},
+{
+"id": "122",
+"question": "Que radioaficionado extranjero se encuentra exceptuado de gestionar la autorizacion para operar en el territorio nacional?",
+"type": "reglamentacion",
+"answers": [
+"Los que pertenecen a algun pais signatario del IARP",
+"Cualquier radioaficionado extranjero"
+],
+"correctAnswer": [
+"LU/LW"
+]
+},
+{
+"id": "123",
+"question": "La estacion Repetidora tiene que estar autorizada ante la Autoridad de Aplicacion?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"LU/LW"
+]
+},
+{
+"id": "124",
+"question": "La estacion Repetidora tiene que estar autorizada ante la Autoridad de Aplicacion?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"LU/LW"
+]
+},
+{
+"id": "125",
+"question": "En caso que el Radioaficionado posea mas de una estacion fija, es necesario declararlas a todas?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"Si"
+]
+}
+
+]

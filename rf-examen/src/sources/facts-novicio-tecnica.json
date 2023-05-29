@@ -589,5 +589,15 @@
 "id": "116",
 "title": "Que significa la sigla ALC?",
 "content": "Control automatico de nivel"
+},
+{
+"id": "117",
+"title": "Una antena vertical de 1/4 de onda para la frecuencia de 146 MHz. deberá tener una longitud aproximada de:",
+"content": "48,8 cm"
+},
+{
+"id": "118",
+"title": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4= 4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. Cual sera la tension aplicada sobre R4?",
+"content": "12 V"
 }
 ]

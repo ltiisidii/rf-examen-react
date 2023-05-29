@@ -598,6 +598,36 @@
 "id": "118",
 "title": "Cual es la potencia maxima autorizada para la categoria Novicio en la banda de 30 metros?",
 "content": "No se puede emitir en esta banda"
+},
+{
+"id": "119",
+"title": "Cual es el prefijo correspondiente a la Republica Argentina?",
+"content": "LU/LW"
+},
+{
+"id": "120",
+"title": "Se puede tener dos o mas Señales Distintivas Especiales vigentes al mismo tiempo?",
+"content": "LU/LW"
+},
+{
+"id": "121",
+"title": "Que radioaficionado extranjero se encuentra exceptuado de gestionar la autorizacion para operar en el territorio nacional?",
+"content": "Los que pertenecen a algun pais signatario del IARP"
+},
+{
+"id": "122",
+"title": "La estacion Repetidora tiene que estar autorizada ante la Autoridad de Aplicacion?",
+"content": "Los que pertenecen a algun pais signatario del IARP"
+},
+{
+"id": "123",
+"title": "De cuanto tiempo dispone el titular de la Estacion repetidora para comunicar a la Autoridad de Aplicacion el inicio de su operacion?",
+"content": "Los que pertenecen a algun pais signatario del IARP"
+},
+{
+"id": "124",
+"title": "En caso que el Radioaficionado posea mas de una estacion fija, es necesario declararlas a todas?",
+"content": "Si"
 }
 ]
 
