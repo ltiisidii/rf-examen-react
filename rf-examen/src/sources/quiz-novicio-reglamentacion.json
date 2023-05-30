@@ -248,7 +248,7 @@
 "Sin plazo, ante requerimiento de la Autoridad de Aplicación"
 ],
 "correctAnswer": [
-"90 días"
+"10 días"
 ]
 },
 {
@@ -1655,7 +1655,7 @@
 "No"
 ],
 "correctAnswer": [
-"LU/LW"
+"No"
 ]
 },
 {
@@ -1667,7 +1667,7 @@
 "Cualquier radioaficionado extranjero"
 ],
 "correctAnswer": [
-"LU/LW"
+"Los que pertenecen a algun pais signatario del IARP"
 ]
 },
 {
@@ -1679,23 +1679,11 @@
 "No"
 ],
 "correctAnswer": [
-"LU/LW"
+"Si"
 ]
 },
 {
 "id": "124",
-"question": "La estacion Repetidora tiene que estar autorizada ante la Autoridad de Aplicacion?",
-"type": "reglamentacion",
-"answers": [
-"Si",
-"No"
-],
-"correctAnswer": [
-"LU/LW"
-]
-},
-{
-"id": "125",
 "question": "En caso que el Radioaficionado posea mas de una estacion fija, es necesario declararlas a todas?",
 "type": "reglamentacion",
 "answers": [
@@ -1704,6 +1692,131 @@
 ],
 "correctAnswer": [
 "Si"
+]
+},
+{
+"id": "125",
+"question": "Defina CONCURSO",
+"type": "reglamentacion",
+"answers": [
+"Evento nacional y/o internacional en donde se ponen a prueb las habilidades de los Radioaficionados. Sus bases y condiciones son informadas mediante los boletines y revistas de los Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas",
+"Comunicados entre estaciones que, por la distancia que las separa, inaccesibilidad geografica, u otro factor de dificultad, no resulte frecuente la comunicacion. Se realizan en los segmentos de bandas en que los contactos DX tienen prioridad y se limitan exclusivamente a intercambios de comunicacion minima e indispensable, con el objeto de facilitar la mayor cantidad de contactos posibles",
+"Sistema de escritura, estandarizado conforme a la Recomendacion UIT-R M. 1677-1 o sucesivas, que representa las letras del alfabeto, numeros y otros signos mediante una combinacion de sonidos cortos (puntos), sonidos largos (rayas) y  silencios(Espacios)"
+],
+"correctAnswer": [
+"Evento nacional y/o internacional en donde se ponen a prueb las habilidades de los Radioaficionados. Sus bases y condiciones son informadas mediante los boletines y revistas de los Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas"
+]
+},
+{
+"id": "126",
+"question": "La autorizacion del Radio Club, Institucion Autorizada o Institucion Reconocida al Instructor a distancia debera estar plasmada en el Libro de Actas (con validez expresamente detallada)?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"Si"
+]
+},
+{
+"id": "127",
+"question": "Cual es la sigla del PERMISO INTERNACIONAL DE RADIOAFICIONADOS?",
+"type": "reglamentacion",
+"answers": [
+"I.A.R.P.",
+"P.I.R.A.",
+"I.R.P.A."
+],
+"correctAnswer": [
+"I.A.R.P."
+]
+},
+{
+"id": "128",
+"question": "El instructor designado por el Radio Club, Institucion Autorizada o Institucion Reconocida, debe estar registrado en el Libro de Actas y debe dar fe por medio de un certificado que el aspirante cumplio con los requisitos solicitados durante la practica operativa?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"Si"
+]
+},
+{
+"id": "129",
+"question": "Las practicas operativas destinadas a recepcion deben cumplirse por cuantas horas?",
+"type": "reglamentacion",
+"answers": [
+"6 hs",
+"12 hs"
+],
+"correctAnswer": [
+"6 hs"
+]
+},
+{
+"id": "130",
+"question": "Se podra rendir examen en condicion de libre, sin realizar cursos en Radio Clubes e Instituciones Autorizadas?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"Si"
+]
+},
+{
+"id": "131",
+"question": "Cual es el plazo en que un radioaficionado debera desinstalar en su totalidad las estaciones radioelectricas y/o Repetidoras que pudiera poseer instaladas, ante la cancelacion de su licencia?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"10 dias"
+]
+},
+{
+"id": "132",
+"question": "Cuando se solicita la baja de una Estacion Repetidora, se deben desmantelar las instalaciones radioelectricas?",
+"type": "reglamentacion",
+"answers": [
+"Siempre",
+"Solo cuando la Autoridad de Aplicacion lo requiera",
+"Nunca"
+],
+"correctAnswer": [
+"10 dias"
+]
+},
+{
+"id": "133",
+"question": "Cual es la edad minima para la categoria General",
+"type": "reglamentacion",
+"answers": [
+"13 años",
+"16 años",
+"18"
+],
+"correctAnswer": [
+"10 dias"
+]
+},
+{
+"id": "134",
+"question": "Defina ESTACION DEL SERVICIO DE RADIOAFICIONADO",
+"type": "reglamentacion",
+"answers": [
+"13 años",
+"16 años",
+"18"
+],
+"correctAnswer": [
+"Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados. La misma podrá ser “Fija”,  instalada en un domicilio, o cuando no tenga capacidad de trasladarse mientras se  encuentra en operación; “Móvil”, instalada y con capacidad de operación en un vehículo  terrestre, marítimo o aéreo; 'Móvil de mano', cuando sea transportable manualmente,  con fuente de alimentación autónoma y antena incorporada, con capacidad de  operación."
 ]
 }
 

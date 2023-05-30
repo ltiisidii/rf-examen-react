@@ -1406,18 +1406,6 @@
 },
 {
 "id": "118",
-"question": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4=4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Que corriente circulara por R1?",
-"type": "tecnica",
-"answers": [
-"El receptor tiene la capacidad de evitar las interferencias de estaciones potentes y cercanas a la frecuencia de trabajo",
-"El receptor tiene la capacidad de escuchar las señales muy debiles",
-"El receptor tiene la capacidad de escuchar señales muy fuertes",
-"El receptor tiene la capacidad de bloquear las señales muy debiles"
-],
-"correctAnswer": "El receptor tiene la capacidad de evitar las interferencias de estaciones potentes y cercanas a la frecuencia de trabajo"
-},
-{
-"id": "119",
 "question": "Que simboliza la flecha en un transistor tipo PNP?",
 "type": "tecnica",
 "answers": [
@@ -1429,7 +1417,7 @@
 "correctAnswer": "La flecha es el emisor y apunta hacia adentro del circuito"
 },
 {
-"id": "120",
+"id": "119",
 "question": "Que significa la sigla ALC",
 "type": "tecnica",
 "answers": [
@@ -1441,7 +1429,7 @@
 "correctAnswer": "Control automatico de nivel"
 },
 {
-"id": "121",
+"id": "120",
 "question": "Una antena vertical de 1/4 de onda para la frecuencia de 146 MHz. deberá tener una longitud aproximada de:",
 "type": "tecnica",
 "answers": [
@@ -1453,7 +1441,7 @@
 "correctAnswer": "48,8 cm"
 },
 {
-"id": "122",
+"id": "121",
 "question": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4= 4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. Cual sera la tension aplicada sobre R4?",
 "type": "tecnica",
 "answers": [
@@ -1463,6 +1451,90 @@
 "6 V"
 ],
 "correctAnswer": "12 V"
+},
+{
+"id": "122",
+"question": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4=4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Que corriente circulara por R2?",
+"type": "tecnica",
+"answers": [
+"1200 mA",
+"120 mA",
+"12 mA",
+"1,2 mA"
+],
+"correctAnswer": "1200 mA"
+},
+{
+"id": "123",
+"question": "Enuncie la ley de Ohm",
+"type": "tecnica",
+"answers": [
+"1200 mA",
+"120 mA",
+"12 mA",
+"1,2 mA"
+],
+"correctAnswer": "La intensidad de una corriente electrica es inversamente proporcional al cuadrado de la diferencia de potencial y directamente proporcional a su resistencia"
+},
+{
+"id": "124",
+"question": "Los 'Handies' bibanda utilizados por los radioaficionados, en que clase de emision emiten?",
+"type": "tecnica",
+"answers": [
+"F3E",
+"A3E",
+"J3E",
+"J2D"
+],
+"correctAnswer": "F3E"
+},
+{
+"id": "125",
+"question": "El cable coaxil RG-8-U y el RG-213U tienen una imperancia caracteristica de:",
+"type": "tecnica",
+"answers": [
+"Aproximadamente 50 ohms",
+"Aproximadamente 75 ohms",
+"Aproximadamente 300 ohms",
+"Aproximadamente 600 ohms"
+],
+"correctAnswer": "Aproximadamente 50 ohms"
+},
+{
+"id": "126",
+"question": "Si se conectan en paralelo uan resistencia de 500 ohms con otra de 1200 ohms. Cual es la resistencia total del circuito?",
+"type": "tecnica",
+"answers": [
+"353 ohms",
+"500 ohms",
+"700 ohms",
+"1700 ohms"
+],
+"correctAnswer": "353 ohms"
+},
+{
+"id": "127",
+"question": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4=4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Que corriente circulara por R4?",
+"type": "tecnica",
+"answers": [
+"2,55 mA",
+"25,53 mA",
+"255,31 mA",
+"2,55 A"
+],
+"correctAnswer": "2,55 mA"
+},
+{
+"id": "128",
+"question": "En clase de emision A1A:",
+"type": "tecnica",
+"answers": [
+"La portadora se modula con el microfono",
+"Se trasnsmite portadora al ritmo que marca el manipulador",
+"El manipulador corta la alimentacion del amplificador lineal",
+"Se transmiten tres tonos para modular en amplitud la portadora"
+],
+"correctAnswer": "Se transmite la portadora al ritmo que marca el manipulador"
 }
 
 ]

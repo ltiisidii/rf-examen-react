@@ -103,7 +103,7 @@
 {
 "id": "21",
 "title": "Defina “ESTACIóN DEL SERVICIO DE RADIOAFICIONADO POR SATÉLITE”:",
-"content": "Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados por Satélite. La misma podrá ser “Terrena”, situada en la superficie de la Tierra, con sus variantes “Fija” y “Móvil”, o “Espacial”, situada a bordo de satélites artificiales cuyo cuerpo de referencia es la Tierra."
+"content": "Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados por Satélite. La misma podrá ser “Terrena”, situada en la superficie de la Tierra, con sus variantes “Fija” y “Móvil”, o “Espacial”, situada a bordo de satélites artificiales cuyo cuerpo de referencia es la Tierra"
 },
 {
 "id": "22",
@@ -607,7 +607,7 @@
 {
 "id": "120",
 "title": "Se puede tener dos o mas Señales Distintivas Especiales vigentes al mismo tiempo?",
-"content": "LU/LW"
+"content": "No"
 },
 {
 "id": "121",
@@ -617,7 +617,7 @@
 {
 "id": "122",
 "title": "La estacion Repetidora tiene que estar autorizada ante la Autoridad de Aplicacion?",
-"content": "Los que pertenecen a algun pais signatario del IARP"
+"content": "Si"
 },
 {
 "id": "123",
@@ -628,6 +628,56 @@
 "id": "124",
 "title": "En caso que el Radioaficionado posea mas de una estacion fija, es necesario declararlas a todas?",
 "content": "Si"
+},
+{
+"id": "125",
+"title": "Defina CONCURSO",
+"content": "Evento nacional y/o internacional en donde se ponen a prueb las habilidades de los Radioaficionados. Sus bases y condiciones son informadas mediante los boletines y revistas de los Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas"
+},
+{
+"id": "126",
+"title": "La autorizacion del Radio Club, Institucion Autorizada o Institucion Reconocida al Instructor a distancia debera estar plasmada en el Libro de Actas (con validez expresamente detallada)?",
+"content": "Si"
+},
+{
+"id": "127",
+"title": "Cual es la sigla del PERMISO INTERNACIONAL DE RADIOAFICIONADOS?",
+"content": "I.A.R.P."
+},
+{
+"id": "128",
+"title": "El instructor designado por el Radio Club, Institucion Autorizada o Institucion Reconocida, debe estar registrado en el Libro de Actas y debe dar fe por medio de un certificado que el aspirante cumplio con los requisitos solicitados durante la practica operativa?",
+"content": "Si"
+},
+{
+"id": "129",
+"title": "Las practicas operativas destinadas a recepcion deben cumplirse por cuantas horas?",
+"content": "6 hs"
+},
+{
+"id": "130",
+"title": "Se podra rendir examen en condicion de libre, sin realizar cursos en Radio Clubes e Instituciones Autorizadas?",
+"content": "Si"
+},
+{
+"id": "131",
+"title": "Cual es el plazo en que un radioaficionado debera desinstalar en su totalidad las estaciones radioelectricas y/o Repetidoras que pudiera poseer instaladas, ante la cancelacion de su licencia?",
+"content": "10 dias"
+},
+{
+"id": "132",
+"title": "Cuando se solicita la baja de una Estacion Repetidora, se deben desmantelar las instalaciones radioelectricas?",
+"content": "Siempre"
+},
+{
+"id": "133",
+"title": "Cual es la edad minima para la categoria General",
+"content": "13 años"
+},
+{
+"id": "134",
+"title": "Defina ESTACION DEL SERVICIO DE RADIOAFICIONADO",
+"content": "Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados. La misma podrá ser “Fija”,  instalada en un domicilio, o cuando no tenga capacidad de trasladarse mientras se  encuentra en operación; “Móvil”, instalada y con capacidad de operación en un vehículo  terrestre, marítimo o aéreo; 'Móvil de mano', cuando sea transportable manualmente,  con fuente de alimentación autónoma y antena incorporada, con capacidad de  operación."
 }
 ]
 

@@ -599,5 +599,45 @@
 "id": "118",
 "title": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4= 4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. Cual sera la tension aplicada sobre R4?",
 "content": "12 V"
+},
+{
+"id": "119",
+"title": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4=4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Que corriente circulara por R2?",
+"content": "1200 mA"
+},
+{
+"id": "120",
+"title": "Enuncie la ley de ohm",
+"content": "La intensidad de una corriente electrica es inversamente proporcional al cuadrado de la diferencia de potencial y directamente proporcional a su resistencia"
+},
+{
+"id": "121",
+"title": "Los 'Handies' bibanda utilizados por los radioaficionados, en que clase de emision emiten?",
+"content": "F3E"
+},
+{
+"id": "122",
+"title": "Que antena tiene mas ganancia en estaciones VHF moviles?",
+"content": "5/8 de onda"
+},
+{
+"id": "123",
+"title": "El cable coaxil RG-8-U y el RG-213U tienen una imperancia caracteristica de:",
+"content": "Aproximadamente 50 ohms"
+},
+{
+"id": "124",
+"title": "Si se conectan en paralelo uan resistencia de 500 ohms con otra de 1200 ohms. Cual es la resistencia total del circuito?",
+"content": "353 ohms"
+},
+{
+"id": "125",
+"title": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4=4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Que corriente circulara por R4?",
+"content": "353 ohms"
+},
+{
+"id": "126",
+"title": "En clase de emision A1A:",
+"content": "Se transmite la portadora al ritmo que marca el manipulador"
 }
 ]
