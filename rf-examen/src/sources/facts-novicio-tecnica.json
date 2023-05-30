@@ -649,5 +649,20 @@
 "id": "128",
 "title": "El ancho de banda de una emision de F3E banda angosta, habitual en la banda de 2 mts es:",
 "content": "Aprox 16 Khz"
+},
+{
+"id": "129",
+"title": "Las señales emitidas en la banda de 80 m:",
+"content": "Aprox 16 Khz"
+},
+{
+"id": "130",
+"title": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4= 4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. Cual sera la potencia disipada por la resistencia R1?",
+"content": "2,88 Vatios"
+},
+{
+"id": "131",
+"title": "El ancho de banda ocupado por una emision J3E aproximadamente es:",
+"content": "Aprox 3 Khz"
 }
 ]

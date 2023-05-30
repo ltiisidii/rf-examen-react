@@ -1847,5 +1847,18 @@
 "correctAnswer": [
 "25 W"
 ]
+},
+{
+"id": "137",
+"question": "A los fines del Reglamento vigente en la Republica Argentina, los terminos AFICIONADOS, y AFICIONADOS POR SATELITE. Son considerados equivalentes a radioaficionados y radioaficionados por satelite, respectivamente?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"Si"
+]
 }
+
 ]

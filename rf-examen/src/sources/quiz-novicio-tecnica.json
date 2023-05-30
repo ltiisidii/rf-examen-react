@@ -1546,7 +1546,7 @@
 "Las respuestas a) y b) son correctas",
 "La banda de 80 mts no ofrece posibilidades de comunicarse con la Antartida"
 ],
-"correctAnswer": ""
+"correctAnswer": "En invierno y a la media noche"
 },
 {
 "id": "130",
@@ -1559,6 +1559,42 @@
 "Aprox 3 Khz"
 ],
 "correctAnswer": ""
+},
+{
+"id": "131",
+"question": "Las señales emitidas en la banda de 80 m:",
+"type": "tecnica",
+"answers": [
+"No llegan a refractarse y escapan de la atmosfera",
+"Se absorben en la capa ionosferica D durante el mediodia",
+"Solo permiten comunicaciones seguras a mas de 500 Km debido a la zona de silencio",
+"Solo permiten comunicaciones seguras a mas de 2000 Km. Debido a la zona de silencio"
+],
+"correctAnswer": ""
+},
+{
+"id": "132",
+"question": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4= 4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. Cual sera la potencia disipada por la resistencia R1?",
+"type": "tecnica",
+"answers": [
+"2,88 Vatios",
+"1,44 Vatios",
+"0,72 Vatios",
+"0,36 Vatios"
+],
+"correctAnswer": "2,88 Vatios"
+},
+{
+"id": "133",
+"question": "El ancho de banda ocupado por una emision J3E aproximadamente es:",
+"type": "tecnica",
+"answers": [
+"Aprox 3 Khz",
+"Aprox 6 Khz",
+"Aprox 16 Khz",
+"Aprox 1,5 Khz"
+],
+"correctAnswer": "Aprox 3 Khz"
 }
 
 ]

@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import { Box, Button, Input } from "@chakra-ui/react";
 import wordsData from '../sources/wordsData.json';
 import './MorseSimulator.css';
+import imagen1 from './images/imagen1.png';
+import imagen2 from './images/imagen2.png';
 
 const MorseSimulator = () => {
   const [morseWords] = useState(wordsData);
@@ -53,6 +55,10 @@ const MorseSimulator = () => {
   return (
     <Box className="container">
       <Box>
+        <div style={{ display: 'flex', justifyContent: 'center', flexDirection: 'column', alignItems: 'center' }}>
+          <img src={imagen1} alt="Descripción de la imagen" />
+          <img src={imagen2} alt="Descripción de la imagen" />
+        </div>
         <h1>Morse Simulator</h1>
         {morseWords.map((wordObj, index) => (
           <Box key={index}>
