@@ -1773,8 +1773,11 @@
 "question": "Cual es el plazo en que un radioaficionado debera desinstalar en su totalidad las estaciones radioelectricas y/o Repetidoras que pudiera poseer instaladas, ante la cancelacion de su licencia?",
 "type": "reglamentacion",
 "answers": [
-"Si",
-"No"
+"10 dias",
+"30 dias",
+"90 dias",
+"1 año",
+"Sin plazo, ante requerimiento de la Autoridad de Aplicacion"
 ],
 "correctAnswer": [
 "10 dias"
@@ -1790,7 +1793,7 @@
 "Nunca"
 ],
 "correctAnswer": [
-"10 dias"
+"Siempre"
 ]
 },
 {
@@ -1800,7 +1803,7 @@
 "answers": [
 "13 años",
 "16 años",
-"18"
+"18 años"
 ],
 "correctAnswer": [
 "10 dias"
@@ -1811,12 +1814,12 @@
 "question": "Defina ESTACION DEL SERVICIO DE RADIOAFICIONADO",
 "type": "reglamentacion",
 "answers": [
-"13 años",
-"16 años",
-"18 años"
+"Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados. La misma podrá ser “Fija”,  instalada en un domicilio, o cuando no tenga capacidad de trasladarse mientras se  encuentra en operación; “Móvil”, instalada y con capacidad de operación en un vehículo  terrestre, marítimo o aéreo; 'Móvil de mano', cuando sea transportable manualmente,  con fuente de alimentación autónoma y antena incorporada, con capacidad de  operación",
+"Estación fija, destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados y abierta al tráfico general de los mismos, caracterizada por la señal distintiva del titular de la estación, posición geográfica, subtono  y frecuencia asignada",
+"Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados por Satélite. La misma podrá  ser “Terrena”, situada en la superficie de la Tierra, con sus variantes “Fija” y “Móvil”, o  “Espacial”, situada a bordo de satélites artificiales cuyo cuerpo de referencia es la  Tierra"
 ],
 "correctAnswer": [
-"Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados. La misma podrá ser “Fija”,  instalada en un domicilio, o cuando no tenga capacidad de trasladarse mientras se  encuentra en operación; “Móvil”, instalada y con capacidad de operación en un vehículo  terrestre, marítimo o aéreo; 'Móvil de mano', cuando sea transportable manualmente,  con fuente de alimentación autónoma y antena incorporada, con capacidad de  operación."
+"Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados. La misma podrá ser “Fija”,  instalada en un domicilio, o cuando no tenga capacidad de trasladarse mientras se  encuentra en operación; “Móvil”, instalada y con capacidad de operación en un vehículo  terrestre, marítimo o aéreo; 'Móvil de mano', cuando sea transportable manualmente,  con fuente de alimentación autónoma y antena incorporada, con capacidad de  operación"
 ]
 },
 {
