@@ -192,7 +192,7 @@
 },
 {
 "id": "39",
-"title": "En clase de emisión F3E :",
+"title": "En clase de emisión F3E:",
 "content": "La señal de micrófono hace variar la frecuencia de la portadora."
 },
 {
@@ -633,11 +633,21 @@
 {
 "id": "125",
 "title": "Se dispone de cuatro resistencias (R1= 50 ohms, R2= 10 ohms, R3= 120 ohms y R4=4700 ohms) conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Que corriente circulara por R4?",
-"content": "353 ohms"
+"content": "2,55 mA"
 },
 {
 "id": "126",
 "title": "En clase de emision A1A:",
 "content": "Se transmite la portadora al ritmo que marca el manipulador"
+},
+{
+"id": "127",
+"title": "La banda de 80 mts ofrece razonables posibilidades de comunicarse con la Antartida:",
+"content": "En invierno y a la media noche"
+},
+{
+"id": "128",
+"title": "El ancho de banda de una emision de F3E banda angosta, habitual en la banda de 2 mts es:",
+"content": "Aprox 16 Khz"
 }
 ]

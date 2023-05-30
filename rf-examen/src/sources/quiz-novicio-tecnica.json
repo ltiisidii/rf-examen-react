@@ -458,7 +458,7 @@
 },
 {
 "id": "39",
-"question": "En clase de emisión F3E :",
+"question": "En clase de emisión F3E:",
 "type": "tecnica",
 "answers": [
 "La portadora varía su amplitud con la señal de micrófono",
@@ -1535,6 +1535,30 @@
 "Se transmiten tres tonos para modular en amplitud la portadora"
 ],
 "correctAnswer": "Se transmite la portadora al ritmo que marca el manipulador"
+},
+{
+"id": "129",
+"question": "La banda de 80 mts ofrece razonables posibilidades de comunicarse con la Antartida:",
+"type": "tecnica",
+"answers": [
+"En invierno y a la media noche",
+"En cualquier epoca del año al mediodia",
+"Las respuestas a) y b) son correctas",
+"La banda de 80 mts no ofrece posibilidades de comunicarse con la Antartida"
+],
+"correctAnswer": ""
+},
+{
+"id": "130",
+"question": "El ancho de banda de una emision de F3E banda angosta, habitual en la banda de 2 mts es:",
+"type": "tecnica",
+"answers": [
+"Aprox 5 Khz",
+"Aprox 16 Khz",
+"Aprox 25 Khz",
+"Aprox 3 Khz"
+],
+"correctAnswer": ""
 }
 
 ]

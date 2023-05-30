@@ -1813,11 +1813,36 @@
 "answers": [
 "13 años",
 "16 años",
-"18"
+"18 años"
 ],
 "correctAnswer": [
 "Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados. La misma podrá ser “Fija”,  instalada en un domicilio, o cuando no tenga capacidad de trasladarse mientras se  encuentra en operación; “Móvil”, instalada y con capacidad de operación en un vehículo  terrestre, marítimo o aéreo; 'Móvil de mano', cuando sea transportable manualmente,  con fuente de alimentación autónoma y antena incorporada, con capacidad de  operación."
 ]
+},
+{
+"id": "135",
+"question": "Las Instituciones Autorizadas pueden gestionar ante la Autoridad de Aplicacion la documentacion para ingreso y ascenso de categorias de Radioaficionados?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+""
+]
+},
+{
+"id": "136",
+"question": "Cual es la PIRE maxima autorizada para la categoria Novicio en la banda de 60 metros?",
+"type": "reglamentacion",
+"answers": [
+"25 W",
+"100 W",
+"La autorizada para la categoria",
+"No puede emitir en esta banda"
+],
+"correctAnswer": [
+"25 W"
+]
 }
-
 ]

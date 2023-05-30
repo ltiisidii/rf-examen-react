@@ -678,6 +678,16 @@
 "id": "134",
 "title": "Defina ESTACION DEL SERVICIO DE RADIOAFICIONADO",
 "content": "Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados. La misma podrá ser “Fija”,  instalada en un domicilio, o cuando no tenga capacidad de trasladarse mientras se  encuentra en operación; “Móvil”, instalada y con capacidad de operación en un vehículo  terrestre, marítimo o aéreo; 'Móvil de mano', cuando sea transportable manualmente,  con fuente de alimentación autónoma y antena incorporada, con capacidad de  operación."
+},
+{
+"id": "135",
+"title": "Las Instituciones Autorizadas pueden gestionar ante la Autoridad de Aplicacion la documentacion para ingreso y ascenso de categorias de Radioaficionados?",
+"content": ""
+},
+{
+"id": "136",
+"title": "Cual es la PIRE maxima autorizada para la categoria Novicio en la banda de 60 metros?",
+"content": "25 W"
 }
 ]
 
