@@ -1630,23 +1630,11 @@
 "3000 hz",
 "20 Khz"
 ],
-"correctAnswer": "Potenciometro"
-},
-{
-"id": "137",
-"question": "Para fonia el ancho del mensaje transmitido es:",
-"type": "tecnica",
-"answers": [
-"50 hz",
-"200 hz",
-"3000 hz",
-"20 Khz"
-],
 "correctAnswer": "3000 hz"
 },
 {
-"id": "138",
-"question": "Definicion de selectividad",
+"id": "137",
+"question": "Definicion de sensibilidad",
 "type": "tecnica",
 "answers": [
 "El receptor tiene la capacidad de evitar las interferencias de estaciones potentes y cercanas a la frecuencia de trabajo",
@@ -1654,10 +1642,10 @@
 "El receptor tiene la capacidad de escuchar las señales muy fuertes",
 "El receptor tiene la capacidad de bloquear las señales muy debiles"
 ],
-"correctAnswer": "3000 hz"
+"correctAnswer": "El receptor tiene la capacidad de escuchar las señales muy debiles"
 },
 {
-"id": "139",
+"id": "138",
 "question": "La propagacion de las ondas de radio por reflexion ionosferica en bandas de HF esta influida principalmente por:",
 "type": "tecnica",
 "answers": [
@@ -1666,7 +1654,7 @@
 "Ninguna de las opciones a) o b)",
 "La posicion planetaria"
 ],
-"correctAnswer": "3000 hz"
+"correctAnswer": "El ciclo de manchas solares"
 }
 
 ]

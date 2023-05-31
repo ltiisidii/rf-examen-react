@@ -678,7 +678,7 @@
 {
 "id": "134",
 "title": "Para fonia el ancho del mensaje transmitido es:",
-"content": ""
+"content": "3000 hz"
 },
 {
 "id": "135",
@@ -688,7 +688,12 @@
 {
 "id": "136",
 "title": "La propagacion de las ondas de radio por reflexion ionosferica en bandas de HF esta influida principalmente por:",
-"content": "3000 V"
+"content": "El ciclo de manchas solares"
+},
+{
+"id": "137",
+"title": "Definicion de sensibilidad",
+"content": "El receptor tiene la capacidad de escuchar las señales muy debiles"
 }
 
 ]
