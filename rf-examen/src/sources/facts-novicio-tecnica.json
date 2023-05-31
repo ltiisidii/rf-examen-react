@@ -677,10 +677,18 @@
 },
 {
 "id": "134",
-"title": "",
+"title": "Para fonia el ancho del mensaje transmitido es:",
 "content": ""
 },
 {
+"id": "135",
+"title": "La corriente que circula por una resistencia de 20 Kohms es de 150 mA, cual es la caida de tension que se provoca en ella?",
+"content": "3000 V"
+},
+{
+"id": "136",
+"title": "La propagacion de las ondas de radio por reflexion ionosferica en bandas de HF esta influida principalmente por:",
+"content": "3000 V"
 }
 
 ]

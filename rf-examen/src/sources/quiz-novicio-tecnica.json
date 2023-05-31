@@ -1622,15 +1622,51 @@
 },
 {
 "id": "136",
-"question": "",
+"question": "Para fonia el ancho del mensaje transmitido es:",
 "type": "tecnica",
 "answers": [
-"142,5/Frecuencia (MHz)",
-"Capacitor",
-"Termistor",
-"Variac"
+"50 hz",
+"200 hz",
+"3000 hz",
+"20 Khz"
 ],
 "correctAnswer": "Potenciometro"
+},
+{
+"id": "137",
+"question": "Para fonia el ancho del mensaje transmitido es:",
+"type": "tecnica",
+"answers": [
+"50 hz",
+"200 hz",
+"3000 hz",
+"20 Khz"
+],
+"correctAnswer": "3000 hz"
+},
+{
+"id": "138",
+"question": "Definicion de selectividad",
+"type": "tecnica",
+"answers": [
+"El receptor tiene la capacidad de evitar las interferencias de estaciones potentes y cercanas a la frecuencia de trabajo",
+"El receptor tiene la capacidad de escuchar las señales muy debiles",
+"El receptor tiene la capacidad de escuchar las señales muy fuertes",
+"El receptor tiene la capacidad de bloquear las señales muy debiles"
+],
+"correctAnswer": "3000 hz"
+},
+{
+"id": "139",
+"question": "La propagacion de las ondas de radio por reflexion ionosferica en bandas de HF esta influida principalmente por:",
+"type": "tecnica",
+"answers": [
+"El ciclo de manchas solares",
+"la meteorologia en el trayecto de la comunicacion",
+"Ninguna de las opciones a) o b)",
+"La posicion planetaria"
+],
+"correctAnswer": "3000 hz"
 }
 
 ]
