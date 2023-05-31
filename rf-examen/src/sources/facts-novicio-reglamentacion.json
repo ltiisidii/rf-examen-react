@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "¿Cuál es el objeto del “Reglamento General de Radioaficionados”?",
-        "content": "Regular la actividad de los Radioaficionados, Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas.. Atribuir y reglamentar el uso de las bandas de frecuencias para el Servicio de Aficionados y el Servicio de Aficionados por Satélite, teniendo en consideración las condiciones de diseño, instalación y operación de estaciones radioeléctricas en sus  respectivas bandas de frecuencias, resultantes de los avances tecnológicos, a fin de  facilitar el acceso y el desarrollo de la actividad."
+        "content": "Regular la actividad de los Radioaficionados, Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas.<br />Atribuir y reglamentar el uso de las bandas de frecuencias para el Servicio de Aficionados y el Servicio de Aficionados por Satélite, teniendo en consideración las condiciones de diseño, instalación y operación de estaciones radioeléctricas en sus  respectivas bandas de frecuencias, resultantes de los avances tecnológicos, a fin de  facilitar el acceso y el desarrollo de la actividad."
     },
     {
         "id": "2",
@@ -222,7 +222,7 @@
     {
         "id": "45",
         "title": "¿De acuerdo al documento “ética y Procedimientos Operativos para el Radioaficionado” de IARU, cuáles son los principios básicos que rigen el Código de Conducta del Radioaficionado?",
-        "content": "Sentido social y espíritu fraternal.. Comprensión.. Buenos modales.. Tolerancia."
+        "content": "Sentido social y espíritu fraternal.<br />Comprensión.<br />Buenos modales.<br />Tolerancia."
     },
     {
         "id": "46",
@@ -237,7 +237,7 @@
     {
         "id": "48",
         "title": "Son facultades de la Autoridad de Aplicación:",
-        "content": "Limitar, denegar, suspender o cancelar la licencia de Radioaficionado.. Asignar o modificar las señales distintivas."
+        "content": "Limitar, denegar, suspender o cancelar la licencia de Radioaficionado.<br />Asignar o modificar las señales distintivas."
     },
     {
         "id": "49",
@@ -282,7 +282,7 @@
     {
         "id": "57",
         "title": "¿Qué categoría debe tener el Radioaficionado a cargo de la filial?",
-        "content": "General. Superior"
+        "content": "General<br />Superior"
     },
     {
         "id": "58",
@@ -322,12 +322,12 @@
     {
         "id": "65",
         "title": "Identifique las categorías de radioaficionados de acuerdo a la nueva reglamentación:",
-        "content": "Novicio. General. Superior. Especial"
+        "content": "Novicio<br />General<br />Superior<br />Especial"
     },
     {
         "id": "66",
         "title": "¿Quién tramita ante el ENACOM?",
-        "content": "Radio Clubes. Instituciones Autorizadas"
+        "content": "Radio Clubes<br />Instituciones Autorizadas"
     },
     {
         "id": "67",
@@ -457,7 +457,7 @@
     {
         "id": "92",
         "title": "¿Quiénes podrán solicitar Señales Distintivas Especiales?",
-        "content": "Radioaficionados categoría General o Superior.. Radio Clubes, Instituciones Autorizadas, Instituciones Reconocidas."
+        "content": "Radioaficionados categoría General o Superior.<br />Radio Clubes, Instituciones Autorizadas, Instituciones Reconocidas."
     },
     {
         "id": "93",
@@ -467,7 +467,7 @@
     {
         "id": "94",
         "title": "¿Cuáles son las condiciones que deberá acreditar el Radioaficionado para solicitar una Señal Distintiva Especial?",
-        "content": "Haber participado en tres concursos distintos con su señal distintiva propia.. Haber realizado en cada uno de ellos un mínimo de 500 contactos."
+        "content": "Haber participado en tres concursos distintos con su señal distintiva propia.<br />Haber realizado en cada uno de ellos un mínimo de 500 contactos."
     },
     {
         "id": "95",
@@ -572,7 +572,7 @@
     {
         "id": "115",
         "title": "¿Ante qué casos caducará la autorización de una Estación Repetidora?",
-        "content": "No haber informado dentro de los 15 días corridos, el inicio de su operación.. Inactividad comprobada en un período mayor a los 60 días corridos. No haber renovado la licencia del titular o la autorización de la Estación Repetidora en el período estipulado en el Reglamento vigente."
+        "content": "No haber informado dentro de los 15 días corridos, el inicio de su operación.<br />Inactividad comprobada en un período mayor a los 60 días corridos<br />No haber renovado la licencia del titular o la autorización de la Estación Repetidora en el período estipulado en el Reglamento vigente."
     },
     {
         "id": "116",
@@ -622,7 +622,7 @@
     {
         "id": "125",
         "title": "¿Quiénes podrán dictar cursos y/o tomar examen para ingreso y ascenso de categoría?",
-        "content": "Radio Clubes.. Instituciones Autorizadas."
+        "content": "Radio Clubes.<br />Instituciones Autorizadas."
     },
     {
         "id": "126",
@@ -637,7 +637,7 @@
     {
         "id": "128",
         "title": "¿Quiénes están autorizados a dar prácticas operativas?",
-        "content": "Radio Clubes.. Instituciones Autorizadas.. Instituciones Reconocidas."
+        "content": "Radio Clubes.<br />Instituciones Autorizadas.<br />Instituciones Reconocidas."
     },
     {
         "id": "129",
@@ -677,7 +677,7 @@
     {
         "id": "136",
         "title": "¿Cuáles son las funciones de Instructor?",
-        "content": "Dictar cursos.. Tomar exámenes.. Coordinar las prácticas operativas."
+        "content": "Dictar cursos.<br />Tomar exámenes.<br />Coordinar las prácticas operativas."
     },
     {
         "id": "137",
@@ -697,7 +697,7 @@
     {
         "id": "140",
         "title": "Ante un requerimiento de una Institución Autorizada a un Radio Club para formar parte de la mesa examinadora, el Radio Club debe designar a un radioaficionado de categoría mínima:",
-        "content": "General. Superior"
+        "content": "General<br />Superior"
     },
     {
         "id": "141",
@@ -732,12 +732,12 @@
     {
         "id": "147",
         "title": "En el Libro de Guardia se deberá consignar:",
-        "content": "Fecha, hora de comienzo y finalización del comunicado.. Clase de emisión empleada.. Señal distintiva de la estación corresponsal."
+        "content": "Fecha, hora de comienzo y finalización del comunicado.<br />Clase de emisión empleada.<br />Señal distintiva de la estación corresponsal."
     },
     {
         "id": "148",
         "title": "¿Cuál es la función de un veedor?",
-        "content": "Firmar el acta de examen.. Firmar el certificado de aprobación de examen."
+        "content": "Firmar el acta de examen.<br />Firmar el certificado de aprobación de examen."
     },
     {
         "id": "149",
@@ -752,27 +752,27 @@
     {
         "id": "151",
         "title": "Se consideran infracciones de carácter general:",
-        "content": "Operar la estación sin licencia vigente.. Comunicar con estaciones no autorizadas.. Referirse a temas de índole política, religiosa o racial.. Transmitir música."
+        "content": "Operar la estación sin licencia vigente.<br />Comunicar con estaciones no autorizadas.<br />Referirse a temas de índole política, religiosa o racial.<br />Transmitir música."
     },
     {
         "id": "152",
         "title": "Se consideran infracciones de identificación:",
-        "content": "Identificarse con una señal distintiva perteneciente a otro Radioaficionado.. Omitir mencionar junto con la señal distintiva de la estación móvil, el lugar geográfico de su actual ubicación.. Utilizar una Señal Distintiva Especial vencida o no autorizada por la Autoridad de Aplicación.. Omitir mencionar que se está operando en “Practica Operativa” cuando corresponda."
+        "content": "Identificarse con una señal distintiva perteneciente a otro Radioaficionado.<br />Omitir mencionar junto con la señal distintiva de la estación móvil, el lugar geográfico de su actual ubicación.<br />Utilizar una Señal Distintiva Especial vencida o no autorizada por la Autoridad de Aplicación.<br />Omitir mencionar que se está operando en “Practica Operativa” cuando corresponda."
     },
     {
         "id": "153",
         "title": "Se consideran infracciones operativas:",
-        "content": "Transmitir en frecuencia y/o potencia no autorizada para la categoría.. Transmitir textos encriptados.. Realizar o participar en concursos de Radioaficionados sobre frecuencias no autorizadas al efecto."
+        "content": "Transmitir en frecuencia y/o potencia no autorizada para la categoría.<br />Transmitir textos encriptados.<br />Realizar o participar en concursos de Radioaficionados sobre frecuencias no autorizadas al efecto."
     },
     {
         "id": "154",
         "title": "Se consideran infracciones relativas a Estaciones Repetidoras:",
-        "content": "No contar con dispositivos de identificación.. Utilizar frecuencias diferentes a las autorizadas.. Entrelazar Estaciones Repetidoras sin la autorización correspondiente."
+        "content": "No contar con dispositivos de identificación.<br />Utilizar frecuencias diferentes a las autorizadas.<br />Entrelazar Estaciones Repetidoras sin la autorización correspondiente."
     },
     {
         "id": "155",
         "title": "Se consideran infracciones relativas a Radiobalizas:",
-        "content": "Operar una Radiobaliza no notificada a la Autoridad de Aplicación.. Emitir simultáneamente más de una Radiobaliza en la misma banda y desde el mismo emplazamiento.. Operar con potencias superiores a las autorizadas en el Reglamento."
+        "content": "Operar una Radiobaliza no notificada a la Autoridad de Aplicación.<br />Emitir simultáneamente más de una Radiobaliza en la misma banda y desde el mismo emplazamiento.<br />Operar con potencias superiores a las autorizadas en el Reglamento."
     },
     {
         "id": "156",
@@ -807,7 +807,7 @@
     {
         "id": "162",
         "title": "¿A qué modo de emisión corresponde la clase J2D?",
-        "content": "PACKET.. APRS."
+        "content": "PACKET.<br />APRS."
     },
     {
         "id": "163",
@@ -842,12 +842,12 @@
     {
         "id": "169",
         "title": "¿En cuál de las siguientes bandas de frecuencias puede operar un Radioaficionado de categoría Novicio?",
-        "content": "60 metros.. 70 centímetros."
+        "content": "60 metros.<br />70 centímetros."
     },
     {
         "id": "170",
         "title": "¿En cuál de las siguientes frecuencias puede operar un Radioaficionado de categoría Novicio?",
-        "content": "146000 kHz.. 3550 kHz."
+        "content": "146000 kHz.<br />3550 kHz."
     },
     {
         "id": "171",
