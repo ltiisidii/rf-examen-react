@@ -1595,6 +1595,42 @@
 "Aprox 1,5 Khz"
 ],
 "correctAnswer": "Aprox 3 Khz"
+},
+{
+"id": "134",
+"question": "Si los extremos de un dipolo de media onda horizontal señalan al Este y al Oeste, en que direccion irradia la antena?",
+"type": "tecnica",
+"answers": [
+"Fundamentalmente de Norte a Sur",
+"Fundamentalmente de Este a Oeste",
+"Fundamentalmente de arriba hacia abajo",
+"En todas las direcciones por ser omnidireccional"
+],
+"correctAnswer": "Fundamentalmente de Norte a Sur"
+},
+{
+"id": "135",
+"question": "Un resistor variable es llamado?",
+"type": "tecnica",
+"answers": [
+"Potenciometro",
+"Capacitor",
+"Termistor",
+"Variac"
+],
+"correctAnswer": "Potenciometro"
+},
+{
+"id": "136",
+"question": "",
+"type": "tecnica",
+"answers": [
+"142,5/Frecuencia (MHz)",
+"Capacitor",
+"Termistor",
+"Variac"
+],
+"correctAnswer": "Potenciometro"
 }
 
 ]

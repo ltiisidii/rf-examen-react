@@ -1859,6 +1859,71 @@
 "correctAnswer": [
 "Si"
 ]
+},
+{
+"id": "138",
+"question": "Defina PERMISO INTERNACIONAL DE RADIOAFICIONADOS",
+"type": "reglamentacion",
+"answers": [
+"Autorizacion extendida por la Autoridad de Aplicacion de acuerdo con lo previsto en la Ley 24730 y la Resolucion 3745 SC/1997",
+"Autorizacion extendida por la Autoridad de Aplicacion de acuerdo con lo previsto en la Resolucion SC 50/1998"
+],
+"correctAnswer": [
+"Autorizacion extendida por la Autoridad de Aplicacion de acuerdo con lo previsto en la Ley 24730 y la Resolucion 3745 SC/1997"
+]
+},
+{
+"id": "139",
+"question": "Por cuanto tiempo queda reservada la señal distintiva por fallecimiento del titular?",
+"type": "reglamentacion",
+"answers": [
+"2 años",
+"1 año",
+"5 años"
+],
+"correctAnswer": [
+"2 años"
+]
+},
+{
+"id": "140",
+"question": "Como debe identificarse el Radioaficionado cuando opere en forma personal la estacion de Radio Club?",
+"type": "reglamentacion",
+"answers": [
+"Señal distintiva del Radio Club y señal distintiva propia",
+"Señal distintiva propia y señal distintiva del Radio Club",
+"Señal distintiva propia",
+"Señal distintiva del Radio Club"
+],
+"correctAnswer": [
+"Señal distintiva del Radio Club y señal distintiva propia"
+]
+},
+{
+"id": "141",
+"question": "En caso de transladar una estacion fija por un periodo mayor a 120 dias corridos, se debera solicitar el cambio de domicilio de emplazamiento?",
+"type": "reglamentacion",
+"answers": [
+"Si",
+"No"
+],
+"correctAnswer": [
+"Si"
+]
+},
+{
+"id": "142",
+"question": "En el momento en que un Radioaficionado tramita y obtiene su licencia de radioaficionado, que ocurre con su Certificado de Radioescucha?",
+"type": "reglamentacion",
+"answers": [
+"Continua teniendo vigencia",
+"Automaticamente queda dado de baja",
+"Le sera requerido para el ascenso de categoria",
+"Ninguna es correcta"
+],
+"correctAnswer": [
+"Continua teniendo vigencia"
+]
 }
 
 ]
