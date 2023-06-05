@@ -4,6 +4,7 @@ import wordsData from '../sources/wordsData.json';
 import './MorseSimulator.css';
 import imagen1 from './images/imagen1.png';
 import imagen2 from './images/imagen2.png';
+import imagen3 from './images/imagen3.jpg';
 
 const MorseSimulator = () => {
   const [morseWords] = useState(wordsData);
@@ -58,6 +59,7 @@ const MorseSimulator = () => {
         <div style={{ display: 'flex', justifyContent: 'center', flexDirection: 'column', alignItems: 'center' }}>
           <img src={imagen1} alt="Descripción de la imagen" />
           <img src={imagen2} alt="Descripción de la imagen" />
+          <img src={imagen3} alt="Descripción de la imagen" />
         </div>
         <h1>Morse Simulator</h1>
         {morseWords.map((wordObj, index) => (
