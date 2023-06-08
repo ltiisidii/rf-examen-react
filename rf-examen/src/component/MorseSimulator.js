@@ -5,6 +5,7 @@ import './MorseSimulator.css';
 import imagen1 from './images/imagen1.png';
 import imagen2 from './images/imagen2.png';
 import imagen3 from './images/imagen3.jpg';
+import imagen4 from './images/morse-with-images.png';
 
 const MorseSimulator = () => {
   const [morseWords] = useState(wordsData);
@@ -60,6 +61,7 @@ const MorseSimulator = () => {
           <img src={imagen1} alt="Descripción de la imagen" />
           <img src={imagen2} alt="Descripción de la imagen" />
           <img src={imagen3} alt="Descripción de la imagen" />
+          <img src={imagen4} alt="Descripción de la imagen" />
         </div>
         <h1>Morse Simulator</h1>
         {morseWords.map((wordObj, index) => (
