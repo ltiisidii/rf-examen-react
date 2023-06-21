@@ -6,6 +6,7 @@ import imagen1 from './images/imagen1.png';
 import imagen2 from './images/imagen2.png';
 import imagen3 from './images/imagen3.jpg';
 import imagen4 from './images/morse-with-images.png';
+import imagen5 from './images/imagen5.jpg';
 
 const MorseSimulator = () => {
   const [morseWords] = useState(wordsData);
@@ -57,8 +58,10 @@ const MorseSimulator = () => {
   return (
     <Box className="container">
       <Box>
+
         <div style={{ display: 'flex', justifyContent: 'center', flexDirection: 'column', alignItems: 'center' }}>
           <img src={imagen1} alt="Descripción de la imagen" />
+          <img src={imagen5} alt="Descripción de la imagen" />
           <img src={imagen2} alt="Descripción de la imagen" />
           <img src={imagen3} alt="Descripción de la imagen" />
           <img src={imagen4} alt="Descripción de la imagen" />
