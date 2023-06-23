@@ -319,12 +319,6 @@ const MorseCodeConverter = () => {
   );
 };
 
-const tableHeaderStyle = {
-  border: '1px solid #ddd',
-  padding: '8px',
-  textAlign: 'center',
-};
-
 const tableCellStyle = {
   border: '1px solid #ddd',
   padding: '8px',
