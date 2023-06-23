@@ -23,12 +23,18 @@ const MorseCodeConverter = () => {
   const handleOutputChange = (e) => {
     const outputValue = e.target.value;
     setOutput(outputValue);
-
+  
     if (isMorseCode(outputValue)) {
       const convertedText = morseToAscii(outputValue);
       setInput(convertedText);
     } else {
-      setInput(outputValue);
+      const morseCodeFromClipboard = outputValue.match(/[.-\s/]+/g)?.join('');
+      if (morseCodeFromClipboard) {
+        const convertedText = morseToAscii(morseCodeFromClipboard);
+        setInput(convertedText);
+      } else {
+        setInput(outputValue);
+      }
     }
   };
 
