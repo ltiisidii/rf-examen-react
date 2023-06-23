@@ -188,7 +188,7 @@ const MorseCodeConverter = () => {
 
   return (
     <Box p={4} bg="gray.100" display="flex" justifyContent="center" alignItems="center" height="100vh">
-      <VStack spacing={4} align="flex-start">
+      <VStack spacing={4} align="center">
         <Grid templateColumns="repeat(2, 1fr)" gap={4} width="100%">
           <Box>
             <Text>Texto:</Text>
@@ -212,10 +212,125 @@ const MorseCodeConverter = () => {
             <Button onClick={playMorseCode}>Reproducir</Button>
           </Box>
         </Grid>
+
+        {/* Nueva sección para la tabla */}
+        <Box mt={8}>
+        <Text as="h2" fontSize="xl" fontWeight="bold" mb={2} textAlign="center">
+            Alfabeto Morse
+          </Text>
+          <table style={{ borderCollapse: 'collapse' }}>
+            <thead>
+              <tr>
+{/*                 <th style={tableHeaderStyle}>Latino</th>
+                <th style={tableHeaderStyle}>Morse</th>
+                <th style={tableHeaderStyle}>Latino</th>
+                <th style={tableHeaderStyle}>Morse</th>
+                <th style={tableHeaderStyle}>Latino</th>
+                <th style={tableHeaderStyle}>Morse</th> */}
+              </tr>
+            </thead>
+            <tbody>
+              {/* Filas de la tabla */}
+              <tr>
+                <td style={tableCellStyle}><strong>A</strong></td>
+                <td style={tableCellStyle}>.-</td>
+                <td style={tableCellStyle}><strong>B</strong></td>
+                <td style={tableCellStyle}>-...</td>
+                <td style={tableCellStyle}><strong>C</strong></td>
+                <td style={tableCellStyle}>-.-.</td>
+              </tr>
+              <tr>
+                <td style={tableCellStyle}><strong>D</strong></td>
+                <td style={tableCellStyle}>-..</td>
+                <td style={tableCellStyle}><strong>E</strong></td>
+                <td style={tableCellStyle}>.</td>
+                <td style={tableCellStyle}><strong>F</strong></td>
+                <td style={tableCellStyle}>..-.</td>
+              </tr>
+              <tr>
+                <td style={tableCellStyle}><strong>G</strong></td>
+                <td style={tableCellStyle}>--.</td>
+                <td style={tableCellStyle}><strong>H</strong></td>
+                <td style={tableCellStyle}>....</td>
+                <td style={tableCellStyle}><strong>I</strong></td>
+                <td style={tableCellStyle}>..</td>
+              </tr>
+              <tr>
+                <td style={tableCellStyle}><strong>J</strong></td>
+                <td style={tableCellStyle}>.---</td>
+                <td style={tableCellStyle}><strong>K</strong></td>
+                <td style={tableCellStyle}>-.-</td>
+                <td style={tableCellStyle}><strong>L</strong></td>
+                <td style={tableCellStyle}>.-..</td>
+              </tr>
+              <tr>
+                <td style={tableCellStyle}><strong>M</strong></td>
+                <td style={tableCellStyle}>--</td>
+                <td style={tableCellStyle}><strong>N</strong></td>
+                <td style={tableCellStyle}>-</td>
+                <td style={tableCellStyle}><strong>O</strong></td>
+                <td style={tableCellStyle}>---</td>
+              </tr>
+              <tr>
+                <td style={tableCellStyle}><strong>P</strong></td>
+                <td style={tableCellStyle}>.--.</td>
+                <td style={tableCellStyle}><strong>Q</strong></td>
+                <td style={tableCellStyle}>--.-</td>
+                <td style={tableCellStyle}><strong>R</strong></td>
+                <td style={tableCellStyle}>.-.</td>
+              </tr>
+              <tr>
+                <td style={tableCellStyle}><strong>S</strong></td>
+                <td style={tableCellStyle}>...</td>
+                <td style={tableCellStyle}><strong>T</strong></td>
+                <td style={tableCellStyle}>-</td>
+                <td style={tableCellStyle}><strong>U</strong></td>
+                <td style={tableCellStyle}>..-</td>
+              </tr>
+              <tr>
+                <td style={tableCellStyle}><strong>V</strong></td>
+                <td style={tableCellStyle}>...-</td>
+                <td style={tableCellStyle}><strong>W</strong></td>
+                <td style={tableCellStyle}>.--</td>
+                <td style={tableCellStyle}><strong>X</strong></td>
+                <td style={tableCellStyle}>-..-</td>
+              </tr>
+              <tr>
+                <td style={tableCellStyle}><strong>Y</strong></td>
+                <td style={tableCellStyle}>-.--</td>
+                <td style={tableCellStyle}><strong>Z</strong></td>
+                <td style={tableCellStyle}>--..</td>
+                <td style={tableCellStyle}><strong>Á</strong></td>
+                <td style={tableCellStyle}>.-.--</td>
+              </tr>
+              <tr>
+                <td style={tableCellStyle}><strong>É</strong></td>
+                <td style={tableCellStyle}>..-..</td>
+                <td style={tableCellStyle}><strong>Ñ</strong></td>
+                <td style={tableCellStyle}>--.--</td>
+                <td style={tableCellStyle}><strong>Ó</strong></td>
+                <td style={tableCellStyle}>---</td>
+              </tr>
+            </tbody>
+          </table>
+        </Box>
       </VStack>
     </Box>
   );
 };
+
+const tableHeaderStyle = {
+  border: '1px solid #ddd',
+  padding: '8px',
+  textAlign: 'center',
+};
+
+const tableCellStyle = {
+  border: '1px solid #ddd',
+  padding: '8px',
+  textAlign: 'center',
+};
+
 
 ReactDOM.render(<MorseCodeConverter />, document.getElementById('root'));
 
