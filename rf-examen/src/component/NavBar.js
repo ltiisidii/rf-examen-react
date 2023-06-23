@@ -89,8 +89,8 @@ return (
               <MenuItem as={Link} to="/calc-dipolo">
                 Calculadora Dipolo
               </MenuItem>
-              <MenuItem as={Link} to="/calc-dipolo-2">
-                Calculadora 2
+              <MenuItem as={Link} to="/morse-converter">
+                Conversor morse a texto y viceversa
               </MenuItem>
               <MenuItem as={Link} to="/calc-dipolo-3">
                 Calculadora 3

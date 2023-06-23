@@ -12,6 +12,7 @@ import Electronica from './component/Electronica';
 import Bandas from './component/Bandas';
 import CalculatorDipole from './component/Calc-Dipolo'
 import MorseSimulator from './component/MorseSimulator';
+import MorseCodeConverter from './component/MorseCodeConverter';
 import { createRoot } from 'react-dom/client';
 
 const Root = () => {
@@ -31,6 +32,7 @@ const Root = () => {
             <Route path="/electronica" element={<Electronica />} />
             <Route path="/bandas" element={<Bandas />} />
             <Route path="/calc-dipolo" element={<CalculatorDipole />} />
+            <Route path="/morse-converter" element={<MorseCodeConverter />} />
           </Routes>
         </div>
       </Router>
