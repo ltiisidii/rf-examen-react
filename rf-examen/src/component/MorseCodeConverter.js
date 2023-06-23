@@ -11,11 +11,24 @@ const MorseCodeConverter = () => {
     const inputValue = e.target.value;
     setInput(inputValue);
 
-    if (inputValue === '') {
-      setOutput('');
+    if (isMorseCode(inputValue)) {
+      const convertedText = morseToAscii(inputValue);
+      setOutput(convertedText);
     } else {
       const convertedText = asciiToMorse(inputValue);
       setOutput(convertedText);
+    }
+  };
+
+  const handleOutputChange = (e) => {
+    const outputValue = e.target.value;
+    setOutput(outputValue);
+
+    if (isMorseCode(outputValue)) {
+      const convertedText = morseToAscii(outputValue);
+      setInput(convertedText);
+    } else {
+      setInput(outputValue);
     }
   };
 
@@ -24,36 +37,42 @@ const MorseCodeConverter = () => {
       audioContextRef.current = new (window.AudioContext || window.webkitAudioContext)();
     }
 
-    const dotDuration = 100; // Duration of a dot in milliseconds
+    const ditDuration = 80; // Duration of a dit in milliseconds
+    const dahDuration = ditDuration * 3; // Duration of a dah is 3 times the duration of a dit
+    const pauseDuration = ditDuration; // Duration of pause between dits and dahs
     const oscillator = audioContextRef.current.createOscillator();
     const gainNode = audioContextRef.current.createGain();
 
     oscillator.connect(gainNode);
     gainNode.connect(audioContextRef.current.destination);
     oscillator.type = 'sine';
-    oscillator.frequency.value = 440; // Frequency of the tone (A4)
 
     const morseCode = output.replace(/[^.-\s]/g, ''); // Remove non-Morse code characters
+    let currentTime = audioContextRef.current.currentTime;
 
     morseCode.split('').forEach((symbol, index) => {
       if (symbol === '.') {
-        oscillator.frequency.setValueAtTime(440, audioContextRef.current.currentTime + index * dotDuration / 1000);
-        gainNode.gain.setValueAtTime(1, audioContextRef.current.currentTime + index * dotDuration / 1000);
-        gainNode.gain.setValueAtTime(0, audioContextRef.current.currentTime + (index + 1) * dotDuration / 1000);
+        oscillator.frequency.setValueAtTime(600, currentTime);
+        gainNode.gain.setValueAtTime(1, currentTime);
+        currentTime += ditDuration / 1000;
+        gainNode.gain.setValueAtTime(0, currentTime);
+        currentTime += pauseDuration / 1000;
       } else if (symbol === '-') {
-        oscillator.frequency.setValueAtTime(440, audioContextRef.current.currentTime + index * dotDuration / 1000);
-        gainNode.gain.setValueAtTime(1, audioContextRef.current.currentTime + index * dotDuration / 1000);
-        gainNode.gain.setValueAtTime(0, audioContextRef.current.currentTime + (index + 1) * dotDuration / 1000);
+        oscillator.frequency.setValueAtTime(600, currentTime);
+        gainNode.gain.setValueAtTime(1, currentTime);
+        currentTime += dahDuration / 1000;
+        gainNode.gain.setValueAtTime(0, currentTime);
+        currentTime += pauseDuration / 1000;
       } else if (symbol === ' ') {
         // Pause between characters
-        oscillator.frequency.setValueAtTime(0, audioContextRef.current.currentTime + index * dotDuration / 1000);
+        currentTime += pauseDuration / 1000;
       }
     });
 
     oscillator.start();
-    oscillator.stop(audioContextRef.current.currentTime + morseCode.length * dotDuration / 1000);
+    oscillator.stop(currentTime + pauseDuration / 1000);
   };
-  
+
   const asciiToMorse = (ascii) => {
     const asciiToMorseMap = {
       A: '.-',
@@ -94,15 +113,71 @@ const MorseCodeConverter = () => {
       0: '-----',
       ' ': '/',
     };
-  
+
     const words = ascii.toUpperCase().split(' ');
     const convertedWords = words.map((word) => {
       const letters = word.split('');
       const convertedLetters = letters.map((letter) => asciiToMorseMap[letter]);
       return convertedLetters.join(' ');
     });
-  
+
     return convertedWords.join(' / ');
+  };
+
+  const morseToAscii = (morse) => {
+    const morseToAsciiMap = {
+      '.-': 'A',
+      '-...': 'B',
+      '-.-.': 'C',
+      '-..': 'D',
+      '.': 'E',
+      '..-.': 'F',
+      '--.': 'G',
+      '....': 'H',
+      '..': 'I',
+      '.---': 'J',
+      '-.-': 'K',
+      '.-..': 'L',
+      '--': 'M',
+      '-.': 'N',
+      '---': 'O',
+      '.--.': 'P',
+      '--.-': 'Q',
+      '.-.': 'R',
+      '...': 'S',
+      '-': 'T',
+      '..-': 'U',
+      '...-': 'V',
+      '.--': 'W',
+      '-..-': 'X',
+      '-.--': 'Y',
+      '--..': 'Z',
+      '.----': '1',
+      '..---': '2',
+      '...--': '3',
+      '....-': '4',
+      '.....': '5',
+      '-....': '6',
+      '--...': '7',
+      '---..': '8',
+      '----.': '9',
+      '-----': '0',
+      '/': ' ',
+    };
+
+    const words = morse.split('/');
+    const convertedWords = words.map((word) => {
+      const letters = word.trim().split(' ');
+      const convertedLetters = letters.map((letter) => morseToAsciiMap[letter]);
+      return convertedLetters.join('');
+    });
+
+    return convertedWords.join(' ');
+  };
+
+  const isMorseCode = (text) => {
+    const morseCodeRegex = /^[.-\s/]+$/;
+    return morseCodeRegex.test(text);
   };
 
   return (
@@ -120,7 +195,12 @@ const MorseCodeConverter = () => {
           </Box>
           <Box>
             <Text>Morse:</Text>
-            <Input type="text" value={output} readOnly height="9rem"/>
+            <Input
+              type="text"
+              value={output}
+              onChange={handleOutputChange}
+              height="9rem"
+            />
             <Button onClick={playMorseCode}>Reproducir</Button>
           </Box>
         </Grid>
@@ -132,3 +212,4 @@ const MorseCodeConverter = () => {
 ReactDOM.render(<MorseCodeConverter />, document.getElementById('root'));
 
 export default MorseCodeConverter;
+
