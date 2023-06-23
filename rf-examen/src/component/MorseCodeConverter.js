@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import ReactDOM from 'react-dom';
-import { Box, Input, Button, VStack, Text, Grid } from '@chakra-ui/react';
+import { Box, Text, Grid, Textarea, Button, VStack } from '@chakra-ui/react';
 
 const MorseCodeConverter = () => {
   const [input, setInput] = useState('');
@@ -192,20 +192,22 @@ const MorseCodeConverter = () => {
         <Grid templateColumns="repeat(2, 1fr)" gap={4} width="100%">
           <Box>
             <Text>Texto:</Text>
-            <Input
+            <Textarea
               type="text"
               value={input}
               onChange={handleInputChange}
               height="9rem"
+              resize="none"
             />
           </Box>
           <Box>
             <Text>Morse:</Text>
-            <Input
+            <Textarea
               type="text"
               value={output}
               onChange={handleOutputChange}
               height="9rem"
+              resize="none"
             />
             <Button onClick={playMorseCode}>Reproducir</Button>
           </Box>
